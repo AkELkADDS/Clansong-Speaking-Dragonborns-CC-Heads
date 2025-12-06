@@ -1,8 +1,8 @@
-Clawstep - Dragonborn female body
+Clansong - Speaking Dragonborns CC Heads
 
-[ModIO](https://mod.io/g/baldursgate3/m/dragonborn-body-replacer-dragonborn-cc#description)
-[Nexus](https://www.nexusmods.com/baldursgate3/mods/16384?tab=description)
+[ModIO](https://mod.io/g/baldursgate3/m/clansong-speaking-dragonborns-cc-heads#description)
+[Nexus](https://www.nexusmods.com/baldursgate3/mods/19947)
 
-DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a
+DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40
 
 BG3_DATA="E:/El/Games/Steam/steamapps/common/Baldurs Gate 3/Data"
