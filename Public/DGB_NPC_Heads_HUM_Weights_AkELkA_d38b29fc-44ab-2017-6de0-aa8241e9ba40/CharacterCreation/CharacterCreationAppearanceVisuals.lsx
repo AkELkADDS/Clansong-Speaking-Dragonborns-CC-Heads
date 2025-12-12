@@ -5890,6 +5890,26 @@
                     <attribute id="UUID" type="guid" value="415fb5eb-397c-40f6-abca-3a99f96968fe"/>
                     <attribute id="VisualResource" type="guid" value="8351cf04-b944-4220-a6a8-997b511bb57d"/>
                 </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6d6822c2gc6d7g058dgcda7g1d13e21b10f3" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_EL_A_Jaw_CCrwn_GemTopazY"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="34843b0e-24de-4995-91dd-baa4e9c5a845"/>
+                    <attribute id="VisualResource" type="guid" value="8950977c-de6a-41b2-9b93-6ce536405326"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h622f6a87gc1afgbcd7g5435gf9b5be2c5bac" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_EL_A_Jaw_CCrwn_GemTopazY"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="ba9a7be3-2d3f-4d20-bdb4-d504b0e96590"/>
+                    <attribute id="VisualResource" type="guid" value="94bf3b21-d510-4d28-b72f-fce8b19dce34"/>
+                </node>
             </children>
         </node>
     </region>
