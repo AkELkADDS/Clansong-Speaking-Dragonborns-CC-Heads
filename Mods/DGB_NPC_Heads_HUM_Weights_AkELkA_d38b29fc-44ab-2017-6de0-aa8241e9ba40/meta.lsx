@@ -231,14 +231,6 @@
                             <attribute id="UUID" type="guid" value="9f128411-7ff6-51b8-f119-cd9d80ea1291"/>
                             <attribute id="Version64" type="int64" value="36028797018963971"/>
                         </node>
-                        <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409"/>
-                            <attribute id="MD5" type="LSString" value="37b96058984e75d6245aa0182223c669"/>
-                            <attribute id="Name" type="LSString" value="Slayer Assets Rathgor - Dark Urge Dragonborn CC"/>
-                            <attribute id="PublishHandle" type="uint64" value="4456956"/>
-                            <attribute id="UUID" type="guid" value="62a82780-e0a0-ed59-77e6-096d11d38409"/>
-                            <attribute id="Version64" type="int64" value="36028797018963974"/>
-                        </node>
                     </children>
                 </node>
                 <node id="ModuleInfo">
