@@ -168,14 +168,6 @@
                             <attribute id="Version64" type="int64" value="36028797018963981"/>
                         </node>
                         <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a"/>
-                            <attribute id="MD5" type="LSString" value="37b96058984e75d6245aa0182223c669"/>
-                            <attribute id="Name" type="LSString" value="Slayer Assets Pearl - Dark Urge Dragonborn CC"/>
-                            <attribute id="PublishHandle" type="uint64" value="4465847"/>
-                            <attribute id="UUID" type="guid" value="54da0a5b-0160-e27b-ec58-f133648ba55a"/>
-                            <attribute id="Version64" type="int64" value="36028797018963973"/>
-                        </node>
-                        <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c"/>
                             <attribute id="MD5" type="LSString" value="37b96058984e75d6245aa0182223c669"/>
                             <attribute id="Name" type="LSString" value="Reforged Assets Pearl - Dark Urge Dragonborn CC"/>
