@@ -10395,7 +10395,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hc46d379cg1137gc970g665fg54a8d5ccad56" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Chin_Mangled_F_1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Chin_Mangled_1"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="cc4a8dec-73b3-4a34-93a9-11f0a8ed83b7"/>
@@ -10406,7 +10406,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h928e4505gd615g0674gb612gc0d12aaed922" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="7b4426e9-d7b1-4a07-a2f4-ea63b6a159e2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Chin_Mangled_F_1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Chin_Mangled_1"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="141cb004-355d-4289-bf9e-2197c5482cd3"/>
@@ -10417,7 +10417,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h827ad35ag7214gd82bgdaf6ge6e65ce23f31" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c3d698dd-705f-42d1-b25f-579531384b97"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Chin_Mangled_F_1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DMH_Chin_Mangled_1"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="83161f11-3e58-4377-9344-9e5009efd35e"/>

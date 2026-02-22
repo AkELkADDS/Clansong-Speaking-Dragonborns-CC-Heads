@@ -13852,7 +13852,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="9e26e5c9-582f-45fa-8006-29b69674df55" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc46d379cg1137gc970g665fg54a8d5ccad56" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Chin_Mangled_F_1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Chin_Mangled_1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Chin_DMH_MA" />
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
@@ -13867,7 +13867,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="9e26e5c9-582f-45fa-8006-29b69674df55" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h928e4505gd615g0674gb612gc0d12aaed922" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Chin_Mangled_F_1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Chin_Mangled_1" />
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
       </fields>
@@ -13881,7 +13881,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="9e26e5c9-582f-45fa-8006-29b69674df55" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h827ad35ag7214gd82bgdaf6ge6e65ce23f31" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Chin_Mangled_F_1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Chin_Mangled_1" />
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
       </fields>
