@@ -167,6 +167,78 @@
                             <attribute id="UUID" type="guid" value="415363fd-bef0-5376-658c-2540fd8e37b7"/>
                             <attribute id="Version64" type="int64" value="36028797018963981"/>
                         </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a"/>
+                            <attribute id="MD5" type="LSString" value="37b96058984e75d6245aa0182223c669"/>
+                            <attribute id="Name" type="LSString" value="Slayer Assets Pearl - Dark Urge Dragonborn CC"/>
+                            <attribute id="PublishHandle" type="uint64" value="4465847"/>
+                            <attribute id="UUID" type="guid" value="54da0a5b-0160-e27b-ec58-f133648ba55a"/>
+                            <attribute id="Version64" type="int64" value="36028797018963973"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c"/>
+                            <attribute id="MD5" type="LSString" value="37b96058984e75d6245aa0182223c669"/>
+                            <attribute id="Name" type="LSString" value="Reforged Assets Pearl - Dark Urge Dragonborn CC"/>
+                            <attribute id="PublishHandle" type="uint64" value="4469723"/>
+                            <attribute id="UUID" type="guid" value="dfe0cca9-62a6-418d-8bcb-f6b487a7008c"/>
+                            <attribute id="Version64" type="int64" value="36028797018963971"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da"/>
+                            <attribute id="MD5" type="LSString" value="c81b287bd211af7b7ba94a5b6237fae9"/>
+                            <attribute id="Name" type="LSString" value="DMH Assets Pearl- Dark Urge Dragonborn CC"/>
+                            <attribute id="PublishHandle" type="uint64" value="4434020"/>
+                            <attribute id="UUID" type="guid" value="a27c9903-5a2d-0444-475c-797e0c6812da"/>
+                            <attribute id="Version64" type="int64" value="36028797018963973"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658"/>
+                            <attribute id="MD5" type="LSString" value="37b96058984e75d6245aa0182223c669"/>
+                            <attribute id="Name" type="LSString" value="Crystal Crown Pearl - Gem Dragonborn CC"/>
+                            <attribute id="PublishHandle" type="uint64" value="4433450"/>
+                            <attribute id="UUID" type="guid" value="47e3c758-7c22-bbac-71d7-9fcc04715658"/>
+                            <attribute id="Version64" type="int64" value="36028797018963971"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="Rathgor-Reforged_head_56bee93d-ecd1-4680-cca1-44ee52514b9c"/>
+                            <attribute id="MD5" type="LSString" value="c0a8f3412870277331306e0719fc6f77"/>
+                            <attribute id="Name" type="LSString" value="Rathgor - Reforged head - Dark Urge Dragonborn CC"/>
+                            <attribute id="PublishHandle" type="uint64" value="4411261"/>
+                            <attribute id="UUID" type="guid" value="56bee93d-ecd1-4680-cca1-44ee52514b9c"/>
+                            <attribute id="Version64" type="int64" value="36028797018963980"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="CCrwn_Rathgor_34d5ad47-7a9a-c579-abba-f67a0c10f365"/>
+                            <attribute id="MD5" type="LSString" value="37b96058984e75d6245aa0182223c669"/>
+                            <attribute id="Name" type="LSString" value="Crystal Crown Rathgor- Gem Dragonborn CC"/>
+                            <attribute id="PublishHandle" type="uint64" value="4423469"/>
+                            <attribute id="UUID" type="guid" value="34d5ad47-7a9a-c579-abba-f67a0c10f365"/>
+                            <attribute id="Version64" type="int64" value="36028797018963976"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="DMH_Rathgor_55e52017-cc06-2d9e-603f-7814f06fc668"/>
+                            <attribute id="MD5" type="LSString" value="37b96058984e75d6245aa0182223c669"/>
+                            <attribute id="Name" type="LSString" value="DMH Assets Rathgor - Dark Urge Dragonborn CC"/>
+                            <attribute id="PublishHandle" type="uint64" value="4479633"/>
+                            <attribute id="UUID" type="guid" value="55e52017-cc06-2d9e-603f-7814f06fc668"/>
+                            <attribute id="Version64" type="int64" value="36028797018963971"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="SeaDrA_Rathgor_9f128411-7ff6-51b8-f119-cd9d80ea1291"/>
+                            <attribute id="MD5" type="LSString" value="37b96058984e75d6245aa0182223c669"/>
+                            <attribute id="Name" type="LSString" value="Seadragon Assets Rathgor - Dragonborn CC"/>
+                            <attribute id="PublishHandle" type="uint64" value="4470324"/>
+                            <attribute id="UUID" type="guid" value="9f128411-7ff6-51b8-f119-cd9d80ea1291"/>
+                            <attribute id="Version64" type="int64" value="36028797018963971"/>
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="Slayer_Assets_Rathgor_62a82780-e0a0-ed59-77e6-096d11d38409"/>
+                            <attribute id="MD5" type="LSString" value="37b96058984e75d6245aa0182223c669"/>
+                            <attribute id="Name" type="LSString" value="Slayer Assets Rathgor - Dark Urge Dragonborn CC"/>
+                            <attribute id="PublishHandle" type="uint64" value="4456956"/>
+                            <attribute id="UUID" type="guid" value="62a82780-e0a0-ed59-77e6-096d11d38409"/>
+                            <attribute id="Version64" type="int64" value="36028797018963974"/>
+                        </node>
                     </children>
                 </node>
                 <node id="ModuleInfo">
