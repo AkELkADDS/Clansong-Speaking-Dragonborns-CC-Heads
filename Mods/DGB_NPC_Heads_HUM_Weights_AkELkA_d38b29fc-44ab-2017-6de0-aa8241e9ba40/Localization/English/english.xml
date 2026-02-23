@@ -1492,4 +1492,94 @@
   <content contentuid="ha7618bb7gf79cg2a8cg863cg095fe6627b7c" version="1">Hatchet Spike</content>
   <content contentuid="hcfb25ea5gb7f2g15beg256cgf98d7e76a5d1" version="2">Mangled Head Big Scar L</content>
   <content contentuid="h8bddcaddg8ed2g1df6gae24gd843aaf3913c" version="2">Mangled Head Big Scar R</content>
+  <content contentuid="h7b496acdgfb54ga449g3fdag7c8ef01f875a" version="1">Slayer Broken L</content>
+  <content contentuid="hd3b86121g7945g4edfg947bg7093f3d9ea54" version="1">Slayer Broken L</content>
+  <content contentuid="h9fd6e375g1687gf76bg8868g5bcc625c3890" version="1">Slayer Broken R</content>
+  <content contentuid="hed3cde19ge9ddg098bgca7dg507f7c7c91d7" version="1">Slayer Broken R</content>
+  <content contentuid="hd5cc4afcgefbfg081eg9e16ged70e8890b59" version="1">Slayer Clean</content>
+  <content contentuid="hf9a0acc3g090cgc806g16bcg8c27696c9c8e" version="1">Slayer Clean</content>
+  <content contentuid="hc49b1231gd07cg5857ge4d3g540e5511193f" version="1">Slayer Clean Horns</content>
+  <content contentuid="h6453808eg377eg1225gbf2cgbb4f4d7f663a" version="1">Slayer Clean Horns</content>
+  <content contentuid="h24108eecge268g23eeg81dega24ff8d1c4b0" version="1">Slayer Broken Horns L</content>
+  <content contentuid="h39bccdd2ge885g7fa0g18a7g08d4c0cb3cdf" version="1">Slayer Broken Horns L</content>
+  <content contentuid="h68050fceg0787gbc1ag50c8ge718d82930de" version="1">Slayer Broken Horns R</content>
+  <content contentuid="h98da4814g9701g9315g8ed3g6fcf54c165c4" version="1">Slayer Broken Horns R</content>
+  <content contentuid="hdb7c8365gbb02gd24ega6d3ga7e35de35e97" version="1">Slayer Broken L</content>
+  <content contentuid="h892fd19cgcef9g610dg09d8g0d5c6cea9282" version="1">Slayer Broken L</content>
+  <content contentuid="hf350bbe5g90e5g4b34g4f10g9fc30098ab69" version="1">Slayer Broken R</content>
+  <content contentuid="h8f95daedgcdb9g7514g0392g399920d13d9f" version="1">Slayer Broken R</content>
+  <content contentuid="h80d8ac2dge7fcg9ee9gfc95gd308452f0a1b" version="1">Slayer Clean</content>
+  <content contentuid="h85d582f0g16c5gb00dg7a06g3187dd5b9d10" version="1">Slayer Clean</content>
+  <content contentuid="h5ef6f584ga788g58d3gae6eg1373dd0c7fde" version="1">Slayer Clean Horns</content>
+  <content contentuid="h52b1c7cbg7368g66fdga7b5geae04e409a1d" version="1">Slayer Clean Horns</content>
+  <content contentuid="hfed56b1fge1c1g6cddge1b4g36cb26afbd2e" version="1">Slayer Broken Horns L</content>
+  <content contentuid="h3c3c57beg1678gbbffg44f9gcf4915ed4e34" version="1">Slayer Broken Horns L</content>
+  <content contentuid="h7cddc6f0g38bcg8ff0gc7c1g1935762ee2b7" version="1">Slayer Broken Horns R</content>
+  <content contentuid="h4e66ab06gab6cg76f4g2e02g0fadffa79f38" version="1">Slayer Broken Horns R</content>
+  <content contentuid="ha2c89be6g21e3gd841g8489g7e31b6344521" version="1">Demon Horns</content>
+  <content contentuid="h3b8401bcgc3ebg19d8g4292gb7abe1d7fbf0" version="1">Reforged Crest Broken Black L</content>
+  <content contentuid="h39899f78g4967gf505g8290g7efc3c8ea7f7" version="1">Reforged Crest Broken Black R</content>
+  <content contentuid="h445903d4gb314g3a8fge745g9b602c1eb48a" version="1">Reforged Crest Broken Light L</content>
+  <content contentuid="h239f474bg2b32g51bdg9d7bgb55038ad592e" version="1">Reforged Crest Broken Light R</content>
+  <content contentuid="ha2b3456ag0e44ge5c0g7e1bg4c2766b4316b" version="1">Goatee</content>
+  <content contentuid="h7a2ebec8gbec3g3810g78f6g2865df311811" version="1">Demon Horns</content>
+  <content contentuid="h4a3465c3g5ce2g605ag02a5g0bbbe1b56040" version="1">Reforged Crest Broken Black L</content>
+  <content contentuid="h1b15f3f8ge50eg5815ge0fdg77f864c38bcb" version="1">Reforged Crest Broken Black R</content>
+  <content contentuid="h089202a4g7d39gbfcbg619ag0babb2d9e9f1" version="1">Reforged Crest Broken Light L</content>
+  <content contentuid="heefaeee5g491cgc316g3637g33b24ac77336" version="1">Reforged Crest Broken Light R</content>
+  <content contentuid="hb95300e2ge419g9bdegcd9dg7d11909540bb" version="1">Goatee</content>
+  <content contentuid="h9980004fg7d59gf263g5a22gfc1c5a3ecbed" version="1">Coral Ridges Frills</content>
+  <content contentuid="hf74dff6dg2a79g197bg534ag0fe08a150f00" version="1">Coral Ridges Frills</content>
+  <content contentuid="h846c48e9g7e36g5498g5ec6g69483f462173" version="1">Deer Antlers Frills</content>
+  <content contentuid="h4233971aga5bcg18b3g4513g45b1b115d4f0" version="1">Deer Antlers Frills</content>
+  <content contentuid="ha41efc84g2c3cg5e44g86cbg945f6ea6dbbb" version="1">Coral Frills</content>
+  <content contentuid="h10476a12g1398gb6afgfa2cga69dd7592bf8" version="1">Coral Frills</content>
+  <content contentuid="h79f462c9g6466g7358gd2b6g32194c4470fb" version="1">Amber Glow Coral Frills</content>
+  <content contentuid="hf3074f8bg2b8bgcc56g4afcg813e810b539e" version="1">Amber Glow Coral Frills</content>
+  <content contentuid="hf8557182g97d5gc386g75f5gca010af7778b" version="1">Blue Glow Coral Frills</content>
+  <content contentuid="h431f9819g2a3fg8dd9g10d8g9dfc1dd6db95" version="1">Blue Glow Coral Frills</content>
+  <content contentuid="h698f42ffgf8ffg743egcd24ge56fc62b6d2c" version="1">Cyan-Violet Glow Coral Frills</content>
+  <content contentuid="hf31be273gdd67gc584g19c8ga02d3af67c39" version="1">Cyan-Violet Glow Coral Frills</content>
+  <content contentuid="h9cd87003g5fe7g1473ga7afg92c263fabaff" version="1">Grass Green Glow Coral Frills</content>
+  <content contentuid="hb2baf3fegcc85g6215gac7fgad8cc8532d4b" version="1">Grass Green Glow Coral Frills</content>
+  <content contentuid="h62ee15dag3c83gfd92g58dbg6f062ebebe07" version="1">Pink Glow Coral Frills</content>
+  <content contentuid="h63ae2442gb27fgaae5gd3dcg6077e759edde" version="1">Pink Glow Coral Frills</content>
+  <content contentuid="hc8f8092cgb99agd1ecgd8b0gcfb90411f96e" version="1">Pink-Peach Glow Coral Frills</content>
+  <content contentuid="h3cbe3822g71e3g5f6cg474agc128a70f7161" version="1">Pink-Peach Glow Coral Frills</content>
+  <content contentuid="hb747591eg0ca3gc129g860eg4388bea8f13e" version="1">Violet Glow Coral Frills</content>
+  <content contentuid="hc2fdcd66g9522g1b1agaa64g5a7e5ad300e9" version="1">Violet Glow Coral Frills</content>
+  <content contentuid="h4fbae49bgba11g99ddgb35eg6397721f157a" version="1">White Glow Coral Frills</content>
+  <content contentuid="h8d850d96g1949ga32dgbaddgb0d457133886" version="1">White Glow Coral Frills</content>
+  <content contentuid="hf4c562cbg952aga214ge390g5cfad9aafb9c" version="1">Crystal Crown</content>
+  <content contentuid="h69e50096gb326g38fcg42f4g2c128104d170" version="1">Obsidian Crown</content>
+  <content contentuid="ha1049f99g5624g16a2g2b6fg2ea727b997b2" version="1">Sapphire Crown</content>
+  <content contentuid="h80753615g3140ga95egb3d0gb91678f6e93a" version="1">Emerald Crown</content>
+  <content contentuid="h704397b6g02eagdc75g25bag7265bf483f08" version="1">Honey Topaz Crown</content>
+  <content contentuid="he06ae70cg10dcg0cd3gec8eg3b6755e4b8ee" version="1">Blood Crown</content>
+  <content contentuid="h0fb7de21g810cgb0f6gd9b6g37d59d821ad9" version="1">Amethyst Crown</content>
+  <content contentuid="h9d2b2f9bgdba6g5030g02a4g745151ce8ed8" version="1">Topaz Crown</content>
+  <content contentuid="hc723c5ccg1574g6bceg50edg64bda9f7aa17" version="1">Crystal Jaw</content>
+  <content contentuid="he39dbfd2g3090g221eg059cgf4cc0ad17813" version="1">Obsidian Jaw</content>
+  <content contentuid="ha2e4475dgbbb9g4640g646dg2ff0c2d4da92" version="1">Sapphire Jaw</content>
+  <content contentuid="h77d00d9bg4513g0357ga030g3701fa7362a3" version="1">Emerald Jaw</content>
+  <content contentuid="hf3481b00g75d5gda8fg6f42gc42e7e450b2c" version="1">Honey Topaz Jaw</content>
+  <content contentuid="h25e320ebgd7d9gfca6g3b2dg0337323ac08d" version="1">Blood Jaw</content>
+  <content contentuid="ha0bd1b3aga8e4g465ag5d4dg47a2293b4467" version="1">Amethyst Jaw</content>
+  <content contentuid="h65f7061bg9c94g652bgeb48gc119ccf3361a" version="1">Topaz Jaw</content>
+  <content contentuid="h51d65445g0547gae10g1fa5g59cad6885f5a" version="1">Crystal Crown</content>
+  <content contentuid="hdca0a240g639cg44feg8c74g93f6d324b746" version="1">Obsidian Crown</content>
+  <content contentuid="h46fdefa3g08ebg4de6g4ce1g3009fe41e445" version="1">Sapphire Crown</content>
+  <content contentuid="h619fdf2dge68eg2c7fg867bgbab5e9637ada" version="1">Emerald Crown</content>
+  <content contentuid="h17a189b5g7711g07b3ge4a3gacad59e2901f" version="1">Honey Topaz Crown</content>
+  <content contentuid="h26dac216gb0fdg00c0ge285gab2ffc003d52" version="1">Blood Crown</content>
+  <content contentuid="h7c690da2g011ag8479gef9fg0232df7702e7" version="1">Amethyst Crown</content>
+  <content contentuid="h7c6dbb3cg769cg2030gccffgd1472327605d" version="1">Topaz Crown</content>
+  <content contentuid="h9be89d05gddf6ge3c1g8293gd9c3ff5d662e" version="1">Crystal Jaw</content>
+  <content contentuid="h33091f46gbf5fgc65fg0bd0g67a172a63964" version="1">Obsidian Jaw</content>
+  <content contentuid="h7d962353gc8fagbd88ge0a9g97ed99ce5206" version="1">Sapphire Jaw</content>
+  <content contentuid="h1939690egd2aeg2bb2g0e83g6321ff523417" version="1">Emerald Jaw</content>
+  <content contentuid="hcd29fe43gdcb3gba62gf259g3a8c4d371a48" version="1">Honey Topaz Jaw</content>
+  <content contentuid="hce178accg7178gb7c5gb85dgd0e8a20e3eae" version="1">Blood Jaw</content>
+  <content contentuid="h2d902286g3450g58e6ga38cgc9488c99678e" version="1">Amethyst Jaw</content>
+  <content contentuid="h06f26e93g04e2g2798gadbag7579cf3aed4c" version="1">Topaz Jaw</content>
 </contentList>
