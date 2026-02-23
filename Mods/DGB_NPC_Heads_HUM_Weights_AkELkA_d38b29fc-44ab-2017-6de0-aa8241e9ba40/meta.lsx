@@ -168,14 +168,6 @@
                             <attribute id="Version64" type="int64" value="36028797018963981"/>
                         </node>
                         <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="Reforged_Assets_Pearl_dfe0cca9-62a6-418d-8bcb-f6b487a7008c"/>
-                            <attribute id="MD5" type="LSString" value="37b96058984e75d6245aa0182223c669"/>
-                            <attribute id="Name" type="LSString" value="Reforged Assets Pearl - Dark Urge Dragonborn CC"/>
-                            <attribute id="PublishHandle" type="uint64" value="4469723"/>
-                            <attribute id="UUID" type="guid" value="dfe0cca9-62a6-418d-8bcb-f6b487a7008c"/>
-                            <attribute id="Version64" type="int64" value="36028797018963971"/>
-                        </node>
-                        <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="CCrwn_Pearl_47e3c758-7c22-bbac-71d7-9fcc04715658"/>
                             <attribute id="MD5" type="LSString" value="37b96058984e75d6245aa0182223c669"/>
                             <attribute id="Name" type="LSString" value="Crystal Crown Pearl - Gem Dragonborn CC"/>
