@@ -18880,9 +18880,9 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="902d2458-fcab-44b7-8f02-4ee9e5e0c98c" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="e9a2ddef-e378-4d57-aeb2-f12404b8f7a9" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h241e28d4ged08ga7cbg271fg88c187ada305" version="1" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Valtheris_Jaw_MF" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="089bd70c-dd37-4fea-a2f4-af7e429af3ef" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7e601ca5g45f0g6af5ge04bg48184f13317e" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Valtheris_Jaw_MF_B" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DMH_Jaw_Mangled_L_1" />
       </fields>
     </stat_object>
@@ -19127,6 +19127,20 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1341" />
+        <field name="UUID" type="IdTableFieldDefinition" value="738ddda1-1e1d-4fcf-885f-97387125f2e2" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="902d2458-fcab-44b7-8f02-4ee9e5e0c98c" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="85e66aba-e4e9-49a0-9b69-71a88860886a" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbddeeb4bgdf91gfb41g624fg5e63e14834b4" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Valtheris_Jaw_MA_B" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1317" />
         <field name="UUID" type="IdTableFieldDefinition" value="73b98835-ffca-43b5-b1c7-482e51c14b7c" />
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
@@ -19137,6 +19151,20 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="34d78c3c-e1f2-4625-bbd9-5709a8dea267" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9484a80dg2b6fg7f19g038cg1d3a2e2e8618" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Valtheris_Jaw_MC" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1340" />
+        <field name="UUID" type="IdTableFieldDefinition" value="eb00686c-cf00-417f-b7c6-609908e0c43f" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="902d2458-fcab-44b7-8f02-4ee9e5e0c98c" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="37059da8-097e-4b6d-9515-a9073507fc7b" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3c236327gf401g1923g0619gb83770b4e599" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Valtheris_Jaw_MC_B" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -19155,6 +19183,20 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1339" />
+        <field name="UUID" type="IdTableFieldDefinition" value="78bff55a-7b71-4b9e-bf22-d4c9d09ac755" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="902d2458-fcab-44b7-8f02-4ee9e5e0c98c" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="5b5ec5a1-662c-42ca-b8da-11d4fbc8bb44" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hee31c3f7g9885g848age550gb07453cc39e3" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Valtheris_Jaw_MD_B" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1319" />
         <field name="UUID" type="IdTableFieldDefinition" value="d72c9d7f-10d0-4a39-be02-57f07768c897" />
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
@@ -19165,6 +19207,20 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="36065f9a-6d75-4129-a12b-77567ec48ff6" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h90fa1b9agaf91g0938g987egebf3e7587a9d" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Valtheris_Jaw_ME" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1338" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2d9429b8-98e1-440a-a4f2-7c0367c01cbb" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="902d2458-fcab-44b7-8f02-4ee9e5e0c98c" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="37190b63-dbea-4ed0-915b-211b9cb048d3" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd52a8c23g7e70g2d6dg1adbg970996af714e" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Valtheris_Jaw_ME_B" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -19235,6 +19291,20 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="8c69cd4c-3234-46d5-875e-5d8932728a96" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1d70d7c5g4244g2457g017ag52e09cac4527" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Valtheris_Jaw_FD" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1342" />
+        <field name="UUID" type="IdTableFieldDefinition" value="22a6ed14-4ec6-4b11-b5d5-8b58ba439ff8" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="902d2458-fcab-44b7-8f02-4ee9e5e0c98c" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="3ac3c542-3722-47cc-a2ce-768eea36e9f3" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha4b9cb3dg4386g4e86g8f8cg68aa9920317b" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_M_NKD_Head_Valtheris_Jaw_FD_B" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
