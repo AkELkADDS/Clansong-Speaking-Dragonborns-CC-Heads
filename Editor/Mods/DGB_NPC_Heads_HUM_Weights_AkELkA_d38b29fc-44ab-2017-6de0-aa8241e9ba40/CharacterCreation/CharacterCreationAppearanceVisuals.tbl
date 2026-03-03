@@ -18685,9 +18685,9 @@
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="92343fff-7cb8-455c-abc5-e8d604ddf5d6" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="e15d6fdb-ac51-452b-8d30-33f9a477d013" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb5c055eagd9b3gc2adgc4cfg196dc4e5bc95" version="2" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_Ice" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Pearl_C_GlowInk_Dots_A_Gem_Ice" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_FB_Dots_A_Ice" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
@@ -18700,9 +18700,9 @@
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="92343fff-7cb8-455c-abc5-e8d604ddf5d6" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="a049ee99-310b-425f-8649-9dab40c87ab7" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h425bba67gcb6fg0f03g2867g7d3e7e2b1e84" version="2" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_Obsidian" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Pearl_C_GlowInk_Dots_A_Gem_Obsidian" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_FB_Dots_A_Obsidian" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
@@ -18715,9 +18715,9 @@
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="92343fff-7cb8-455c-abc5-e8d604ddf5d6" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="2a68cde7-c9ee-4763-a6f3-89b560a95c65" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3bceeffdga1ecg42a6gfc45g360af8ba64b9" version="2" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_Sapphire" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Pearl_C_GlowInk_Dots_A_Gem_Sapphire" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_FB_Dots_A_Sapphire" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
@@ -18730,9 +18730,9 @@
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="92343fff-7cb8-455c-abc5-e8d604ddf5d6" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="5f55f5c7-9eae-4845-a0ce-c55623b02330" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0dca2b5dga574gc9fbg659fgd37b3388920e" version="2" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_Emerald" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Pearl_C_GlowInk_Dots_A_Gem_Emerald" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_FB_Dots_A_Emerald" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
@@ -18745,9 +18745,9 @@
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="92343fff-7cb8-455c-abc5-e8d604ddf5d6" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="87d7c1bb-79fc-4681-830c-012127d4a2a8" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h41bd9af4g9f7dg8ba9g785egcb6cf94d9707" version="2" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_HTopaz" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Pearl_C_GlowInk_Dots_A_Gem_HTopaz" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_FB_Dots_A_HTopaz" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
@@ -18760,9 +18760,9 @@
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="92343fff-7cb8-455c-abc5-e8d604ddf5d6" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="1925ccc5-d330-4f86-9ca8-f2ddd1e22497" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha49e063agc98age2f2g1e2fge4d6dbbef2cf" version="2" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_Ruby" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Pearl_C_GlowInk_Dots_A_Gem_Ruby" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_FB_Dots_A_Ruby" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
@@ -18775,9 +18775,9 @@
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="92343fff-7cb8-455c-abc5-e8d604ddf5d6" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="bc98adf4-2a4d-4930-8d61-1014eaa80d52" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf705a19age77eg71e1gf824gba24b3c53bcf" version="2" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_Amethyst" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Pearl_C_GlowInk_Dots_A_Gem_Amethyst" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_FB_Dots_A_Amethyst" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
@@ -18790,9 +18790,9 @@
         <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="92343fff-7cb8-455c-abc5-e8d604ddf5d6" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="11658bf2-d6ed-4403-9a9f-3ab04201b2bd" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha5c0fd13gef63gbcd4g25beg2d4780f80459" version="2" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_BYTopaz" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Pearl_C_GlowInk_Dots_A_Gem_BYTopaz" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_FB_Dots_A_BYTopaz" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
@@ -18807,9 +18807,9 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd58469d8gcd04g6604gc0cfgc3d4be816eb0" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="92343fff-7cb8-455c-abc5-e8d604ddf5d6" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="ebc3613d-fc2d-4930-a7de-836c15190c22" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_FB_Decor_O_Karlach_BGreen" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_O_Karlach_BGreen" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Pearl_C_GlowInk_PulseGlow_A_Karlach_BGreen" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
       </fields>
     </stat_object>
@@ -18822,9 +18822,9 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8489e5dcg548fgb11dg81bag5d5b2974ec89" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="92343fff-7cb8-455c-abc5-e8d604ddf5d6" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="96013075-7bfd-4587-b1de-691cca6f2c8f" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_FB_Decor_O_Karlach_Purple" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_O_Karlach_Purple" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Pearl_C_GlowInk_PulseGlow_A_Karlach_Purple" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
       </fields>
     </stat_object>
@@ -18837,9 +18837,9 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8408bcabg34a6g0543g88eegd1a60300eb23" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="92343fff-7cb8-455c-abc5-e8d604ddf5d6" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="f23fe295-f673-456c-ad02-265a2bab006c" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_FB_Decor_O_Karlach_Blue" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_O_Karlach_Blue" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Pearl_C_GlowInk_PulseGlow_A_Karlach_Blue" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
       </fields>
     </stat_object>
@@ -18852,9 +18852,9 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1f92ec3cg81c0gf696gcc86g6a389fc8a0a2" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="92343fff-7cb8-455c-abc5-e8d604ddf5d6" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="322baeeb-aac4-4e07-8382-74e940e930bb" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_FB_Decor_O_Karlach_Green" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_O_Karlach_Green" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Pearl_C_GlowInk_PulseGlow_A_Karlach_Green" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
       </fields>
     </stat_object>
@@ -18869,7 +18869,7 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="92343fff-7cb8-455c-abc5-e8d604ddf5d6" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_FB_Decor_O_Karlach_Fire" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_O_Karlach_Fire" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Pearl_C_GlowInk_PulseGlow_A_Karlach_Lava" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
       </fields>
     </stat_object>
@@ -18882,9 +18882,9 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0c6f2cbbgda56ga130gc202ga3367af965b6" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="92343fff-7cb8-455c-abc5-e8d604ddf5d6" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="08c20947-2a65-4c13-b755-751b93ed0a81" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_FB_Decor_O_Karlach_Red" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_O_Karlach_Red" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Pearl_C_GlowInk_PulseGlow_A_Karlach_Red" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
       </fields>
     </stat_object>
@@ -18897,9 +18897,9 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h175a7f6ag83e4g156fg9c53ga3d3dac06182" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="92343fff-7cb8-455c-abc5-e8d604ddf5d6" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="46eb09dc-a6ff-48ef-9c4e-16200ad86d17" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_FB_Decor_O_Karlach_Pink" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_O_Karlach_Pink" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Pearl_C_GlowInk_PulseGlow_A_Karlach_Pink" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
       </fields>
     </stat_object>
@@ -18912,9 +18912,9 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3ba8675dg6c60g3b5agf1c5g6feb00f88f4a" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="92343fff-7cb8-455c-abc5-e8d604ddf5d6" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="53a20b26-d63e-439f-8b67-7ad5174d630e" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_FB_Decor_O_Karlach_White" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_O_Karlachl_White" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Pearl_C_GlowInk_PulseGlow_A_Karlach_White" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
       </fields>
     </stat_object>
