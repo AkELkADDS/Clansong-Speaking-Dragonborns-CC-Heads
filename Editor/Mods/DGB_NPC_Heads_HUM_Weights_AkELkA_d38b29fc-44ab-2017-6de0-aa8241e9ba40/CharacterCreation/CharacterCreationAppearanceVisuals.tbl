@@ -98,7 +98,7 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_0_NoChin" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
@@ -114,7 +114,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h81b8faf4gb24fg53f3g3b66g6cc9aaa43535" version="1" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="No_Chin_Attachment" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_0_NoChin" />
       </fields>
     </stat_object>
     <stat_object color="#FFFA8072" is_substat="false">
@@ -130,7 +130,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3720491aga01fgb9f4g5543g1e6169fed229" version="1" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_3" />
         <field name="Comment" type="CommentTableFieldDefinition" value="No_Chin_Attachment" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_0_NoChin" />
       </fields>
     </stat_object>
     <stat_object color="#FFCD853F" is_substat="false">
@@ -146,7 +146,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h588cfa0dg1339g5669g48c5g4c7dab5afb00" version="1" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_4" />
         <field name="Comment" type="CommentTableFieldDefinition" value="No_Chin_Attachment" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_0_NoChin" />
       </fields>
     </stat_object>
     <stat_object color="#FFD2B48C" is_substat="false">
@@ -162,7 +162,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h28fe373bg451fgf58cg0436g98057adfdcfb" version="1" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_4" />
         <field name="Comment" type="CommentTableFieldDefinition" value="No_Chin_Attachment" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_0_NoChin" />
       </fields>
     </stat_object>
     <stat_object color="#FFFF1493" is_substat="false">
@@ -178,7 +178,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h37ebb9b3gadd0g247agd3c9ga449ae9ad22c" version="1" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_4" />
         <field name="Comment" type="CommentTableFieldDefinition" value="No_Chin_Attachment" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_0_NoChin" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -283,7 +283,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MA_Arcuate" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -298,7 +298,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MB_ClosingClaws" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -313,7 +313,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MC_GobletHandlers" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -328,7 +328,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MD_QuilledWedge" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -343,7 +343,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_ME" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_ME_MalformedApex" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -358,7 +358,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MF" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MF_Malefic" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -373,7 +373,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MG" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MG_Ophidian" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -388,7 +388,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FA_ReptileFrills" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -403,7 +403,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FB_PredaciousCrest" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -418,7 +418,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FC_SpinousCrown" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -433,7 +433,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FD_HalberdBlades" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -448,7 +448,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FE" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FE_ProudPhalanx" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
@@ -552,7 +552,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="haebe1852g9065g77b1g7b6dgb5ea9eea340f" version="2" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MA_Arcuate" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MA" />
       </fields>
     </stat_object>
@@ -567,7 +567,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he26930ceg329dg0f54g8674g87b7922ac22e" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MB_ClosingClaws" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MB" />
       </fields>
     </stat_object>
@@ -582,7 +582,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9e4d3492g542dgce9dg8016gb92bf3d07874" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MC_GobletHandlers" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MC" />
       </fields>
     </stat_object>
@@ -597,7 +597,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hce4d3b80g42ddgabb0gd529g9d0e61d69377" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MD_QuilledWedge" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MD" />
       </fields>
     </stat_object>
@@ -612,7 +612,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="haf52f2c0g7da4g2582gf6eag183f07695743" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_ME_MalformedApex" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_ME" />
       </fields>
     </stat_object>
@@ -627,7 +627,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h225bac13gecdbg2e33g43a4g2c2a98ca2582" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MF_Malefic" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MF" />
       </fields>
     </stat_object>
@@ -642,7 +642,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5d5ff6edgea30gac38g4a46g6c9b35f1d700" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MG_Ophidian" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MG" />
       </fields>
     </stat_object>
@@ -657,7 +657,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb1fcff42g6deagfc3bg6342ga39bdaabc34b" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FA_ReptileFrills" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FA" />
       </fields>
     </stat_object>
@@ -672,7 +672,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3ab25da3gc84bg9d24g034cg77788c692e62" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FB_PredaciousCrest" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FB" />
       </fields>
     </stat_object>
@@ -687,7 +687,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h88b7b3adgd1dfgb583gdb95gaec0161eb946" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FC_SpinousCrown" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FC" />
       </fields>
     </stat_object>
@@ -702,7 +702,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h69c240a7g0862g10fbg287fgf7df08d061d0" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FD_HalberdBlades" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FD" />
       </fields>
     </stat_object>
@@ -717,7 +717,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h735cacaag3d32g22f9gd09eg45314e8921ea" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FE_ProudPhalanx" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FE" />
       </fields>
     </stat_object>
@@ -823,7 +823,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MA_Arcuate" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -838,7 +838,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MB_ClosingClaws" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -853,7 +853,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MC_GobletHandlers" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -868,7 +868,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MD_QuilledWedge" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -883,7 +883,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_ME" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_ME_MalformedApex" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -898,7 +898,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MF" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MF_Malefic" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -913,7 +913,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MG" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MG_Ophidian" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -928,7 +928,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FA_ReptileFrills" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -943,7 +943,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FB_PredaciousCrest" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -958,7 +958,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FC_SpinousCrown" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -973,7 +973,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FD_HalberdBlades" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -988,7 +988,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FE" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FE_ProudPhalanx" />
       </fields>
     </stat_object>
     <stat_object color="#FFCD853F" is_substat="false">
@@ -1093,7 +1093,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MA_Arcuate" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1108,7 +1108,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MB_ClosingClaws" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1123,7 +1123,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MC_GobletHandlers" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1138,7 +1138,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MD_QuilledWedge" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1153,7 +1153,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_ME" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_ME_MalformedApex" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1168,7 +1168,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MF" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MF_Malefic" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1183,7 +1183,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MG" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MG_Ophidian" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1198,7 +1198,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FA_ReptileFrills" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1213,7 +1213,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FB_PredaciousCrest" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1228,7 +1228,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FC_SpinousCrown" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1243,7 +1243,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FD_HalberdBlades" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1258,7 +1258,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FE" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FE_ProudPhalanx" />
       </fields>
     </stat_object>
     <stat_object color="#FFD2B48C" is_substat="false">
@@ -1363,7 +1363,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MA_Arcuate" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1378,7 +1378,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MB_ClosingClaws" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1393,7 +1393,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MC_GobletHandlers" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1408,7 +1408,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MD_QuilledWedge" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1423,7 +1423,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_ME" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_ME_MalformedApex" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1438,7 +1438,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MF" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MF_Malefic" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1453,7 +1453,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MG" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MG_Ophidian" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1468,7 +1468,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FA_ReptileFrills" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1483,7 +1483,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FB_PredaciousCrest" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1498,7 +1498,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FC_SpinousCrown" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1513,7 +1513,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FD_HalberdBlades" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1528,7 +1528,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FE" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FE_ProudPhalanx" />
       </fields>
     </stat_object>
     <stat_object color="#FFFF1493" is_substat="false">
@@ -1633,7 +1633,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MA_Arcuate" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1648,7 +1648,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MB_ClosingClaws" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1663,7 +1663,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MC_GobletHandlers" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1678,7 +1678,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MD_QuilledWedge" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1693,7 +1693,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_ME" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_ME_MalformedApex" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1708,7 +1708,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MF" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MF_Malefic" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1723,7 +1723,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_MG" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_MG_Ophidian" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1738,7 +1738,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FA_ReptileFrills" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1753,7 +1753,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FB_PredaciousCrest" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1768,7 +1768,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FC_SpinousCrown" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1783,7 +1783,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FD_HalberdBlades" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1798,7 +1798,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Top_FE" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_FE_ProudPhalanx" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -1903,7 +1903,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MA_IC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown_Short" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -1918,7 +1918,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1933,7 +1933,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MC_ConciseStrenght" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1948,7 +1948,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MD_NestONeedles" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1963,7 +1963,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_ME" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_ME_Dragonglass" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1978,7 +1978,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MF" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MF_RoyalPlateau" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1993,7 +1993,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MG" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MG_SharkFins" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2008,7 +2008,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FA_TauntingStylus" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2023,7 +2023,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FB_CoralRidges" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2038,7 +2038,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FC_PorcupineChops" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2053,7 +2053,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FD_JawsOfRuin" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2068,7 +2068,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FE" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FE_SombreCalamity" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
@@ -2173,7 +2173,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MA_IC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown_Short" />
       </fields>
     </stat_object>
     <stat_object color="#FF8B008B" is_substat="false">
@@ -2188,7 +2188,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2203,7 +2203,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MC_ConciseStrenght" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2218,7 +2218,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MD_NestONeedles" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2233,7 +2233,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_ME" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_ME_Dragonglass" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2248,7 +2248,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MF" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MF_RoyalPlateau" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2263,7 +2263,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MG" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MG_SharkFins" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2278,7 +2278,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FA_TauntingStylus" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2293,7 +2293,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FB_CoralRidges" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2308,7 +2308,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FC_PorcupineChops" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2323,7 +2323,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FD_JawsOfRuin" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2338,7 +2338,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FE" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FE_SombreCalamity" />
       </fields>
     </stat_object>
     <stat_object color="#FFFA8072" is_substat="false">
@@ -2443,7 +2443,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MA_IC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown_Short" />
       </fields>
     </stat_object>
     <stat_object color="#FFFA8072" is_substat="false">
@@ -2458,7 +2458,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2473,7 +2473,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MC_ConciseStrenght" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2488,7 +2488,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MD_NestONeedles" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2503,7 +2503,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_ME" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_ME_Dragonglass" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2518,7 +2518,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MF" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MF_RoyalPlateau" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2533,7 +2533,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MG" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MG_SharkFins" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2548,7 +2548,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FA_TauntingStylus" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2563,7 +2563,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FB_CoralRidges" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2578,7 +2578,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FC_PorcupineChops" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2593,7 +2593,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FD_JawsOfRuin" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2608,7 +2608,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FE" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FE_SombreCalamity" />
       </fields>
     </stat_object>
     <stat_object color="#FFCD853F" is_substat="false">
@@ -2713,7 +2713,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MA_IC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown_Short" />
       </fields>
     </stat_object>
     <stat_object color="#FFCD853F" is_substat="false">
@@ -2728,7 +2728,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2743,7 +2743,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MC_ConciseStrenght" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2758,7 +2758,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MD_NestONeedles" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2773,7 +2773,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_ME" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_ME_Dragonglass" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2788,7 +2788,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MF" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MF_RoyalPlateau" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2803,7 +2803,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MG" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MG_SharkFins" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2818,7 +2818,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FA_TauntingStylus" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2833,7 +2833,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FB_CoralRidges" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2848,7 +2848,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FC_PorcupineChops" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2863,7 +2863,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FD_JawsOfRuin" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2878,7 +2878,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FE" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FE_SombreCalamity" />
       </fields>
     </stat_object>
     <stat_object color="#FFD2B48C" is_substat="false">
@@ -2983,7 +2983,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MA_IC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown_Short" />
       </fields>
     </stat_object>
     <stat_object color="#FFD2B48C" is_substat="false">
@@ -2998,7 +2998,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3013,7 +3013,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MC_ConciseStrenght" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3028,7 +3028,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MD_NestONeedles" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3043,7 +3043,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_ME" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_ME_Dragonglass" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3058,7 +3058,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MF" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MF_RoyalPlateau" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3073,7 +3073,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MG" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MG_SharkFins" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3088,7 +3088,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FA_TauntingStylus" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3103,7 +3103,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FB_CoralRidges" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3118,7 +3118,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FC_PorcupineChops" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3133,7 +3133,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FD_JawsOfRuin" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3148,7 +3148,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FE" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FE_SombreCalamity" />
       </fields>
     </stat_object>
     <stat_object color="#FFFF1493" is_substat="false">
@@ -3253,7 +3253,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MA_IC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown_Short" />
       </fields>
     </stat_object>
     <stat_object color="#FFFF1493" is_substat="false">
@@ -3268,7 +3268,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3283,7 +3283,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MC_ConciseStrenght" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3298,7 +3298,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MD_NestONeedles" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3313,7 +3313,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_ME" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_ME_Dragonglass" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3328,7 +3328,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MF" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MF_RoyalPlateau" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3343,7 +3343,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_MG" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_MG_SharkFins" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3358,7 +3358,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FA_TauntingStylus" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3373,7 +3373,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FB_CoralRidges" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3388,7 +3388,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FC_PorcupineChops" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3403,7 +3403,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FD_JawsOfRuin" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3418,7 +3418,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Jaw_FE" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Vexa_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_FE_SombreCalamity" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -3433,7 +3433,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3448,7 +3448,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MC_Calcified" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3463,7 +3463,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MD_Chintacle" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3478,7 +3478,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_ME" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_ME_WaltzingFangs" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3493,7 +3493,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MF" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MF_HatchetSpike" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3508,7 +3508,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MG" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MG_Stentorian" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3523,7 +3523,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FA_CliffJut" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3538,7 +3538,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FB_JewelPoint" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3553,7 +3553,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FC_Stalactite" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3568,7 +3568,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FD_Pinnacle" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3583,7 +3583,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FE" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="5d6010bd-b37b-485f-b698-e5f97128a351" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FE_Apogee" />
       </fields>
     </stat_object>
     <stat_object color="#FF8B008B" is_substat="false">
@@ -3598,7 +3598,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3613,7 +3613,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MC_Calcified" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3628,7 +3628,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MD_Chintacle" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3643,7 +3643,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_ME" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_ME_WaltzingFangs" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3658,7 +3658,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MF" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MF_HatchetSpike" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3673,7 +3673,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MG" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MG_Stentorian" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3688,7 +3688,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FA_CliffJut" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3703,7 +3703,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FB_JewelPoint" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3718,7 +3718,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FC_Stalactite" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3733,7 +3733,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FD_Pinnacle" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3748,7 +3748,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FE" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FE_Apogee" />
       </fields>
     </stat_object>
     <stat_object color="#FFFA8072" is_substat="false">
@@ -3763,7 +3763,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3778,7 +3778,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MC_Calcified" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3793,7 +3793,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MD_Chintacle" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3808,7 +3808,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_ME" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_ME_WaltzingFangs" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3823,7 +3823,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MF" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MF_HatchetSpike" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3838,7 +3838,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MG" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MG_Stentorian" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3853,7 +3853,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FA_CliffJut" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3868,7 +3868,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FB_JewelPoint" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3883,7 +3883,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FC_Stalactite" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3898,7 +3898,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FD_Pinnacle" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3913,7 +3913,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FE" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="6aaa71ef-7f13-481d-a623-be964aa00c8f" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FE_Apogee" />
       </fields>
     </stat_object>
     <stat_object color="#FFCD853F" is_substat="false">
@@ -3928,7 +3928,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3943,7 +3943,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MC_Calcified" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3958,7 +3958,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MD_Chintacle" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3973,7 +3973,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_ME" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_ME_WaltzingFangs" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3988,7 +3988,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MF" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MF_HatchetSpike" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4003,7 +4003,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MG" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MG_Stentorian" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4018,7 +4018,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FA_CliffJut" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4033,7 +4033,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FB_JewelPoint" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4048,7 +4048,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FC_Stalactite" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4063,7 +4063,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FD_Pinnacle" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4078,7 +4078,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FE" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FE_Apogee" />
       </fields>
     </stat_object>
     <stat_object color="#FFD2B48C" is_substat="false">
@@ -4093,7 +4093,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4108,7 +4108,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MC_Calcified" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4123,7 +4123,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MD_Chintacle" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4138,7 +4138,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_ME" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_ME_WaltzingFangs" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4153,7 +4153,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MF" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MF_HatchetSpike" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4168,7 +4168,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MG" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MG_Stentorian" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4183,7 +4183,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FA_CliffJut" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4198,7 +4198,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FB_JewelPoint" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4213,7 +4213,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FC_Stalactite" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4228,7 +4228,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FD_Pinnacle" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4243,7 +4243,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FE" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FE_Apogee" />
       </fields>
     </stat_object>
     <stat_object color="#FFFF1493" is_substat="false">
@@ -4258,7 +4258,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4273,7 +4273,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MC_Calcified" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4288,7 +4288,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MD_Chintacle" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4303,7 +4303,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_ME" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_ME_WaltzingFangs" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4318,7 +4318,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MF" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MF_HatchetSpike" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4333,7 +4333,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_MG" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MG_Stentorian" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4348,7 +4348,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FA" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FA_CliffJut" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4363,7 +4363,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FB" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FB_JewelPoint" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4378,7 +4378,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FC" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FC_Stalactite" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4393,7 +4393,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FD" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FD_Pinnacle" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -4408,7 +4408,7 @@
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FE" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Chin_Vexa_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_FE_Apogee" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -4424,7 +4424,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc0c840cegda2agae8dg953ag019add4ca784" version="1" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="No_Jaw_Attachment" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_0_NoJaw" />
       </fields>
     </stat_object>
     <stat_object color="#FF8B008B" is_substat="false">
@@ -4440,7 +4440,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h73576c62geb39gbf91ga71fg206bca3f0386" version="1" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="No_Jaw_Attachment" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_0_NoJaw" />
       </fields>
     </stat_object>
     <stat_object color="#FFFA8072" is_substat="false">
@@ -4456,7 +4456,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0fe9e715gf305gdfa2g44d0g0ee328b2bf1a" version="1" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_3" />
         <field name="Comment" type="CommentTableFieldDefinition" value="No_Jaw_Attachment" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_0_NoJaw" />
       </fields>
     </stat_object>
     <stat_object color="#FFCD853F" is_substat="false">
@@ -4472,7 +4472,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbd32d1dbgeb75ge026g5460g752c2b6803ee" version="1" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_4" />
         <field name="Comment" type="CommentTableFieldDefinition" value="No_Jaw_Attachment" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_0_NoJaw" />
       </fields>
     </stat_object>
     <stat_object color="#FFD2B48C" is_substat="false">
@@ -4488,7 +4488,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h46273a1fg3f75ga47dg1f98g35175d3679b4" version="1" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_3" />
         <field name="Comment" type="CommentTableFieldDefinition" value="No_Jaw_Attachment" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_0_NoJaw" />
       </fields>
     </stat_object>
     <stat_object color="#FFFF1493" is_substat="false">
@@ -4504,7 +4504,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hddb3a49dga918gc425g0061g83528eacb848" version="1" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_4" />
         <field name="Comment" type="CommentTableFieldDefinition" value="No_Jaw_Attachment" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Jaw_0_NoJaw" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -4520,7 +4520,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9dccfd1eg0bb6g1c7bg0d91g2c1a9b00cf70" version="1" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="No_Top_Attachment" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_0_NoCrest" />
       </fields>
     </stat_object>
     <stat_object color="#FF800080" is_substat="false">
@@ -4536,7 +4536,7 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_0_NoCrest" />
       </fields>
     </stat_object>
     <stat_object color="#FFFA8072" is_substat="false">
@@ -4552,7 +4552,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h11263231g77c3g77bcgaaf8gb2bc59e545fb" version="1" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_3" />
         <field name="Comment" type="CommentTableFieldDefinition" value="No_Top_Attachment" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_0_NoCrest" />
       </fields>
     </stat_object>
     <stat_object color="#FFCD853F" is_substat="false">
@@ -4568,7 +4568,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbbf8cb3eg12f2g18e8gceb3g9f44eb025e0c" version="1" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_4" />
         <field name="Comment" type="CommentTableFieldDefinition" value="No_Top_Attachment" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_0_NoCrest" />
       </fields>
     </stat_object>
     <stat_object color="#FFD2B48C" is_substat="false">
@@ -4584,7 +4584,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdb43e73cg4a46g3e3cg82f8ge8ed9e1f2c17" version="1" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_4" />
         <field name="Comment" type="CommentTableFieldDefinition" value="No_Top_Attachment" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_0_NoCrest" />
       </fields>
     </stat_object>
     <stat_object color="#FFFF1493" is_substat="false">
@@ -4600,7 +4600,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1bb66f69ga9dcgfaafg9a23g62787e7dc9af" version="1" />
         <field name="TextureEntryPart" type="FixedStringTableFieldDefinition" value="Head_3" />
         <field name="Comment" type="CommentTableFieldDefinition" value="No_Top_Attachment" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Vexa_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_CrestTop_0_NoCrest" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">

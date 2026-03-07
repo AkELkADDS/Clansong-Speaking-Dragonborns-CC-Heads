@@ -69,7 +69,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h7f862644gd143gf2e2g7e36ga896b0d82e4c" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_None"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_0_NoChin"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="TextureEntryPart" type="FixedString" value="Head_1"/>
@@ -81,7 +81,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h81b8faf4gb24fg53f3g3b66g6cc9aaa43535" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_None"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_0_NoChin"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="TextureEntryPart" type="FixedString" value="Head_2"/>
@@ -93,7 +93,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h3720491aga01fgb9f4g5543g1e6169fed229" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_None"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_0_NoChin"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="TextureEntryPart" type="FixedString" value="Head_3"/>
@@ -105,7 +105,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h588cfa0dg1339g5669g48c5g4c7dab5afb00" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_None"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_0_NoChin"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="TextureEntryPart" type="FixedString" value="Head_4"/>
@@ -117,7 +117,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h28fe373bg451fgf58cg0436g98057adfdcfb" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_None"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_0_NoChin"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="TextureEntryPart" type="FixedString" value="Head_4"/>
@@ -129,7 +129,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h37ebb9b3gadd0g247agd3c9ga449ae9ad22c" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_None"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_0_NoChin"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="TextureEntryPart" type="FixedString" value="Head_4"/>
@@ -207,7 +207,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h82df57feg8085g7e6fgfd78g49f9b05e5b7d" version="2"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MA_Arcuate"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="967c77fb-a203-4bb3-ba44-02b8372aeb8f"/>
@@ -218,7 +218,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h119e46eeg8a38g1b76ge999g1173a4635a57" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MB_ClosingClaws"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="06ed12eb-6d83-43aa-a5ae-3fa4720886b7"/>
@@ -229,7 +229,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h029cc4fag3afcgd7f0g6909gcd979bf9b890" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MC_GobletHandlers"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="4c627237-e62e-4666-ae60-5831c8393e57"/>
@@ -240,7 +240,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h9e2e0331gcc43g3115gee66g7edf17c0eba4" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MD_QuilledWedge"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="23e914ca-c181-41f7-8099-6249687063d2"/>
@@ -251,7 +251,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h4c0e3072g429ag53b8g57b3g1eb28d5f64bb" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_ME"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_ME_MalformedApex"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="9623ade6-0d85-4ab3-8d78-2222fc54852e"/>
@@ -262,7 +262,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hb5066ec5g99d4gf12fg8cceg090ab1f42e9d" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MF"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MF_Malefic"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="5a367df4-3655-4c9f-bc0d-138b03ec5f8c"/>
@@ -273,7 +273,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h34ba2314gfbcbg7a24g2025g3eb89360fc52" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MG"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MG_Ophidian"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="b8b205c2-d9bd-4473-86ce-d018d897a62b"/>
@@ -284,7 +284,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hb61df247g5e84g7d3fgcc64g63fa6890de87" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FA_ReptileFrills"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="de8e82a4-b41a-40eb-9817-6ef5ab3db14d"/>
@@ -295,7 +295,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h7d3a630fg254bg258dgb320g9c1050823005" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FB_PredaciousCrest"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="ee9090a2-7315-4e1a-9c51-9d2e87ea22f8"/>
@@ -306,7 +306,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h7d4da41fg9a62g8f95g2be0g917a62f7919b" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FC_SpinousCrown"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="ceb70f54-0286-47db-a668-b509e1fea5a0"/>
@@ -317,7 +317,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h6114013cg03c6g6aadgbf79gc3236cc57ae3" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FD_HalberdBlades"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="2f1a0420-4f4e-48a8-86e7-327dbd9fe159"/>
@@ -328,7 +328,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h5c518b92g60afgce87ga908gc082f5e5532e" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FE"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FE_ProudPhalanx"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="db2cb431-c5af-49e9-bcc1-f4f411569143"/>
@@ -405,7 +405,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="haebe1852g9065g77b1g7b6dgb5ea9eea340f" version="2"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MA_Arcuate"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="c50587c7-aa8c-4af6-996b-41afc02e003c"/>
@@ -416,7 +416,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="he26930ceg329dg0f54g8674g87b7922ac22e" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MB_ClosingClaws"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="40b704de-3a60-48d9-abe7-08b3585f7861"/>
@@ -427,7 +427,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h9e4d3492g542dgce9dg8016gb92bf3d07874" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MC_GobletHandlers"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="3660a19d-6c95-44ff-a4d5-2352fac6b32b"/>
@@ -438,7 +438,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hce4d3b80g42ddgabb0gd529g9d0e61d69377" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MD_QuilledWedge"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="b246b307-b79e-4e18-98f2-e2627db3f3d6"/>
@@ -449,7 +449,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="haf52f2c0g7da4g2582gf6eag183f07695743" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_ME"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_ME_MalformedApex"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="cc96d8a4-a21b-4163-bbe1-00aba6f2636e"/>
@@ -460,7 +460,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h225bac13gecdbg2e33g43a4g2c2a98ca2582" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MF"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MF_Malefic"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="92b244bd-34fb-4863-a9fd-e0dcffc6870a"/>
@@ -471,7 +471,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h5d5ff6edgea30gac38g4a46g6c9b35f1d700" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MG"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MG_Ophidian"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="426bded9-e561-4632-b431-c86ff7b5de94"/>
@@ -482,7 +482,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hb1fcff42g6deagfc3bg6342ga39bdaabc34b" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FA_ReptileFrills"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="ce4cf5a3-ecd4-49b4-bd71-661bc4e8a248"/>
@@ -493,7 +493,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h3ab25da3gc84bg9d24g034cg77788c692e62" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FB_PredaciousCrest"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="c5e4e1fb-8138-43d8-9860-c00d236c1f7a"/>
@@ -504,7 +504,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h88b7b3adgd1dfgb583gdb95gaec0161eb946" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FC_SpinousCrown"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="b589fb14-1c80-4176-ba34-d4f2328ce8cb"/>
@@ -515,7 +515,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h69c240a7g0862g10fbg287fgf7df08d061d0" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FD_HalberdBlades"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="a8c6c8bf-7958-4504-b1b8-e0e9ad85e391"/>
@@ -526,7 +526,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h735cacaag3d32g22f9gd09eg45314e8921ea" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FE"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FE_ProudPhalanx"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="c6f23331-ec47-4114-be5d-035df887ad7a"/>
@@ -603,7 +603,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hb99d6715g2b69g7980gb88fgae24fb3d8ef5" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MA_Arcuate"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="cff516f7-8ccb-4437-b700-a6fb8db0e9d0"/>
@@ -614,7 +614,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="he411a21eg0f98g269dg3a08g5d6c66818d25" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MB_ClosingClaws"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="8000dfc1-133f-4691-bf08-c3c87eb73f54"/>
@@ -625,7 +625,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h1d760430g6fb1gb6fcg3817g9c7832147241" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MC_GobletHandlers"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="dcc06759-ba25-44d6-9881-86fe7fc443d1"/>
@@ -636,7 +636,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hd6dc59eeg3027g606egdbdbg530eed396ed3" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MD_QuilledWedge"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="7540eb83-90f7-4d20-a862-09f802ec0a05"/>
@@ -647,7 +647,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hcf5d3fa2gd36dg3f14gff76g659a87513031" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_ME"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_ME_MalformedApex"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="bf2b31a9-1ae2-4f8d-b54e-ddc41ca5689c"/>
@@ -658,7 +658,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h2273973bgfe34ge2ccgab5fg7c2b76e0f45a" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MF"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MF_Malefic"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="fc712814-3c33-49bd-8ec3-e9064ef5c1a9"/>
@@ -669,7 +669,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h85a19060ge123g52dcgcb95g8f8e6de23623" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MG"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MG_Ophidian"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="68e604db-fcbf-441f-883c-85b9be828ecf"/>
@@ -680,7 +680,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h7e3c2237g1032gbba1g855fg0d3336bc5d64" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FA_ReptileFrills"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="0cb1b926-9672-49a8-93b0-f4f57d167f52"/>
@@ -691,7 +691,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hb46483begc331g7a99g8edbg4ed08119bf06" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FB_PredaciousCrest"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="2f2d8e71-09dc-42a9-8602-f78ead6eef3b"/>
@@ -702,7 +702,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h11255a18gef68gce08g989bge8e75f089c02" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FC_SpinousCrown"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="34777069-e00d-49e2-ac87-de7f8cef4680"/>
@@ -713,7 +713,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h9d822dc4g521cg77e1gaf00g887bbdab782a" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FD_HalberdBlades"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="352b3576-c3df-437b-9e60-23606ccd92c3"/>
@@ -724,7 +724,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h8e796801g41cbge64dge0aegddadfc23fe86" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FE"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FE_ProudPhalanx"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="4926bc0e-66c3-4415-9bab-27aad476103c"/>
@@ -801,7 +801,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hc99e445fgd508g2d47g21cfgf1516dc456ac" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MA_Arcuate"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="3a3ac910-f6c0-4f10-bf7d-a01be41269b5"/>
@@ -812,7 +812,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h7acd3966gcacdg91b5gd466g802befb0332e" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MB_ClosingClaws"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="9f78581c-79fc-4d0d-8fb4-308d50d9e47e"/>
@@ -823,7 +823,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf3f91bbdgf00bgfffdg4fddg84550ab9b9f6" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MC_GobletHandlers"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="d4eea474-b743-4d8e-b230-9ed08b3a3562"/>
@@ -834,7 +834,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="he5f64ebeg6271gc4e1g09f6ga8f46f8f80fb" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MD_QuilledWedge"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="e2d793f0-7fac-44cd-8e51-9b71f5e015be"/>
@@ -845,7 +845,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h8c9e563cgddc6g99b4gae2cg22db72edf442" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_ME"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_ME_MalformedApex"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="ab1bb739-62b6-487d-af9e-8e01d711f3c6"/>
@@ -856,7 +856,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h5c60aab8g3c03g8453g8d20gba5174cd62d3" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MF"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MF_Malefic"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="99091fac-ae18-49f0-8190-0fbd6c5f11a5"/>
@@ -867,7 +867,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hc982b162g0c05gc32ag7dd3g95439ef0d37c" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MG"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MG_Ophidian"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="bb8a1043-4f2c-4a80-bbd8-8780983fd235"/>
@@ -878,7 +878,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h61cd78f8g5f41g5b9ag7360gd62d1e406e21" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FA_ReptileFrills"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="83eff40a-02f7-45df-bbdf-55938e4f88a5"/>
@@ -889,7 +889,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h3ea986cbgbf5bg9fa5gac41gbac5d728b19b" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FB_PredaciousCrest"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="af418d05-50b3-4e73-8041-7dc076b91c67"/>
@@ -900,7 +900,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h87d75241g5804ge5dcg2020g4a7ef705f9b3" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FC_SpinousCrown"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="49bc72c3-af1b-4253-9156-b3161c8e7412"/>
@@ -911,7 +911,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h52864a77g8db0g4554g54b7g42f067874df5" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FD_HalberdBlades"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="136267a7-b8d7-49b2-8ce5-e3cd7c415613"/>
@@ -922,7 +922,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h80ac0f60g1208gae89ged77ge31be7579566" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FE"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FE_ProudPhalanx"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="187ead90-d2ee-42ae-b5c2-1fc148b20b07"/>
@@ -999,7 +999,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h41bf023bg411bg9f7fg732dgd7906876d685" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MA_Arcuate"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="25924e46-792a-4e71-93d0-fa2f39550068"/>
@@ -1010,7 +1010,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hc95e4fbdg1d69g73d4g5d81ge21f89fcb359" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MB_ClosingClaws"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="6a359017-7af1-4da8-bb08-609f1b13196c"/>
@@ -1021,7 +1021,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h52d7a5b6g4e0ag6e46g20dag52941ad0cce1" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MC_GobletHandlers"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="ec3f8f93-5a3d-47e4-a85e-4945082dc99e"/>
@@ -1032,7 +1032,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hedb77967gf149ga572ga6fbg81135ada48c8" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MD_QuilledWedge"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="6fa036d1-d823-4e11-bc72-58982e282146"/>
@@ -1043,7 +1043,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hc8e4ab75gc602g8c69g451dg973e4c5b6d3b" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_ME"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_ME_MalformedApex"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="ca8299bd-b581-4224-b4bb-4bbee128b99a"/>
@@ -1054,7 +1054,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h7f2291d1g70c9g1363g11abg7a8b993ed77e" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MF"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MF_Malefic"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="5664a182-714f-459b-8e87-3775d277d076"/>
@@ -1065,7 +1065,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h655b66b6g7f23g13acg5bc1g84700ed9173d" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MG"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MG_Ophidian"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="02d87632-c938-4318-9bc6-2a02343d5c7c"/>
@@ -1076,7 +1076,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h6ec1f183g953ag3902g93d3g09790e678c13" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FA_ReptileFrills"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="025fde75-a1e0-4f90-a0dc-7716ec7ef1a1"/>
@@ -1087,7 +1087,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h1c892292g8503gbdf0gefa7g719a52bfecc4" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FB_PredaciousCrest"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="152eb053-00a6-49f6-b05c-bcfeccf103d7"/>
@@ -1098,7 +1098,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="ha0eafbaag26afg4e91gc440gc4f78412701e" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FC_SpinousCrown"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="cbdc730d-17e4-44a7-95d5-14d76fb41792"/>
@@ -1109,7 +1109,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hb6d4b9b8g39c5g5bc4g808bgf338177582c5" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FD_HalberdBlades"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="02814311-2ddf-42db-ac8d-3c21e149f805"/>
@@ -1120,7 +1120,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h50b02c67g4b20gc39dgbdc1g10a010b30c62" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FE"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FE_ProudPhalanx"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="63303f62-e999-440c-b668-a140a1d8947d"/>
@@ -1197,7 +1197,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h7ff61a62g1d83gd82fgfbabgae8783cab089" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MA_Arcuate"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="444262cb-fefb-4d80-aeb3-c0f49670eff0"/>
@@ -1208,7 +1208,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h3a944f70ga20ega2dfg72c8gcc0a1164dc02" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MB_ClosingClaws"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="e7f35683-7164-4dee-91b9-fc582db692e1"/>
@@ -1219,7 +1219,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h5541befag71c9g24b8g7545gf52c17345cc6" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MC_GobletHandlers"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="26d6ce19-b60e-4b8d-b466-10b4e970e900"/>
@@ -1230,7 +1230,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hdb7ca59dg6efdg57c1gec14gcd5c6f9fadfe" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MD_QuilledWedge"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="dd249b2d-4208-4dd4-8caa-1df590f57a4d"/>
@@ -1241,7 +1241,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h9d462b20ge79cg28b6g8a0bg67259ff47c66" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_ME"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_ME_MalformedApex"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="9c268a2f-7f97-4f2a-bfbe-4aa1935461bb"/>
@@ -1252,7 +1252,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hc7a055cbge180ge569g51a0g48b175264f78" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MF"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MF_Malefic"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="ff3cb953-ed0f-4935-b77c-db4a70f91479"/>
@@ -1263,7 +1263,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h8a97ff45g5835g34f5ga437ga8e17d620ace" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MG"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MG_Ophidian"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="0c9da1ce-a9fb-4b48-b0ce-95dd20091b3e"/>
@@ -1274,7 +1274,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h93efcd87gd296g2a47gb21ag58c8b30e2477" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FA_ReptileFrills"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="0c0c4852-9c86-4301-b11c-f817a98f62e1"/>
@@ -1285,7 +1285,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h4e3ceb37ge039ge67agb3b8g36cef1f3f04a" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FB_PredaciousCrest"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="301b187e-5a50-42d9-9f0f-382987c31c42"/>
@@ -1296,7 +1296,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h2f194b7fg3b7bg99d9g3186g61a73b913b5b" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FC_SpinousCrown"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="0af701ee-0c94-46d3-a025-8ee5b04f0325"/>
@@ -1307,7 +1307,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h4b82de78gcaa9g3a59g447cg5dd0e7d1ab40" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FD_HalberdBlades"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="3a10f2aa-002e-41e1-ad55-44f628c34963"/>
@@ -1318,7 +1318,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="he91a6c22g1534g4e32g625egb4aeb44984cf" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FE"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FE_ProudPhalanx"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="UUID" type="guid" value="4bc22cbd-6daa-4022-9c5a-1d34f91b431a"/>
@@ -1395,7 +1395,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h4bf5f6bdg462eg7b00g220fg41b69abdea33" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown_Short"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="682047b5-8ac0-4613-81ec-76739bda1b98"/>
@@ -1406,7 +1406,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h8e4d0d08g5cb7gae7eg5d7ag1c248e33a0ac" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="6f155ef2-eb30-4363-9b91-c0095d13a8f5"/>
@@ -1417,7 +1417,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h1dbcf989g0a84gb93dg0133g2b708f565324" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MC_ConciseStrenght"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="68374d11-a01e-467a-8192-02a1bce15371"/>
@@ -1428,7 +1428,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hc7bc4aa9g5736g323bg4469g3c3a184f4316" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MD_NestONeedles"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="808aeba6-26f4-48d6-b87d-9fbd89335d95"/>
@@ -1439,7 +1439,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h8259a3b4g8c40g0b24g42f0g6a26fd761059" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_ME"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_ME_Dragonglass"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="e5b3cec7-378c-4c6b-aae4-5dd032efb33c"/>
@@ -1450,7 +1450,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="ha358e5cdge7d8gdb54gb95eg9ee05dc2404e" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MF"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MF_RoyalPlateau"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="03b025e9-3270-4af3-9db9-b1db92ac5714"/>
@@ -1461,7 +1461,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h60f20b46ga522g8ed4g855fga9e3e388192f" version="2"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MG"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MG_SharkFins"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="c84d747a-b469-4834-baee-3593a4baf374"/>
@@ -1472,7 +1472,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h2eb4b597gde62g2d9ege51dg88de442aa8f2" version="2"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FA_TauntingStylus"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="d1ec489a-d1db-4bf8-957c-1a8c449f89b9"/>
@@ -1483,7 +1483,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hbabef7a7gb518g4c1fg97d0ge45ac8366ce7" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FB_CoralRidges"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="829ea685-6596-4454-8e71-2c8ebf0961cb"/>
@@ -1494,7 +1494,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h4f77fa10g47eag4163g49e9ga0ceb9be951e" version="2"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FC_PorcupineChops"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="f6144327-bcce-4cd5-9fb4-127ffa42b65b"/>
@@ -1505,7 +1505,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hb97aad6age274g0c39g6ceeg757f70672b76" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FD_JawsOfRuin"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="3e97300a-8148-44f8-b436-d97eafbf4193"/>
@@ -1516,7 +1516,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h02a0af9bge73dgd9d6g65fdg9be7f6c49003" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FE"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FE_SombreCalamity"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="94f315b3-2c28-40ba-a52a-9e82ed8543a0"/>
@@ -1593,7 +1593,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h61207052g81a3gfd11gbe03g415c2bbf2cdd" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown_Short"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="f648d997-84bf-4d4a-a248-16658a1ab035"/>
@@ -1604,7 +1604,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hb06dbb65gcb8bg7246g7bd7g91e5d6be2162" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="5f59edfd-a6e4-4099-bf73-bdf98c9dd489"/>
@@ -1615,7 +1615,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hbd156d4age346g6fb8g9efcg3e60f94b9eef" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MC_ConciseStrenght"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="9b75e131-8366-4ebf-a609-dacf683c4dfa"/>
@@ -1626,7 +1626,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h34171007g325fgb212g214egffef3e85d155" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MD_NestONeedles"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="36f99ac2-7630-42d3-9efb-15c7d02c639d"/>
@@ -1637,7 +1637,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hc90c117ag29adg81fag0c52g9d82ccb893ca" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_ME"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_ME_Dragonglass"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="81ccecf1-5d9f-47c5-a8f2-43edee75531e"/>
@@ -1648,7 +1648,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hbea4af52g9957g3435gf868g23cf9d17cde1" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MF"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MF_RoyalPlateau"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="4d5e7769-b33e-43d4-99ef-3c229f8d3850"/>
@@ -1659,7 +1659,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h02468a2ag5667ge036g3ac1g5a60ad1b47e5" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MG"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MG_SharkFins"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="315c966e-8c96-4d47-9ec5-ca0a41fa0b43"/>
@@ -1670,7 +1670,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf6db3081g564fg0c05g4ff7g836f1c0aa1fd" version="2"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FA_TauntingStylus"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="b5ef8ecd-24a8-47ef-9570-05bcbd07b8ba"/>
@@ -1681,7 +1681,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf89ed51ag1694g94d3gd77egd536e4a28457" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FB_CoralRidges"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="3ff74076-7020-4769-ac1a-29f040d15c3d"/>
@@ -1692,7 +1692,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hde70f5fbgd774g43efg5b9eg73dd33ab3f28" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FC_PorcupineChops"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="bf7dd800-57e6-4c6f-be18-ceeec69fd8e9"/>
@@ -1703,7 +1703,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h177b8543g5784g9370g7d84g51842eaaada8" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FD_JawsOfRuin"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="ff4c1f0c-9b62-4e31-aa02-7aae71b4ca24"/>
@@ -1714,7 +1714,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h6ca3c478g372egb393ga8fcge282ed305da5" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FE"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FE_SombreCalamity"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="b7118df4-8c2a-4adb-a9b5-eb88211f3476"/>
@@ -1791,7 +1791,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h31588043g6d44gab3bg2e0ag60565a67a39a" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown_Short"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="bec3d91e-b003-4c33-97d8-7cb454439789"/>
@@ -1802,7 +1802,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h138331begc8cdgff84g5946g748f16e516e6" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="23bc5990-52da-4e7d-b7b1-3158a4b3f61a"/>
@@ -1813,7 +1813,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hb91a44f4g9dffg13bdg17f9gae6283734b94" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MC_ConciseStrenght"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="ff9b50e1-8ce9-46be-b1be-e845450066bf"/>
@@ -1824,7 +1824,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hd0177a0cgfec2g70bdg45efg98bffec82ad2" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MD_NestONeedles"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="53fb81e1-9ca5-4e73-abfc-0d7763a8f440"/>
@@ -1835,7 +1835,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="ha8f26199gbaf9gec25gdb98g2b293158fd66" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_ME"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_ME_Dragonglass"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="45423da1-5dca-4c9b-984f-841d97cf1494"/>
@@ -1846,7 +1846,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h3692e692gc135gd674g7025ge184ba83b200" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MF"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MF_RoyalPlateau"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="083c8984-7696-41b0-b5f2-6112e75ad0ab"/>
@@ -1857,7 +1857,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h860f9d12gd334g8283g323age34fedc9c73b" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MG"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MG_SharkFins"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="b763797c-be69-42a6-a2c1-1e64249ea800"/>
@@ -1868,7 +1868,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hc34aae48gf00ega422g43a2g279533d6eafc" version="2"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FA_TauntingStylus"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="e3573467-ca60-4efe-b7ec-3b6693c9fc6f"/>
@@ -1879,7 +1879,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hb090bb7dg6799gf628g7f7bg660c11cd3ea7" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FB_CoralRidges"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="95abdf39-2c1b-479e-a7a5-6f55d4f37306"/>
@@ -1890,7 +1890,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hc5e07d2bga248ge62fg6efegb1cfd1016faa" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FC_PorcupineChops"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="70d69be8-4f62-4f3b-a4b4-9a0c6dcc9126"/>
@@ -1901,7 +1901,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h9759d3ffgae73g433dg554fg75a9d9b172aa" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FD_JawsOfRuin"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="ab759f74-faf1-450a-9c88-0eeaf50a2a86"/>
@@ -1912,7 +1912,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h17ec5a1agaf7cg2d3eg9896ge676f6208759" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FE"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FE_SombreCalamity"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="e85f33d2-db35-4f47-85a9-239df0117373"/>
@@ -1989,7 +1989,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h54b95a2fgfaadg2e1fg1a82g5fcdff51b3ae" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown_Short"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="64967405-766a-4470-a34c-546f09b25570"/>
@@ -2000,7 +2000,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="he00fa93ag447dg4428g3c5fg9711f133e184" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="16e32366-4cd1-4b2f-a580-3ef14ad54c4d"/>
@@ -2011,7 +2011,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hdc87f9d0g0b2cg125dgf1d7gcd12039485f9" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MC_ConciseStrenght"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="2b6529eb-72d6-4685-ba97-2d7caba5150e"/>
@@ -2022,7 +2022,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h66319b74g5bcag0228gc15eg524b94c9cd84" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MD_NestONeedles"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="0f8b1320-54a6-4bfe-a103-c3018cb1f799"/>
@@ -2033,7 +2033,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hfecb2ff3g1fa4gdcdbg7dcbg1bbd3b4c31cd" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_ME"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_ME_Dragonglass"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="42968458-0f19-4aa8-bb59-8aa47816a099"/>
@@ -2044,7 +2044,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h79b4ea44g04ebg3970g152cg00d524704b1c" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MF"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MF_RoyalPlateau"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="8a2758a5-5d1e-4b72-a122-d97c041e20e3"/>
@@ -2055,7 +2055,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h8251267dg13f7g47e2ga9b0gfd9a1c6ac980" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MG"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MG_SharkFins"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="03bddcab-5f28-4c10-8ec2-b0e7da421233"/>
@@ -2066,7 +2066,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h9efa3391gc5feg3982gad6ag3b37596c1776" version="2"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FA_TauntingStylus"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="89c30fd0-57c4-439f-8a2e-7f7feb9da8ee"/>
@@ -2077,7 +2077,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h8b604949g795eg5012g8872g4f59c153a2d5" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FB_CoralRidges"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="5abb7898-2681-463c-8d31-f2fe75c9c2f9"/>
@@ -2088,7 +2088,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h232c3db4g0069gdd42g5b38g4cb737e58d2d" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FC_PorcupineChops"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="1502616a-5a4d-4be0-9d7f-0ba78b9c78ad"/>
@@ -2099,7 +2099,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h7957f46dgbaa9ga350gffe2g7351cdf6b84f" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FD_JawsOfRuin"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="32b7415c-ead2-4ae0-b0da-4b67ea21a84d"/>
@@ -2110,7 +2110,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hc3ba53a5g8cfbgd718g1321g67bb124ad0e3" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FE"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FE_SombreCalamity"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="cdd92b09-d4c0-4e91-b790-843f9b2d5ada"/>
@@ -2187,7 +2187,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h88f3c373g08c2gcd35ga3cega13f8c248e5d" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown_Short"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="36813e26-94eb-4400-9c17-54d82ad71144"/>
@@ -2198,7 +2198,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h48ab02acgf0f9g2613gdb0fgd4046ff14ab4" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="388a0043-cc7d-49a7-89ac-dafb446a6f3d"/>
@@ -2209,7 +2209,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h78391f59gc94bgad60g4292gadf8d24f8d76" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MC_ConciseStrenght"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="7bc75fb1-aac4-4059-8fb7-a7878f322d02"/>
@@ -2220,7 +2220,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="had1971adg1c68g2e5age6eag197c8e8d840b" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MD_NestONeedles"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="fc2ef378-802b-4577-9d47-a5fb6c3c9095"/>
@@ -2231,7 +2231,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h6cad0206g7431g4780gcdd2gda09c4170dce" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_ME"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_ME_Dragonglass"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="4e685167-6157-48f2-aa60-72ec6b5dde1d"/>
@@ -2242,7 +2242,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h800cefbaga571g1db2g2a07gcd494cb3aa8f" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MF"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MF_RoyalPlateau"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="fb25e8ec-1006-4b9a-837d-f3d042d92775"/>
@@ -2253,7 +2253,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h52caaeb2g032eg5b35gfbc9g02c17fb61cd6" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MG"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MG_SharkFins"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="dd9827bd-fe2c-43d3-9bb8-dee354d2cdde"/>
@@ -2264,7 +2264,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h3f2697f3gdce3g6721ga599gb0e8895dfea8" version="2"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FA_TauntingStylus"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="22631608-3db7-41c0-8fdc-db0bc706ea96"/>
@@ -2275,7 +2275,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h2bb4e7adg7af2gabe3g1c11gd46784db5207" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FB_CoralRidges"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="d2e3773a-ae96-4078-9eca-22ef5d88a664"/>
@@ -2286,7 +2286,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hd0eb6503g5a12g407bgbea3g7ab3ef83a8b4" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FC_PorcupineChops"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="75a4b8df-4e9d-4f5e-a60c-d664c771c406"/>
@@ -2297,7 +2297,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hb1a875f2g6210gcbb0g4bbcg829ee26c0b8e" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FD_JawsOfRuin"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="7b23ff9f-b4ff-4714-9795-de4540a0040b"/>
@@ -2308,7 +2308,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h2bec51f6g23b9gb277g0439g6e302434bb0f" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FE"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FE_SombreCalamity"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="a25e553d-2b45-43f6-a1ee-993cb1ccd902"/>
@@ -2385,7 +2385,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="he773c516gcf4eg0258g19edg9245a41947f0" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown_Short"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="30e0c4b3-eedf-48a0-8797-b6ffc89bef13"/>
@@ -2396,7 +2396,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hb8e80c56gfbd0g8e5eg8a14gc306add5f7aa" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="5fe54145-6841-404f-8e2a-5746b04c09d5"/>
@@ -2407,7 +2407,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="ha8bb7eadg3b5ag3028g5cfbg25877e455425" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MC_ConciseStrenght"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="b81e2b2f-d102-464a-b659-483316c4f3c7"/>
@@ -2418,7 +2418,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h3dd3e1f7g1798g8a3dge82ag7ea9feccdce4" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MD_NestONeedles"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="5c28942e-b0e5-4682-bcb9-6f9cea6c2796"/>
@@ -2429,7 +2429,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="ha5842660g3046g97cfgdaa5g0108ae6941ad" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_ME"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_ME_Dragonglass"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="a8b8b010-b258-48eb-b926-da8e53dfa25b"/>
@@ -2440,7 +2440,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h67ddfbc5g8f34g34a0gc1c2gd7a29c9b36c0" version="2"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MF"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MF_RoyalPlateau"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="0b3f69bb-7493-44bd-a8d9-92a5566c7aed"/>
@@ -2451,7 +2451,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hd245ebabg97a0gd402g334dg8be835b1ea7c" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MG"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MG_SharkFins"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="260657fd-6fd0-4f2a-8da1-711fce67d21a"/>
@@ -2462,7 +2462,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h1c8ba1edg1251g5407gdbcfg7dfb2fc81083" version="2"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FA_TauntingStylus"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="073360d2-10a6-49e9-a828-c66e48faa6f4"/>
@@ -2473,7 +2473,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h96f85051gccdfg4fa0ga00bga3633b18ad87" version="2"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FB_CoralRidges"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="25959129-0a2f-425c-9983-479839274b4b"/>
@@ -2484,7 +2484,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="ha437b994gc126g15f2g3ea5gcb10a13c0de1" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FC_PorcupineChops"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="30b98e75-e524-4a30-952d-65aa1b6149ef"/>
@@ -2495,7 +2495,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h16606a7cg5a5dg5b19ga8d2gd70c3e9487d4" version="2"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FD_JawsOfRuin"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="aceb0620-382d-4f43-ac22-02298c38c20a"/>
@@ -2506,7 +2506,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h3a6e8140gc21cg434agd583g397ddd7cc9f0" version="2"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FE"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FE_SombreCalamity"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="UUID" type="guid" value="5862fd4c-cdc3-4392-ac2e-af6524762af2"/>
@@ -2517,7 +2517,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h6b2b28a9g655bgb09fgb956gd64158cbf09a" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="be814193-0a23-45cc-b96f-64771a3a3450"/>
@@ -2528,7 +2528,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="heb0225f3gedb0ge037g856bgbb17f323f0f6" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MC_Calcified"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="51d4a10c-4800-4d0a-9008-60d3513ed4da"/>
@@ -2539,7 +2539,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h8669e883g293cg488fgae9cg38d823fd5c41" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MD_Chintacle"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="be0c7d1f-7683-4977-b49e-62a450af9c2a"/>
@@ -2550,7 +2550,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hc5b56402g6a43g5764g085bg5ee6600a4dc3" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_ME"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_ME_WaltzingFangs"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="c82ec325-825f-4f61-a0e0-8f379ff2f31b"/>
@@ -2561,7 +2561,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h723069f2gefc1g7be1g08dfgc8526ccee02e" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MF"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MF_HatchetSpike"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="0ed00baf-95fc-4915-b579-ff25d2087794"/>
@@ -2572,7 +2572,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h5163b505g3230g37c8gfc1dg5272c387bb31" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MG"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MG_Stentorian"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="4f691a10-b796-4a14-b95d-2df6964747e3"/>
@@ -2583,7 +2583,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h33687b14gddc7g4fd2gbdf0gc5f4d41d1096" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FA_CliffJut"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="8c522827-2bdd-4cd2-8826-8be40a988ac7"/>
@@ -2594,7 +2594,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="had3fa0bagdb4dga3feg38c9g05cdf0aa4b93" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FB_JewelPoint"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="f8cf086d-529f-4d20-b7c6-bff577f47a2a"/>
@@ -2605,7 +2605,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h1daf7cc7g3a42g17edg5f4ag3f8561104bd1" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FC_Stalactite"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="91d368a4-fdb8-4966-8045-a785e6147220"/>
@@ -2616,7 +2616,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf79e2d14g4313gfc33g1c66g8174f2575fc0" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FD_Pinnacle"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="570cfca2-af92-4703-adb9-95c95753d478"/>
@@ -2627,7 +2627,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h66445e51gcde8g6737gcaa9g0eb5206d52c4" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FE"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FE_Apogee"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="e0664a88-2fd8-44d8-8444-2fc268b6197b"/>
@@ -2638,7 +2638,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf0e438c2gf09ag9f72g356eg4bab1f23179b" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="43710c90-b186-4e6a-b3a2-199fa1b910f2"/>
@@ -2649,7 +2649,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h912021f7gc7cbg46a9g8efdga5a535e86118" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MC_Calcified"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="77333f62-4a6d-4f0e-888a-10a336043a16"/>
@@ -2660,7 +2660,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hfa482d30gf88dgb942g6c80gb1d44634423f" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MD_Chintacle"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="f6cc4cd4-c5e6-45b5-96b4-33d88428ee11"/>
@@ -2671,7 +2671,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h9af52f6egc25eg6a2eg3105g528b98c81ab0" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_ME"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_ME_WaltzingFangs"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="6ddf6b5a-c969-402c-92f1-0343a4217081"/>
@@ -2682,7 +2682,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h76dd3935g7a4dgd34dg4742g6938ff96f830" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MF"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MF_HatchetSpike"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="f73717b7-15d5-46c0-8afd-aeeefee9dd6c"/>
@@ -2693,7 +2693,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h21dff68egf8b5g2ec0gaf5dgb4be98b71727" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MG"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MG_Stentorian"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="c3131899-2c63-4ffa-bbec-1ececf1971e1"/>
@@ -2704,7 +2704,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h32c348b8geba8g3b7ag4f71g7f8b7d82757c" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FA_CliffJut"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="289c816f-5afc-46ad-af04-8af2aa2bfe15"/>
@@ -2715,7 +2715,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h41d91973gb7f4g6aedg858egfd95920c7456" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FB_JewelPoint"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="b90fb28c-502b-40e2-b08c-4d9aed2d653e"/>
@@ -2726,7 +2726,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h07520e60g4ca6ge27ag57edg86059b5719e4" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FC_Stalactite"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="b2f0a08c-3e8d-4bca-9b75-44700182cdcc"/>
@@ -2737,7 +2737,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="ha1a3d67ageb49g7521g6581g09728eb1e6a0" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FD_Pinnacle"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="7c48ded2-a623-4fb8-b963-66c063821579"/>
@@ -2748,7 +2748,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h25c66e2bg6cafgd0a1gc508gd39bb9f3d91b" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FE"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FE_Apogee"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="0bb3b154-9c18-4705-9688-fd3e7ce10f17"/>
@@ -2759,7 +2759,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hd469cd86gdf9bgd6e4g36e9g9ef23bee31ef" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="18efe119-b391-4f17-bc89-f11c051dd7cb"/>
@@ -2770,7 +2770,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h096f4a82gfa86g19ccg3cc2gca9198d6200a" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MC_Calcified"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="aa647fa5-1475-4f55-a930-b9c3c0fe05c2"/>
@@ -2781,7 +2781,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h88854f8dg4602gfd63g58e7g9889d89e0d77" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MD_Chintacle"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="41e476ab-f653-4a4d-98e6-9d812812d08c"/>
@@ -2792,7 +2792,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h91fa2d98ge38cgd543g04e0g4676fa57a656" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_ME"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_ME_WaltzingFangs"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="63d8c15d-7863-4441-a0d3-f510fb848e48"/>
@@ -2803,7 +2803,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h6122c764g9e30gf99cg1467g05249fad69b5" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MF"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MF_HatchetSpike"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="a52869f4-0986-4f72-80f8-73a7c717da35"/>
@@ -2814,7 +2814,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf4b9761bg8b25g9df0gbb88g944327ab930f" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MG"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MG_Stentorian"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="dfea175d-faba-4c55-90bc-bb7ac089237f"/>
@@ -2825,7 +2825,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h28f1b75cg9fd4ge385ga08ag61f17c6ebe26" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FA_CliffJut"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="c00f7df6-6681-4b82-8e06-8c4c5408ba13"/>
@@ -2836,7 +2836,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h76c6dafbgd23bgb734g6fffgebb1c70025fa" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FB_JewelPoint"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="eb2f1161-095c-4305-be6f-0777fafb1c43"/>
@@ -2847,7 +2847,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h804090a0ge68fg5cb3g5738g3d4421c6ff9b" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FC_Stalactite"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="86e3ba97-4501-4997-83f9-35fc2d666cac"/>
@@ -2858,7 +2858,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h7796b0c5gd3d8g9c72gb60bg79218026f6a4" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FD_Pinnacle"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="fc5a4d12-b636-4286-b82f-ad0d46bbca60"/>
@@ -2869,7 +2869,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h4b4307b1gf29eg68aegf9c7gd10bc897dd68" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FE"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FE_Apogee"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="d75890c0-657d-4498-89b9-ce0627009197"/>
@@ -2880,7 +2880,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h4b2952aeg05b8gc188g226cg88ea88b27f4f" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="42b1f68f-626b-4437-baa0-00739476e4f6"/>
@@ -2891,7 +2891,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h4db43132g655ag773bgad7dgaa6d007bf249" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MC_Calcified"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="5b313f63-a1d8-45b5-ab25-c4c548c65892"/>
@@ -2902,7 +2902,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hd433f572g5fdbg4c22g9cddg7ba40da801a5" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MD_Chintacle"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="acd6f688-cc87-4ec7-a0c9-472f205e7eca"/>
@@ -2913,7 +2913,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h26b9ced1g54d0gd905gc0ecg4c4f417d1feb" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_ME"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_ME_WaltzingFangs"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="baa960aa-53fa-43cf-89ed-82a25bab7422"/>
@@ -2924,7 +2924,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h590fd44fg8bcage872g8a4dg2b180d1c5915" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MF"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MF_HatchetSpike"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="502ac3b2-0447-43b3-8d3d-7656310eccaa"/>
@@ -2935,7 +2935,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h886d87d8gae90g5497ge560gba1e7f116743" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MG"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MG_Stentorian"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="c375564b-eaa4-4805-8479-8f59c2c19b48"/>
@@ -2946,7 +2946,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h2a4768ffg568fg19c7g2fd6g6d145f290688" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FA_CliffJut"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="ebac309b-cf5b-4c69-b704-1cb076b9b9b9"/>
@@ -2957,7 +2957,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h8803eaceg885fge2c5gdf7ag9aaf4f3ad569" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FB_JewelPoint"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="d8b1f870-8ab0-43b0-9726-7669e5380467"/>
@@ -2968,7 +2968,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hbec23617gbbb5gc079g983eg4a092557ab91" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FC_Stalactite"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="0a17a817-4832-4995-abf9-9e11688666d3"/>
@@ -2979,7 +2979,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hee814213ge362gde52gd7e2gb70a8fa93708" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FD_Pinnacle"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="bddbebd7-9dc8-4d09-b836-92a7158fe915"/>
@@ -2990,7 +2990,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h188a76adg52eag7403ga564gcd4fe90e5a5a" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FE"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FE_Apogee"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="7d2eb450-4509-43fc-be40-d1dd002ec22b"/>
@@ -3001,7 +3001,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h2d8390f8g86bag7aadg7a83gefe09c1127d1" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="20dd6032-b6e7-45d0-bf38-ba89b28266b3"/>
@@ -3012,7 +3012,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hbca854b8g55dbg06edgeb9dg2fc846d64734" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MC_Calcified"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="8b1b68f7-eb5e-4a68-ba87-68c96593c99f"/>
@@ -3023,7 +3023,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h00e0d15agdf2cgb4b6gf59ega70454d13bf4" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MD_Chintacle"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="4e07a5e9-f382-4e18-b6d4-cfbac8dca77c"/>
@@ -3034,7 +3034,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hd1f52edagfc2fg1db0g54ffgd004d114dea9" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_ME"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_ME_WaltzingFangs"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="296c8f0d-f66d-4ea0-a291-37c7da7e20af"/>
@@ -3045,7 +3045,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h41c33e07gfddfgae46g0251gcd0983bd4840" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MF"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MF_HatchetSpike"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="c8664d6a-8ea1-4572-b18d-7daa715b3565"/>
@@ -3056,7 +3056,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h682ded23g8417gf4ddg9551ge645ea0bdc98" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MG"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MG_Stentorian"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="d6768f3c-0589-45b0-a4b3-62fa78eb3b9f"/>
@@ -3067,7 +3067,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h9a570481g9a9fg6b73g48ddgff98a8ebd271" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FA_CliffJut"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="b60e0d66-569a-4dbd-9705-c481c41c2159"/>
@@ -3078,7 +3078,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="heeaf90f8gbeaeg3d50g90e3g37f02f4eb254" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FB_JewelPoint"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="deadb3d6-e61c-4d08-97ee-07bc998d48ec"/>
@@ -3089,7 +3089,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hc6dfefe7g7e2bg999eg4047g6a5549d1aa04" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FC_Stalactite"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="ea1acc25-a9be-429f-a449-d7d09d4f73ac"/>
@@ -3100,7 +3100,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hd3f59b12g3c0fgcec8g54d4g0c8249a490c0" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FD_Pinnacle"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="f783ed94-89b5-4512-ae10-6049eedaa305"/>
@@ -3111,7 +3111,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h1c6cced2g723cgbceeg55b8g1950a39284fc" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FE"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FE_Apogee"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="b31b711a-80a9-4664-bccf-122d036d7b92"/>
@@ -3122,7 +3122,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h4880b583g9d43g8e07g9a90geb317c26350c" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="b7eaf604-9066-40fd-9eed-18d671751c82"/>
@@ -3133,7 +3133,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h71f51cdcg1c76gf824g23c9ge40fb59d62de" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MC_Calcified"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="6a2f0177-759d-496e-80f7-b035ad7c4d7a"/>
@@ -3144,7 +3144,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h301eadecgf4e2g2026g6569gd847ace0000e" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MD_Chintacle"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="9912b7a0-a50e-49f3-bace-f1c77934e7bc"/>
@@ -3155,7 +3155,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h040c0e2cg035eg9987g9bf7g86ac4f1b5171" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_ME"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_ME_WaltzingFangs"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="eeac8490-9f1d-445d-94d3-7026c1625503"/>
@@ -3166,7 +3166,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h7fa5e6eegc9b6g3f3fg8550g3acb912f6f75" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MF"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MF_HatchetSpike"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="5731b5aa-9e3d-475b-be94-4105180cce26"/>
@@ -3177,7 +3177,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hf5300e35gbf96gba83ge634g69e5ed682f6b" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MG"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MG_Stentorian"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="4afc3c87-5f11-4f34-92af-d70b12cb1a09"/>
@@ -3188,7 +3188,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h251b0dceg1e78gfb44g1b52g75b542e811b0" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FA"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FA_CliffJut"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="29b3c35a-645b-4985-981c-32af5db3a7c4"/>
@@ -3199,7 +3199,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hc879b1c9g4889g37fbg55deg7df1e1e8bbc5" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FB"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FB_JewelPoint"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="17b22785-58c8-4faa-a632-9a8d9cf201dd"/>
@@ -3210,7 +3210,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h07415569gbee8gab26g66c4g68585fa5fa4d" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FC"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FC_Stalactite"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="dbdef598-209f-4499-b9af-6285f7fcf515"/>
@@ -3221,7 +3221,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h21f2e668g2843ge5fdge647g8224887bda1f" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FD"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FD_Pinnacle"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="4d577339-2247-42a3-a5b1-7e077f49f24a"/>
@@ -3232,7 +3232,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h20c646bfg2849gef45g2fc7g13b14f836d86" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FE"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FE_Apogee"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="2362ae3e-01bc-44cb-91ce-e480f803597c"/>
@@ -3243,7 +3243,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hc0c840cegda2agae8dg953ag019add4ca784" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_None"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_0_NoJaw"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="TextureEntryPart" type="FixedString" value="Head_2"/>
@@ -3255,7 +3255,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h73576c62geb39gbf91ga71fg206bca3f0386" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_None"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_0_NoJaw"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="TextureEntryPart" type="FixedString" value="Head_2"/>
@@ -3267,7 +3267,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h0fe9e715gf305gdfa2g44d0g0ee328b2bf1a" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_None"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_0_NoJaw"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="TextureEntryPart" type="FixedString" value="Head_3"/>
@@ -3279,7 +3279,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hbd32d1dbgeb75ge026g5460g752c2b6803ee" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_None"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_0_NoJaw"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="TextureEntryPart" type="FixedString" value="Head_4"/>
@@ -3291,7 +3291,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h46273a1fg3f75ga47dg1f98g35175d3679b4" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_None"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_0_NoJaw"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="TextureEntryPart" type="FixedString" value="Head_3"/>
@@ -3303,7 +3303,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hddb3a49dga918gc425g0061g83528eacb848" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_None"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_0_NoJaw"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
                     <attribute id="TextureEntryPart" type="FixedString" value="Head_4"/>
@@ -3315,7 +3315,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h9dccfd1eg0bb6g1c7bg0d91g2c1a9b00cf70" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="5d6010bd-b37b-485f-b698-e5f97128a351"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_None"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_0_NoCrest"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="TextureEntryPart" type="FixedString" value="Head_2"/>
@@ -3327,7 +3327,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h49132214g7137g9394g33ccgdab16e815e57" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="b6f55108-9a6c-4734-bd8f-6bd20eeb15d9"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_None"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_0_NoCrest"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="TextureEntryPart" type="FixedString" value="Head_1"/>
@@ -3339,7 +3339,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h11263231g77c3g77bcgaaf8gb2bc59e545fb" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="6aaa71ef-7f13-481d-a623-be964aa00c8f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_None"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_0_NoCrest"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="TextureEntryPart" type="FixedString" value="Head_3"/>
@@ -3351,7 +3351,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hbbf8cb3eg12f2g18e8gceb3g9f44eb025e0c" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="c887bd7f-d8a4-4668-ae7f-d6103bfa47dc"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_None"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_0_NoCrest"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="TextureEntryPart" type="FixedString" value="Head_4"/>
@@ -3363,7 +3363,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hdb43e73cg4a46g3e3cg82f8ge8ed9e1f2c17" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="a8ba4019-ef86-43d8-aff0-8620c4527cdf"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_None"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_0_NoCrest"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="TextureEntryPart" type="FixedString" value="Head_4"/>
@@ -3375,7 +3375,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h1bb66f69ga9dcgfaafg9a23g62787e7dc9af" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="49bb431f-e75e-4f96-93f9-6e46dd0f6a4c"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_None"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_0_NoCrest"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
                     <attribute id="TextureEntryPart" type="FixedString" value="Head_3"/>

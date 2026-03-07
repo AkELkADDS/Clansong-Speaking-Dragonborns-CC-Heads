@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40 
-   Tue 03/03/2026  7:29:08.40 
+   Sat 03/07/2026  7:50:22.60 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -773,7 +773,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 3, 2026 7:29:11 AM
+  Started : Saturday, March 7, 2026 7:50:25 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Projects\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\
 
@@ -784,7 +784,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     711	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\meta.lsx100%  
-	    New File  		   3.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\thumbnail.png  0%  100%  
+	    New File  		   3.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\thumbnail.png 31%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -793,7 +793,11 @@ SECTION 2: COPY OPERATIONS
    Files :         2         2         0         0         0         0
    Bytes :    3.20 m    3.20 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Tuesday, March 3, 2026 7:29:11 AM
+
+
+   Speed :           3358183000 Bytes/sec.
+   Speed :           192156.772 MegaBytes/min.
+   Ended : Saturday, March 7, 2026 7:50:25 AM
 
  
 [DEBUG] Counting source files 
@@ -819,7 +823,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 3, 2026 7:29:13 AM
+  Started : Saturday, March 7, 2026 7:50:27 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Editor\Mods\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\
 
@@ -838,7 +842,11 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :    1.72 m    1.72 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Tuesday, March 3, 2026 7:29:13 AM
+
+
+   Speed :           1810149000 Bytes/sec.
+   Speed :           103577.556 MegaBytes/min.
+   Ended : Saturday, March 7, 2026 7:50:27 AM
 
  
 [DEBUG] Counting source files 
@@ -864,7 +872,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 3, 2026 7:29:15 AM
+  Started : Saturday, March 7, 2026 7:50:28 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Mods\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\
 
@@ -888,9 +896,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           3545273000 Bytes/sec.
-   Speed :           202862.148 MegaBytes/min.
-   Ended : Tuesday, March 3, 2026 7:29:15 AM
+   Speed :           1772636500 Bytes/sec.
+   Speed :           101431.074 MegaBytes/min.
+   Ended : Saturday, March 7, 2026 7:50:28 AM
 
  
 [DEBUG] Counting source files 
@@ -916,7 +924,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 3, 2026 7:29:17 AM
+  Started : Saturday, March 7, 2026 7:50:30 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\
 
@@ -1006,8 +1014,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2623	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_DGB_Heads_GlowInk\f23fe295-f673-456c-ad02-265a2bab006c.lsf100%  
 	    New File  		    3376	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_DGB_Heads_GlowInk\f6adb9d8-626e-cfee-d9e8-32aa75745827.lsf100%  
 	    New File  		    3378	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_DGB_Heads_GlowInk\faec6c9d-4b4f-0309-a09c-c071dd3aa483.lsf100%  
-	    New File  		   14006	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_DGB_TAV_Heads_A\98160fbe-4a53-4702-3245-4a40f1df0e1f.lsf100%  
-	    New File  		    3793	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_DGB_TAV_Heads_A\a6bb1dde-2a3c-4c0d-8372-2b4e876818e7.lsf100%  
 	    New File  		    2583	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_DGB_NPC_Heads_HUM_Weights_AkELkA\04e27b93-6e6a-4469-bfbc-2da624648679.lsf100%  
 	    New File  		    2583	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_DGB_NPC_Heads_HUM_Weights_AkELkA\064c6e04-90a3-41b0-9431-597d078a6496.lsf100%  
 	    New File  		    2591	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_DGB_NPC_Heads_HUM_Weights_AkELkA\0716706b-5daa-432c-98e3-e01f222a0473.lsf100%  
@@ -1103,6 +1109,8 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2868	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_DGB_NPC_Heads_HUM_Weights_AkELkA\fe94589f-6fea-4e8d-a029-1e42223b9f54.lsf100%  
 	    New File  		    2864	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_DGB_NPC_Heads_HUM_Weights_AkELkA\ff4b8bab-7ab1-4308-b1ce-13159a2a3cf1.lsf100%  
 	    New File  		    3835	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_DGB_NPC_Heads_HUM_Weights_Pearl_AkELkA\c53f5bcb-2d2f-4033-a270-253b98cda638.lsf100%  
+	    New File  		   14006	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_DGB_TAV_Heads_A\98160fbe-4a53-4702-3245-4a40f1df0e1f.lsf100%  
+	    New File  		    3793	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_DGB_TAV_Heads_A\a6bb1dde-2a3c-4c0d-8372-2b4e876818e7.lsf100%  
 	    New File  		    2584	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_DMH_Pearl\1d661993-9429-482a-b4e0-b988eab9bd74.lsf100%  
 	    New File  		    2587	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_DMH_Pearl\9e26e5c9-582f-45fa-8006-29b69674df55.lsf100%  
 	    New File  		    2641	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_DMH_Pearl\b3780d4c-1c1a-49bd-b9fc-a69e9d77d999.lsf100%  
@@ -1156,12 +1164,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2715	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Slayer_Assets_Pearl\d9259d14-24be-4c04-a577-a89d6f7311b1.lsf100%  
 	    New File  		    2701	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Slayer_Assets_Pearl\e12cde41-155d-4cbb-9a30-34231aa6c12a.lsf100%  
 	    New File  		    2717	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Slayer_Assets_Pearl\fe1982b1-4bd7-961c-0e35-64a89e7ce57d.lsf100%  
-	    New File  		    2765	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Slayer_Assets_Rathgor\048d1e24-9648-d210-0910-66bdd9ecd9f6.lsf100%  
-	    New File  		    2765	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Slayer_Assets_Rathgor\50d9388a-1b02-e60e-2053-684055333cb6.lsf100%  
-	    New File  		    2750	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Slayer_Assets_Rathgor\51a690d7-e72f-4137-b345-8d98fc02f81a.lsf100%  
-	    New File  		    2764	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Slayer_Assets_Rathgor\80f52026-f4f8-41c2-8ab8-6961198fef06.lsf100%  
-	    New File  		    2764	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Slayer_Assets_Rathgor\8f11e68c-ec01-46ab-9de5-afab1769b8e4.lsf100%  
-	    New File  		    2751	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Slayer_Assets_Rathgor\e6fb7eb3-1cd4-ed33-528a-ad3c31ae19f7.lsf100%  
 	    New File  		    2689	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\0726e337-3531-4c09-a945-f62b4acdcb31.lsf100%  
 	    New File  		    2630	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\0835da21-40df-4861-b8bb-de49377b4c6c.lsf100%  
 	    New File  		    2642	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\089bd70c-dd37-4fea-a2f4-af7e429af3ef.lsf100%  
@@ -1186,26 +1188,32 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2689	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\601a3dd4-dc3a-45e3-a9d7-2638e52188f0.lsf100%  
 	    New File  		    3742	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\66bbed3a-8eee-4c5b-940b-b6c20effc790.lsf100%  
 	    New File  		    2637	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\66c93e0b-b438-43ab-b49e-ede0f0b0892a.lsf100%  
+	    New File  		    2765	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Slayer_Assets_Rathgor\048d1e24-9648-d210-0910-66bdd9ecd9f6.lsf100%  
 	    New File  		    2683	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\7422620c-d529-4f7a-a39b-9a4e562c1387.lsf100%  
 	    New File  		    2683	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\7dcd7d38-7b75-44fa-8e39-87797f6fd0cc.lsf100%  
 	    New File  		    2642	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\85e66aba-e4e9-49a0-9b69-71a88860886a.lsf100%  
 	    New File  		    2645	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\8a684349-c795-4bee-a7f5-f427a11117f7.lsf100%  
 	    New File  		    2637	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\8c69cd4c-3234-46d5-875e-5d8932728a96.lsf100%  
-	    New File  		    3747	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Vorzakar\ccae113a-3c40-445e-8484-637360c452d0.lsf100%  
-	    New File  		    2591	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Vorzakar\fc400f76-340a-fee4-30af-076465a289e1.lsf100%  
 	    New File  		    2873	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\a1c66e68-7d3e-48d0-97a2-ea616dd6f895.lsf100%  
 	    New File  		    2636	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\a276010a-2263-416d-80b2-0bfab514f3fd.lsf100%  
 	    New File  		    2645	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\aae66863-8cac-4e83-b720-d6be2873ae37.lsf100%  
 	    New File  		   44216	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\ab570b48-9682-b8bb-5a42-4bd0e63df30a.lsf100%  
 	    New File  		    2645	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\b308e91d-ddb1-41e6-96fe-73d45ddbd288.lsf100%  
+	    New File  		    2765	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Slayer_Assets_Rathgor\50d9388a-1b02-e60e-2053-684055333cb6.lsf100%  
 	    New File  		    2638	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\b56a3afb-bc20-4407-8e9a-5b220bee95b3.lsf100%  
+	    New File  		    2750	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Slayer_Assets_Rathgor\51a690d7-e72f-4137-b345-8d98fc02f81a.lsf100%  
 	    New File  		    2637	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\c2877697-2882-4a85-8918-7eae06eeb39a.lsf100%  
+	    New File  		    2764	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Slayer_Assets_Rathgor\80f52026-f4f8-41c2-8ab8-6961198fef06.lsf100%  
 	    New File  		    2688	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\c494763f-8d77-4947-a5ac-4d2ec3e6440a.lsf100%  
+	    New File  		    2764	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Slayer_Assets_Rathgor\8f11e68c-ec01-46ab-9de5-afab1769b8e4.lsf100%  
+	    New File  		    2751	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Slayer_Assets_Rathgor\e6fb7eb3-1cd4-ed33-528a-ad3c31ae19f7.lsf100%  
 	    New File  		    2637	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\e9a2ddef-e378-4d57-aeb2-f12404b8f7a9.lsf100%  
 	    New File  		    2645	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\ea02fad0-03c4-4502-a298-1f4983374105.lsf100%  
 	    New File  		    2867	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\eb1c642f-3c66-476d-bb82-e0509089f3b9.lsf100%  
 	    New File  		    2643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\fbd6aa4f-c010-4151-a638-f252bbaea47f.lsf100%  
 	    New File  		    2636	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Valtheris\fc588acb-4198-4075-b356-781d09346f87.lsf100%  
+	    New File  		    3747	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Vorzakar\ccae113a-3c40-445e-8484-637360c452d0.lsf100%  
+	    New File  		    2591	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Content\[PAK]_Vorzakar\fc400f76-340a-fee4-30af-076465a289e1.lsf100%  
 	    New File  		   56980	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_NPC_Heads_HUM_W\Chin\DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FA.GR2100%  
 	    New File  		     173	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_NPC_Heads_HUM_W\Chin\DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FA.xml100%  
 	    New File  		   59216	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_NPC_Heads_HUM_W\Chin\DGB_F_NKD_Head_Vexa_KarlachSK_Chin_FB.GR2100%  
@@ -1490,7 +1498,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_NKD_Head_Valtheris_Jaw_MF_B.xml100%  
 	    New File  		  202440	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_NKD_Head_Valtheris_Jaw_MG.GR2100%  
 	    New File  		     199	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_NKD_Head_Valtheris_Jaw_MG.xml100%  
-	    New File  		  668888	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Vorzakar\Head\DGB_M_NKD_Head_Vorzakar.GR2100%  
+	    New File  		  668888	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Vorzakar\Head\DGB_M_NKD_Head_Vorzakar.GR2 39%  100%  
 	    New File  		     191	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Vorzakar\Head\DGB_M_NKD_Head_Vorzakar.xml100%  
 
 ------------------------------------------------------------------------------
@@ -1502,9 +1510,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           693474976 Bytes/sec.
-   Speed :           39680.956 MegaBytes/min.
-   Ended : Tuesday, March 3, 2026 7:29:17 AM
+   Speed :           368696341 Bytes/sec.
+   Speed :           21096.973 MegaBytes/min.
+   Ended : Saturday, March 7, 2026 7:50:30 AM
 
  
 [DEBUG] Counting source files 
@@ -1530,7 +1538,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 3, 2026 7:29:18 AM
+  Started : Saturday, March 7, 2026 7:50:32 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\
 
@@ -1604,17 +1612,12 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  716368	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DurgeMH\Head\DurgeB\DGB_M_NKD_Head_DMH_B.GR2100%  
 	    New File  		  633928	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\CrestTop\DGB_EL_FPearl_Top_CCrwn_MF.GR2100%  
 	    New File  		  248480	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_CCrwn\Jaw\DGB_EL_FPearl_Jaw_CCrwn_ME.GR2100%  
-	    New File  		  248256	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MRathgor_Jaw_CCrwn_ME.GR2100%  
 	    New File  		   52000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Chin\DGB_EL_FPearl_Chin_DMH_MA.GR2100%  
-	    New File  		  290120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\CrestTop\DGB_EL_FPearl_Top_DMH_MA_L.GR2100%  
-	    New File  		  290176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\CrestTop\DGB_EL_FPearl_Top_DMH_MA_R.GR2100%  
 	    New File  		  185456	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Jaw\DGB_EL_FPearl_Jaw_DMH_MD_L.GR2100%  
 	    New File  		  185712	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\Jaw\DGB_EL_FPearl_Jaw_DMH_MD_R.GR2100%  
+	    New File  		  290120	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\CrestTop\DGB_EL_FPearl_Top_DMH_MA_L.GR2100%  
+	    New File  		  290176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_DMH\CrestTop\DGB_EL_FPearl_Top_DMH_MA_R.GR2100%  
 	    New File  		   93392	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Chin\DGB_EL_FPearl_Chin_MC_RefA_C.GR2100%  
-	    New File  		  144340	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FVexa_Jaw_Pearl_CoralRFrills.GR2100%  
-	    New File  		  241136	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_FPearl_Jaw_B_Vexa_L.GR2100%  
-	    New File  		  241136	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_FPearl_Jaw_B_Vexa_R.GR2100%  
-	    New File  		  238100	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_FPearl_Jaw_C_Vexa.GR2100%  
 	    New File  		  616596	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_B_L.GR2100%  
 	    New File  		  616596	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_B_R.GR2100%  
 	    New File  		  420420	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_MC_RefA_C.GR2100%  
@@ -1622,6 +1625,10 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  863380	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_FPearl_Top_B_Vexa_L.GR2100%  
 	    New File  		  863380	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_FPearl_Top_B_Vexa_R.GR2100%  
 	    New File  		  831832	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_FPearl_Top_C_Vexa.GR2100%  
+	    New File  		  144340	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FVexa_Jaw_Pearl_CoralRFrills.GR2100%  
+	    New File  		  241136	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_FPearl_Jaw_B_Vexa_L.GR2100%  
+	    New File  		  241136	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_FPearl_Jaw_B_Vexa_R.GR2100%  
+	    New File  		  238100	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_FPearl_Jaw_C_Vexa.GR2100%  
 	    New File  		   51996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Chin\DGB_EL_FVexa_Chin_Vexa_MA_Vexa_DMH.GR2100%  
 	    New File  		   93400	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Chin\DGB_EL_FVexa_Chin_Vexa_MC_Vexa_RefA_C.GR2100%  
 	    New File  		  290112	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MA_Vexa_DMH_L.GR2100%  
@@ -1633,6 +1640,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  185568	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MD_Vexa_DMH_L.GR2100%  
 	    New File  		  185568	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MD_Vexa_DMH_R.GR2100%  
 	    New File  		  248460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_ME_CCrwn.GR2100%  
+	    New File  		  248256	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_CCrwn\Jaw\DGB_EL_MRathgor_Jaw_CCrwn_ME.GR2100%  
 	    New File  		   61528	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Chin\DGB_EL_MRath_Chin_DMH_MD_B.GR2100%  
 	    New File  		  191068	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_L.GR2100%  
 	    New File  		  191068	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_DMH\Jaw\DGB_EL_MRath_Jaw_DMH_MD_R.GR2100%  
@@ -1655,6 +1663,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   63456	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Chin\DGB_M_NKD_Head_Valtheris_Chin_ME.GR2100%  
 	    New File  		   63708	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Chin\DGB_M_NKD_Head_Valtheris_Chin_MF.GR2100%  
 	    New File  		   76344	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Chin\DGB_M_NKD_Head_Valtheris_Chin_MG.GR2100%  
+	    New File  		  669328	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Head\DGB_M_NKD_Head_Valtheris.GR2100%  
 	    New File  		  336456	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_NKD_Head_Valtheris_Top_FA.GR2100%  
 	    New File  		  636660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_NKD_Head_Valtheris_Top_FB.GR2100%  
 	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_NKD_Head_Valtheris_Top_FC.GR2100%  
@@ -1667,7 +1676,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  604088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_NKD_Head_Valtheris_Top_ME.GR2100%  
 	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_NKD_Head_Valtheris_Top_MF.GR2100%  
 	    New File  		  342056	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_NKD_Head_Valtheris_Top_MG.GR2100%  
-	    New File  		  669328	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Head\DGB_M_NKD_Head_Valtheris.GR2100%  
 	    New File  		  145260	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_NKD_Head_Valtheris_Jaw_FA.GR2100%  
 	    New File  		   99368	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_NKD_Head_Valtheris_Jaw_FB.GR2100%  
 	    New File  		  258300	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_NPC_Heads_HUM_Weights_AkELkA_d38b29fc-44ab-2017-6de0-aa8241e9ba40\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Jaw\DGB_M_NKD_Head_Valtheris_Jaw_FC.GR2100%  
@@ -1698,9 +1706,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           1151715200 Bytes/sec.
-   Speed :            65901.672 MegaBytes/min.
-   Ended : Tuesday, March 3, 2026 7:29:19 AM
+   Speed :           651914264 Bytes/sec.
+   Speed :           37302.833 MegaBytes/min.
+   Ended : Saturday, March 7, 2026 7:50:32 AM
 
  
 [DEBUG] Counting source files 
