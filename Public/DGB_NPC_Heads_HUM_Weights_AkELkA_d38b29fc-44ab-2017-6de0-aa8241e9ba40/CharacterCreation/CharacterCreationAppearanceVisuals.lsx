@@ -14260,6 +14260,52 @@
                     <attribute id="UUID" type="guid" value="ba601fb4-7152-4136-a044-34cdeb43f771"/>
                     <attribute id="VisualResource" type="guid" value="53a20b26-d63e-439f-8b67-7ad5174d630e"/>
                 </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8a64a3c7g4c9ag331agdf80g536b96120884" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_M_NKD_Head_Durge_MinscSK_C"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="2cb85c4d-d4eb-443a-a754-b9fa2c477610"/>
+                    <attribute id="VisualResource" type="guid" value="7205920b-6e6d-40bb-9aeb-bf383ed55e88"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h119cdf8dg7fdfg6618g4f20g1f9b974ed728" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="2cb85c4d-d4eb-443a-a754-b9fa2c477610"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_0_NoChin"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
+                    <attribute id="TextureEntryPart" type="FixedString" value="Head_1"/>
+                    <attribute id="UUID" type="guid" value="a3faf945-072c-4910-b1df-5e05082685fb"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2f580441gc017g5f67ga2eagb02e75813137" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="2cb85c4d-d4eb-443a-a754-b9fa2c477610"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_0_NoJaw"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornJaw"/>
+                    <attribute id="TextureEntryPart" type="FixedString" value="Head_4"/>
+                    <attribute id="UUID" type="guid" value="ee8027a8-3721-4577-b85b-cf71bf738cf4"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h00c0bff3g3f0bgfe06ge063gfec19d1dc82b" version="1"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="2cb85c4d-d4eb-443a-a754-b9fa2c477610"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_0_NoCrest"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="DragonbornTop"/>
+                    <attribute id="TextureEntryPart" type="FixedString" value="Head_2"/>
+                    <attribute id="UUID" type="guid" value="f5a8ea1d-1685-4f0e-ac78-3c1ad17a7913"/>
+                    <attribute id="VisualResource" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                </node>
             </children>
         </node>
     </region>
