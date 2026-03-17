@@ -175,14 +175,6 @@
                             <attribute id="UUID" type="guid" value="3060ca1e-6a6a-079e-e999-7398f55bee4b"/>
                             <attribute id="Version64" type="int64" value="36028797018963983"/>
                         </node>
-                        <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22"/>
-                            <attribute id="MD5" type="LSString" value="37b96058984e75d6245aa0182223c669"/>
-                            <attribute id="Name" type="LSString" value="Reforged Assets DMH - Dark Urge Dragonborn CC"/>
-                            <attribute id="PublishHandle" type="uint64" value="4406607"/>
-                            <attribute id="UUID" type="guid" value="ad0455a0-72e3-c994-c0ec-2fcdb1778b22"/>
-                            <attribute id="Version64" type="int64" value="36028797018963977"/>
-                        </node>
                     </children>
                 </node>
                 <node id="ModuleInfo">
