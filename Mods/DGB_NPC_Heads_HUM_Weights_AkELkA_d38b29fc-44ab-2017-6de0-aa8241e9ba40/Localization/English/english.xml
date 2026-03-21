@@ -2738,4 +2738,609 @@
   <content contentuid="h030b7a70ge155gb228g8002gf1e59ff8d34f" version="1">Mangled Jaw L Chipped</content>
   <content contentuid="h1c1e3995g0b52ge241ga580gf9f3a80988c4" version="1">Mangled Jaw Short L</content>
   <content contentuid="h80bb2905g5d63gd9c1gfc5bg4b173aecb850" version="1">Mangled Jaw Short R</content>
+  <content contentuid="hb5d54301g9ca6g2b8dg7c05g02c345722981" version="1">Slayer Clean</content>
+  <content contentuid="h5e6330c4g62e2gc256g7e18g71c8bfaf563c" version="1">Slayer Clean Horns</content>
+  <content contentuid="h097419d0g105eg1cb7gbe65g0b0669dd4e4f" version="1">Slayer Broken L</content>
+  <content contentuid="hf8dd86d9g0011gab61gac70g38cc78bfe843" version="1">Slayer Broken Horns L</content>
+  <content contentuid="ha08e9d1fg489egc5e8g5a90gde15cc7ecf86" version="1">Slayer Broken R</content>
+  <content contentuid="had02acf2g25a9g2574g0b60gaca461133214" version="1">Slayer Broken Horns R</content>
+  <content contentuid="h85c78f20g5e4ag45a6gce35gc844e22f5848" version="1">Arcuate</content>
+  <content contentuid="h31a6aa31g4889ge982gbee8g55b53d0c0d58" version="1">Closing Claws</content>
+  <content contentuid="h39f377f1g42b4g192fg0385g018102419d20" version="1">Goblet Handles</content>
+  <content contentuid="h15175b37g3d6bg274fgc696gfc95597e5012" version="1">Quilled Wedge</content>
+  <content contentuid="hfc8f2fb0gb9dag001dga010g72b9401ba51c" version="1">Malformed Apex</content>
+  <content contentuid="he96193fag4302g0d29gb5begc45d90e1a4d0" version="1">Malefic</content>
+  <content contentuid="h8623b360g980bg7308g33c7gfd19d7a8436f" version="1">Ophidian</content>
+  <content contentuid="h80fbf414g0acdg61d7g222dg74d538457ed5" version="1">Reptile Frills</content>
+  <content contentuid="h1110e3e3g3fa4g90f0gf4b8g0a79268f9fd0" version="1">Predacious Crest</content>
+  <content contentuid="h43963dbdg44e0g4df8gd65dg82e66b7aaef2" version="1">Spinous Crown</content>
+  <content contentuid="h8d196316g2cb9g94bage645g63f36affcea6" version="1">Halberd Blades</content>
+  <content contentuid="h5b324a00g3899gf93aga0c3g82059780c278" version="1">Proud Phalanx</content>
+  <content contentuid="hfa544724g5835gb569g0dcdg8ca5a8a1e3be" version="1">Slayer Clean</content>
+  <content contentuid="hf44f1b7bgd95eg7372gd935g855198ccd46a" version="1">Slayer Clean Horns</content>
+  <content contentuid="h1a5411b9ga35ag3816gc231g115c2f7d90bb" version="1">Slayer Broken L</content>
+  <content contentuid="ha7951197g1104gcbe7g9768g341269a04590" version="1">Slayer Broken L Horns</content>
+  <content contentuid="h115fc3c3g75dag2037gab4ag325ca6d6fa20" version="1">Slayer Broken R</content>
+  <content contentuid="h6cd76bccg50edg068bg8918gc3409a9242a5" version="1">Slayer Broken R Horns</content>
+  <content contentuid="hc6306c3eg97f7gf8c5ga850gc084bd2a377a" version="1">Inverse Crown</content>
+  <content contentuid="h705e48ebgecb8g69e2g3d3ag18c36a725f81" version="1">Inverse Crown Short</content>
+  <content contentuid="hbf463a02g2e57gabb1g5facgd7c406cda997" version="1">Concise Strength</content>
+  <content contentuid="h8051bf34g9696g665ag56c0g5a9d9511a3d8" version="1">Concise Strength Short</content>
+  <content contentuid="hd142215eg6a5fg02deg62c5gdb090f2c39e4" version="1">Nest o' Needles</content>
+  <content contentuid="h45922ae0g5744g04a4g19bbgf72c5f50c169" version="1">Nest o' Needles Short</content>
+  <content contentuid="h237d80deg2067gb879g80a4g2210ed0bb271" version="1">Dragonglass</content>
+  <content contentuid="h68838319g664eg26b1g8640gea292bd5f2de" version="1">Dragonglass Short</content>
+  <content contentuid="h19abd1a5g5c63gfe56g0a48ga656a5f56ad8" version="1">Royal Plateau</content>
+  <content contentuid="he9faff3fgee64g0d33g4dd5g62c8e3b349c9" version="1">Royal Plateau Short</content>
+  <content contentuid="hf2afe7f1gacdfg1abdg6a39gdc66d314642d" version="1">Shark Fins</content>
+  <content contentuid="h209a5a1fge2e3g89a0g4f0fg5d336af3865e" version="1">Taunting Stylus</content>
+  <content contentuid="ha05bbff5g10b4g050eg89d5g62b9799ec485" version="1">Coral Ridges </content>
+  <content contentuid="hc6613417gadf6ga15bg9e4ag5ff1e50ece1a" version="1">Porcupine Chops</content>
+  <content contentuid="h9e54a71ag90ffg20d9gfb2ag869cd4dd9f70" version="1">Jaws of Ruin</content>
+  <content contentuid="hffff7a4ag3972g8636g5420g4c1f94e8399e" version="1">Jaws of Ruin Short</content>
+  <content contentuid="ha0f7793egba0dg3637g30c7g6ec19951c831" version="1">Sombre Calamity</content>
+  <content contentuid="ha529df13g8c6bgb7dbg34bag39f07a3b1512" version="1">Dagger Pommel</content>
+  <content contentuid="habdcbed1g4141g2d74g8753gad18dcc28c7f" version="1">Calcified</content>
+  <content contentuid="hfdb8ca6cg61f3gb70ag1d03gac8a051ae4b3" version="1">Chintacle</content>
+  <content contentuid="hea79df8fgf71ag3cd6gfc0eg139dabe1a8a3" version="1">Waltzing Fangs</content>
+  <content contentuid="h5b236ed5g359dg3f74g59a6ge7173578b018" version="1">Hatchet Spike</content>
+  <content contentuid="hb773915dgc079ge36fga144g08a7e68c8ff4" version="1">Stentorian</content>
+  <content contentuid="hdb84405cge09egabe6g773eg4616331a8cf5" version="1">Cliff Jut</content>
+  <content contentuid="h1174d39eg24edgdc60gcf2fgb44b1b4e452c" version="1">Jewel Point</content>
+  <content contentuid="h32b4fd31gda53gb623g029dg574584ce94bb" version="1">Stalactite</content>
+  <content contentuid="h9991885fg6186g6f90g85c1g05f89c76a693" version="1">Pinnacle</content>
+  <content contentuid="hf9ada549g1213gf1cag713ag0286f07c0756" version="1">Apogee</content>
+  <content contentuid="h3bc0e9a8gf84dgfc8fg4f71g053c872a9802" version="1">Coral Ridges Frills</content>
+  <content contentuid="hf9101e02g11bbg6c6fg4853gf735b567b252" version="1">Deer Antlers Frills</content>
+  <content contentuid="h199cb2a0gc582g3582g1607g3f86e0947499" version="1">Coral Frills</content>
+  <content contentuid="h365bb419g878dg0c57g11a7gdae349bcc370" version="1">Amber Glow Coral Frills</content>
+  <content contentuid="h1078d2a0g9c37g6f65g23a1gb4fe0ba0de0f" version="1">Blue Glow Coral Frills</content>
+  <content contentuid="h16135da2g1618g439fg5568g25b8557dd7ab" version="1">Cyan-Violet Glow Coral Frills</content>
+  <content contentuid="h386497a0gcb1fg6a23ga616g2760773a32aa" version="1">Grass Green Glow Coral Frills</content>
+  <content contentuid="ha771b03bg83c4g93a9ge775g5e96cc32d225" version="1">Pink Glow Coral Frills</content>
+  <content contentuid="had50c341g2be9g8244g8d07g06235d98cb8e" version="1">Pink-Peach Glow Coral Frills</content>
+  <content contentuid="hc5b50df0gb677gb7bfg76d4gef6139416d1d" version="1">Violet Glow Coral Frills</content>
+  <content contentuid="he773f707ge8c6g1441g830cg812882b903e2" version="1">White Glow Coral Frills</content>
+  <content contentuid="h0e23511ag2860g1280gf744gaa0cd7393f04" version="1">Goatee</content>
+  <content contentuid="hcd4aca49g74c2g45f5gc830g53cdd1bdf2b8" version="1">Demon Horns</content>
+  <content contentuid="h99b2c74bg12e2g0a5dg24e7g66656eaf4304" version="1">Reforged Crest Broken Black L</content>
+  <content contentuid="h4d157353g2effgaf55gfb19g1cdb35ae517d" version="1">Reforged Crest Broken Black R</content>
+  <content contentuid="h8c1144b6g9319g8385g4bb7gb1e2d73d5f90" version="1">Reforged Crest Broken Light L</content>
+  <content contentuid="h822a3d40g44e8g47d3gea77gf917dd6a9e0f" version="1">Reforged Crest Broken Light R</content>
+  <content contentuid="hb0cc9d32g0d96gbd22g9d4fg438d97fc8b48" version="1">Mangled Chin </content>
+  <content contentuid="h8f806a9ag1420gf933gb551g1a573be88b9b" version="1">Mangled Arcuate</content>
+  <content contentuid="h915d733bg95e4gedd6g3e16gbf2f1de0edd5" version="1">Mangled Arcuate</content>
+  <content contentuid="h76f53d53g0df4gb5aeg55c5gd2fbc5252052" version="1">Mangled Jaw L</content>
+  <content contentuid="h30c9f16bg5b05g0bcbg1a97g15e6e4b08879" version="1">Mangled Jaw R</content>
+  <content contentuid="h4d183cb5g6f75g1ea3g66cagbaea3ba54128" version="1">Mangled Jaw L Chipped</content>
+  <content contentuid="hd17d923egce66ga130gfb8cg6cd7be89575f" version="1">Mangled Jaw R Chipped</content>
+  <content contentuid="h311e4b3dg7ddcgdc50g8b46g9b1a9212fd2f" version="1">Mangled Jaw Short L</content>
+  <content contentuid="h39346970gcf7cg802eg9f9cg2791322eea2a" version="1">Mangled Jaw Short R</content>
+  <content contentuid="h75b2eb05g4453g748eg7ef5g871c7d1029c8" version="1">Crystal Crown</content>
+  <content contentuid="hfe9dd8bbg73a3g11e5gf1a9g6a34549dda64" version="1">Obsidian Crown</content>
+  <content contentuid="hd495698cg873fg8309gbea8g16179100af4b" version="1">Sapphire Crown</content>
+  <content contentuid="h155a69f2gf579g00b9g10f3g312f6fa1a08c" version="1">Emerald Crown</content>
+  <content contentuid="hd69b1f4agae50g8253gfeadg2f51027921cc" version="1">Honey Topaz Crown</content>
+  <content contentuid="hcafd1a3ageefegc20fge79fg607ff54c4d00" version="1">Blood Crown</content>
+  <content contentuid="hc1bc74d1g082eg643bg315ag79ef297c7e46" version="1">Amethyst Crown</content>
+  <content contentuid="hb77e2898g6c5ag4d44gd63ag76cfcf960e16" version="1">Topaz Crown</content>
+  <content contentuid="h665c1d0cgcc33g8d48g0abcg07951ca8eb7a" version="1">Crystal Jaw</content>
+  <content contentuid="hef28a836g4d02g254eg821aga6a84879b490" version="1">Obsidian Jaw</content>
+  <content contentuid="h7d005b73gf72eg7930g4df3g32a40e7aab74" version="1">Sapphire Jaw</content>
+  <content contentuid="ha5c1ee83gb9cdg5478g1debg4fd24c57becb" version="1">Emerald Jaw</content>
+  <content contentuid="h9f6a7d04g2a43ga66fg3984g555d1ddeaf03" version="1">Honey Topaz Jaw</content>
+  <content contentuid="h1fec6588g172cgef25gefbbg72422c3a85f0" version="1">Blood Jaw</content>
+  <content contentuid="h114e87d7gfc05gc43fg0282gdb47f07f0422" version="1">Amethyst Jaw</content>
+  <content contentuid="h45cd2cf1g38f2gfdafg9eb4g65198660af0e" version="1">Topaz Jaw</content>
+  <content contentuid="h2490292cg7c55g0809g822eg1a32a69a0a6c" version="1">White Glow Coral Frills</content>
+  <content contentuid="h6ad692b6gda76gc420g4659gd8dd62678d87" version="1">Violet Glow Coral Frills</content>
+  <content contentuid="hbbff3ac0g8d90g60fagaa9fg02c076f36fb4" version="1">Pink-Peach Glow Coral Frills</content>
+  <content contentuid="ha2bc575fgc22ag0ca0gdf5dga7e5ed8ca577" version="1">Pink Glow Coral Frills</content>
+  <content contentuid="h20646fcdg33ebg0760g6aa6g44068678000e" version="1">Grass Green Glow Coral Frills</content>
+  <content contentuid="hecdfbb1fg67a4gac18ge5dbg3d0c5a8a75d2" version="1">Cyan-Violet Glow Coral Frills</content>
+  <content contentuid="h835651d8g4d2eg4a55g74f5g93e2ebff8c9f" version="1">Blue Glow Coral Frills</content>
+  <content contentuid="h279348bbg2e40g1bdbge06fg95acd7dd1031" version="1">Amber Glow Coral Frills</content>
+  <content contentuid="hca26c6b3gaef7g8cabg04bdg397f0061be4d" version="1">Coral Frills</content>
+  <content contentuid="h8c20e346gdda8gf8fcg21d7g326d03e176b0" version="1">Deer Antlers Frills</content>
+  <content contentuid="h1f6f2861gec65ge617g523bg3d786999c43a" version="1">Coral Ridges Frills</content>
+  <content contentuid="h226aabd1g3021g3b19g9305gd8bb68c36d50" version="1">No Jaw attachment</content>
+  <content contentuid="h1ac4b1e4gc2e9g5d8eg36b0g5d4b5450408c" version="1">No Top attachment</content>
+  <content contentuid="h9e9b27ebg3f68g61a8g0efbgc87a4e55fd0e" version="1">No Chin attachment</content>
+  <content contentuid="h90b15a97g2f20g51fcg4c5cgdb7a75ea4fb8" version="1">Slayer Broken Horns R</content>
+  <content contentuid="h909b6f0fg2878g9245gff02g8c8ed861dc24" version="1">Slayer Broken R</content>
+  <content contentuid="h6d82b285gb91fga140g6539g0ed11f78c17a" version="1">Slayer Broken Horns L</content>
+  <content contentuid="h229d0643gd513gcd18gda3cg725ff45bb85d" version="1">Slayer Broken L</content>
+  <content contentuid="he5f63b7dgd106gfc2eg4c12gac57ec8af72d" version="1">Slayer Clean Horns</content>
+  <content contentuid="h81068d76g790bgf4f7g2da9gf737f240091d" version="1">Slayer Clean</content>
+  <content contentuid="h6f6b789egd4e2ga104gbaa3g6a4d1e2c09a8" version="1">Slayer Broken R Horns</content>
+  <content contentuid="hb38397a2gb822g6402g369bgcb47eda85216" version="1">Slayer Broken R</content>
+  <content contentuid="hcf564285g3a68g5080g87d7gccf46e6de8b7" version="1">Slayer Broken L Horns</content>
+  <content contentuid="h777e0757g568cg66f8g33eage7e637e3fe5f" version="1">Slayer Broken L</content>
+  <content contentuid="h4f8061e5g1139g4fc1g1525g433cf34c89b6" version="1">Slayer Clean Horns</content>
+  <content contentuid="hbdc9d888g85a1geb4ega4a0gc32fe5d15e1c" version="1">Slayer Clean</content>
+  <content contentuid="h1dafbb92g357ege02eg3389g3d7356370820" version="1">Quilled Wedge</content>
+  <content contentuid="h51be9763gec18g130bg1f8egc737d88a3d78" version="1">Goblet Handles</content>
+  <content contentuid="h92c5043age1a3g2fd2gaa7cg18d3cf01c946" version="1">Closing Claws</content>
+  <content contentuid="h7dcb9748g6c90g62f1gfb8egc57b06306c70" version="1">Arcuate</content>
+  <content contentuid="hb686f483ga503g4905ga90cg961698c4b046" version="1">White Glow Coral Frills</content>
+  <content contentuid="h8bff040cg2ff6ge58eg2bedg48a235b14c3b" version="1">Violet Glow Coral Frills</content>
+  <content contentuid="hcdaaa5edg1f72ga014g6cecg27e58aeac350" version="1">Pink-Peach Glow Coral Frills</content>
+  <content contentuid="h578a4a9fg272cg5709g663cg08a32f1046e5" version="1">Pink Glow Coral Frills</content>
+  <content contentuid="hf7b9726ega371gb9e3g232dge60dbf3427db" version="1">Grass Green Glow Coral Frills</content>
+  <content contentuid="h38e9e6e8gc755g416fg327agc57772ec7749" version="1">Cyan-Violet Glow Coral Frills</content>
+  <content contentuid="h8ed343eegbdd9geed0g8b6cgbfc30617bebd" version="1">Blue Glow Coral Frills</content>
+  <content contentuid="hca1d1103g05f9g9b17g6287g347a4367db62" version="1">Amber Glow Coral Frills</content>
+  <content contentuid="h24ed6dc4ge722g70ebg94adg159238b9614c" version="1">Coral Frills</content>
+  <content contentuid="h99f145d3g3a3dg24fagc324g1aa9fe1a8092" version="1">Deer Antlers Frills</content>
+  <content contentuid="h18060d02gd5b4gd818ge8f5g8b2e7fa3f04a" version="1">Coral Ridges Frills</content>
+  <content contentuid="h7ab599b4gfa0agfbd7g0220gc96a1fbe24dd" version="1">Malformed Apex</content>
+  <content contentuid="h78113f6cg15e5gc1bfg25a5g2910d06a68f0" version="1">Malefic</content>
+  <content contentuid="ha14a66f9g970bgc6b0g74f4gd3b4f5d86f53" version="1">Ophidian</content>
+  <content contentuid="h7db0e117g4c86gf98cg8be5ga5d993e7649d" version="1">Reptile Frills</content>
+  <content contentuid="hde41e595gd49fgc78fg623fgbe07c7f72795" version="1">Predacious Crest</content>
+  <content contentuid="haf1d6db3gb171gbb5dgdbeeg8159710cb1f2" version="1">Spinous Crown</content>
+  <content contentuid="h13f5e061ga956g262fg5516gc7a27e6b14f3" version="1">Halberd Blades</content>
+  <content contentuid="h8d440e61g7ffag26bega3a7g3584321e2c4c" version="1">Proud Phalanx</content>
+  <content contentuid="h037e4d9dgbbb1g1258ge930g288890c197b3" version="1">Inverse Crown</content>
+  <content contentuid="h2c9fdbadg70bag8e2eg5abag929f7de000f1" version="1">Inverse Crown Short</content>
+  <content contentuid="hb95ee3aeg17bbga63bg8ff3g1ef7bdbc6100" version="1">Concise Strength</content>
+  <content contentuid="h5695eb12g0e66g56d9gcc8dgec59af2c7134" version="1">Concise Strength Short</content>
+  <content contentuid="ha53eac2dg3226g28b4g5e30g8c47f7cbdccf" version="1">Nest o' Needles</content>
+  <content contentuid="h86d3067eg362cg3b12g1e7ag999a2a50e976" version="1">Nest o' Needles Short</content>
+  <content contentuid="hb1da742bg7406g0621gf27fg5f8d815a66eb" version="1">Dragonglass</content>
+  <content contentuid="h0421702cg8589g144fgb39bg74954ca83a6b" version="1">Dragonglass Short</content>
+  <content contentuid="h8978b43ege106g741ag7a5bg81577118c725" version="1">Royal Plateau</content>
+  <content contentuid="hf86eb1f1gaca3gd833g26degddfcb703cafc" version="1">Royal Plateau Short</content>
+  <content contentuid="h4d410cb8gdd4fg8beag9149gf294901cc42a" version="1">Shark Fins</content>
+  <content contentuid="h75a5368ag1179geeadg4d43gbba5a37c537b" version="1">Taunting Stylus</content>
+  <content contentuid="hd9441e02g80b7g97a0g0fdfg1700d5d02e8d" version="1">Coral Ridges </content>
+  <content contentuid="hb793230fgdc5cg617fg62e1gc20943c987ea" version="1">Porcupine Chops</content>
+  <content contentuid="h11246438ge256g3d59gf582g2f1bd3d2133d" version="1">Jaws of Ruin</content>
+  <content contentuid="h7136f292g9ddbg97d4g172dg3f11567e237e" version="1">Jaws of Ruin Short</content>
+  <content contentuid="h88f11e96g39f3g9fc0g617cg882a30a9ddba" version="1">Sombre Calamity</content>
+  <content contentuid="hcbe7ca7fg0067g0ce1g1b2ege4db3589b1d7" version="1">No Chin attachment</content>
+  <content contentuid="hb01cac61gef56g72a2gd568gfcde77a9fdf2" version="1">No Jaw attachment</content>
+  <content contentuid="hcb7bfd28g8114ga712g65b3ge481368c1dc7" version="1">No Top attachment</content>
+  <content contentuid="h0bbb4b98gac85gedb6gd941g0a791230fe1f" version="1">Dagger Pommel</content>
+  <content contentuid="h3700d189ga492g6b1eg828fg72fcdf22bdd3" version="1">Calcified</content>
+  <content contentuid="h627d9e81g7c23g2834g1e8bg8de2624a8c0f" version="1">Chintacle</content>
+  <content contentuid="he0485203gce73g579dgf9c4gb10b94104ed4" version="1">Waltzing Fangs</content>
+  <content contentuid="h304e4b03g7598gff76g8e37gc8b3b9869fc7" version="1">Hatchet Spike</content>
+  <content contentuid="haaf8527fg5105g8dd8gcb7bg8b571b068d8a" version="1">Stentorian</content>
+  <content contentuid="hc2dd081eg6453gdfa1g87f7g168d0ee180e0" version="1">Cliff Jut</content>
+  <content contentuid="hff530d6bg355ag7280g9e27g820a1b80639b" version="1">Jewel Point</content>
+  <content contentuid="hc098164bged77gd8ffg80abgfb32976bf917" version="1">Stalactite</content>
+  <content contentuid="hc72ff87dgbc85g8d8bgdf9dgd41db49a67fe" version="1">Pinnacle</content>
+  <content contentuid="h1c50ba75gad31gb88cg0796g030f7a95bbe5" version="1">Apogee</content>
+  <content contentuid="h26091d45gebd6g1db2g3633gffeddfc5bdca" version="1">Slayer Clean</content>
+  <content contentuid="h7bfbe58age06fg0d34g4921g2bf02c053e62" version="1">Slayer Clean Horns</content>
+  <content contentuid="h08489736gc27cg16begc4ffg4195020f363a" version="1">Slayer Broken L</content>
+  <content contentuid="h64adb6d2gae36gf4acg8688gcfb4704c1742" version="1">Slayer Broken Horns L</content>
+  <content contentuid="ha0a3ab46ga0bfgb540g795eg062dd3aeb168" version="1">Slayer Broken R</content>
+  <content contentuid="h27f08950g882bg48dcg656eg9e78ca7dbf54" version="1">Slayer Broken Horns R</content>
+  <content contentuid="ha7aed521g56c5g435egdbcfg726d9fc67d9f" version="1">Slayer Clean</content>
+  <content contentuid="h3110865cg987cg8e01g3b94g1a0602f0ac91" version="1">Slayer Clean Horns</content>
+  <content contentuid="hb3a43b16gb8ebgcb19g8e18g1fd4fbb06562" version="1">Slayer Broken L</content>
+  <content contentuid="hb5f22f8eg6057g304bg738cg159710a62b1c" version="1">Slayer Broken L Horns</content>
+  <content contentuid="ha3107be9g55cbg0524g1b0eg437c9aff020e" version="1">Slayer Broken R</content>
+  <content contentuid="h0b599777g44cbg013bga17cgc6800ed75019" version="1">Slayer Broken R Horns</content>
+  <content contentuid="h40ed3384g7b48g8b41gd309g5785f95d2419" version="1">Goatee</content>
+  <content contentuid="h4d6131dfg1c69gb3f8g3fe0g66b8d7255aba" version="1">Demon Horns</content>
+  <content contentuid="h9562420fg02aag088agc5eag43358a669bcd" version="1">Reforged Crest Broken Black L</content>
+  <content contentuid="h5cd07d77g05bcgc403gaef8g89d44868906e" version="1">Reforged Crest Broken Black R</content>
+  <content contentuid="h84e2a03bgc60ag98eagbd59g85459f99dd6b" version="1">Reforged Crest Broken Light L</content>
+  <content contentuid="h8c35c633g05baga6d6g0902g29a2bba0e7e1" version="1">Reforged Crest Broken Light R</content>
+  <content contentuid="h23d84eb5g5c85ge9dag2c21gd4efb3787c21" version="1">Mangled Chin </content>
+  <content contentuid="haf5093cege45eg4a94g95d3gac586f92c0d7" version="1">Mangled Arcuate</content>
+  <content contentuid="hfc65bb67g9788g7a43gaefaga79392d92c2d" version="1">Mangled Arcuate</content>
+  <content contentuid="hb2140dc2g392cgd1e0gcae4g23a1e43e7dbd" version="1">Mangled Jaw L</content>
+  <content contentuid="ha82ac9a0g4471g0166gb9e4ge9e92bdb8854" version="1">Mangled Jaw R</content>
+  <content contentuid="h86d7aadagab26g192fgebbbg0fadaa9657a0" version="1">Mangled Jaw L Chipped</content>
+  <content contentuid="h83fd4559g2b92g312cgf77agd1f568480009" version="1">Mangled Jaw R Chipped</content>
+  <content contentuid="h57ee0320gd86dgcf12ge364g3a8cbfec956a" version="1">Mangled Jaw Short L</content>
+  <content contentuid="h43059dfega923gc63bg16b5g2e7d71a5d0f6" version="1">Mangled Jaw Short R</content>
+  <content contentuid="h1962a34cgd610g70e5g6daag75beb7eb6c9f" version="1">Crystal Crown</content>
+  <content contentuid="he13885e5g8848g4955g3ab9g642642c3d4e9" version="1">Obsidian Crown</content>
+  <content contentuid="he751b024gb8b5g6ac2ge79cg06dae91923ef" version="1">Sapphire Crown</content>
+  <content contentuid="h5929d9fag803bg49a8gb6dbg4a7bd7e91b66" version="1">Emerald Crown</content>
+  <content contentuid="he0a49f73gd81bge1aeg2d9cg29d0b7125aaf" version="1">Honey Topaz Crown</content>
+  <content contentuid="hf809aad9g6179g5daeg87fdg13290d985c8a" version="1">Blood Crown</content>
+  <content contentuid="hfb6f2fe8g61bbgc0ceg0257g3ee89ddddd58" version="1">Amethyst Crown</content>
+  <content contentuid="h6cf1a428g9620gf4ebg866bgefc23b2c7170" version="1">Topaz Crown</content>
+  <content contentuid="hddc0dd3fg1296g0872g3144geb6e34869b10" version="1">Crystal Jaw</content>
+  <content contentuid="hfd452c37g3524gd4b4g24efg746b45710c5c" version="1">Obsidian Jaw</content>
+  <content contentuid="he44d8730g0b74g78ffgfc2fgd4b92092c35c" version="1">Sapphire Jaw</content>
+  <content contentuid="he887b5b3g1b18gc58fg08c2ge54593485a02" version="1">Emerald Jaw</content>
+  <content contentuid="hb750c0b5gfa85g2563gf934ge244aeecd207" version="1">Honey Topaz Jaw</content>
+  <content contentuid="h56a1a701g17b9g0699g44degba7304d1cf9b" version="1">Blood Jaw</content>
+  <content contentuid="h914b0450gf579gbc8cg1d52gf701d6ff9ffa" version="1">Amethyst Jaw</content>
+  <content contentuid="hcab78626ge2c3gfc72g20d9g77e50d254eea" version="1">Topaz Jaw</content>
+  <content contentuid="h00c65d2bgc506g6898g3f2cgdd5c3b653d6e" version="1">Topaz Jaw</content>
+  <content contentuid="h68975cfbg6b9fg5fdbg26ebg85508ff49d80" version="1">Amethyst Jaw</content>
+  <content contentuid="h9aef114cg94d3g3acdg82cag14558206819a" version="1">Blood Jaw</content>
+  <content contentuid="h9697d353g1235g1873g8d75g3d5dfe7418be" version="1">Honey Topaz Jaw</content>
+  <content contentuid="h58a4c2c7gacadg78c7ga906g431ca3cddb07" version="1">Emerald Jaw</content>
+  <content contentuid="hd617225egcaf3gc95bge998g1bd1d1d2fb9a" version="1">Sapphire Jaw</content>
+  <content contentuid="h8050ad47g4cc0gd11ag5724g67820d8074fc" version="1">Obsidian Jaw</content>
+  <content contentuid="hf7c845aag5075gaf60g4631ge0bbe49dde17" version="1">Crystal Jaw</content>
+  <content contentuid="h1aae413fg1bf6gb2fagfc4ag0cd59520aeec" version="1">Topaz Crown</content>
+  <content contentuid="hf17bdba6g5a49gba76ga5f9g5801eacfb307" version="1">Amethyst Crown</content>
+  <content contentuid="hae2162f0g20c0g10dbg2c2eg45a2705d6ae0" version="1">Blood Crown</content>
+  <content contentuid="h9a9d7eb5ge9dbg7352g898cgcfd911d58651" version="1">Honey Topaz Crown</content>
+  <content contentuid="heffca237g9d4egbed4g87f3ge2b5e00ff838" version="1">Emerald Crown</content>
+  <content contentuid="haaee0235gc149gace9g3fc4g41b0204b48e5" version="1">Sapphire Crown</content>
+  <content contentuid="hfcc97dcbg2833gd2cagbac3g12ca92e4d8ab" version="1">Obsidian Crown</content>
+  <content contentuid="ha825928cgeb7dgd722g2b5fg10137329766a" version="1">Crystal Crown</content>
+  <content contentuid="he900b083ga60bg9735g7a3eg9f9beb8bc69d" version="1">Mangled Jaw Short R</content>
+  <content contentuid="hff0cafaag8b22g1dafgeea0gc51b718ceaab" version="1">Mangled Jaw Short L</content>
+  <content contentuid="hbf0dfcffg0bdfge5b8g8ee4gad08a34b0e16" version="1">Mangled Jaw R Chipped</content>
+  <content contentuid="hec6822f0gb980g2940gd4f2g1ab40f28c249" version="1">Mangled Jaw L Chipped</content>
+  <content contentuid="he2e92f91g739cg37eagc045g17df47cd4a64" version="1">Mangled Jaw R</content>
+  <content contentuid="h894163d5g8e6agd941g3468g5812d15cd5c1" version="1">Mangled Jaw L</content>
+  <content contentuid="h0d878642g0681g810cg6361g094e4f0cf888" version="1">Mangled Arcuate</content>
+  <content contentuid="h8068783cgcfecg4b44gc874g37a4e0e6531f" version="1">Mangled Arcuate</content>
+  <content contentuid="h1657e3ccg6fccgcd35gda32g70bd4259c8d8" version="1">Mangled Chin </content>
+  <content contentuid="h4539bfd0g363ag3fa9g6e95g65f91ba10e7e" version="1">Reforged Crest Broken Light R</content>
+  <content contentuid="h7f40e747g3319g360egc6ccg439040aeb66f" version="1">Reforged Crest Broken Light L</content>
+  <content contentuid="h23fee68fg72c0g0c6ag9b0fg8af1bdafc451" version="1">Reforged Crest Broken Black R</content>
+  <content contentuid="hc70c2d7ag2b15gcf31g48beg40368c4eeead" version="1">Reforged Crest Broken Black L</content>
+  <content contentuid="h926431b0gd43dga5bcg3a46g11037045f50e" version="1">Demon Horns</content>
+  <content contentuid="h223f0c3dgf31agff39g4bc6g345e3c96dff6" version="1">Goatee</content>
+  <content contentuid="h14482813g4b25g0953g8ba5g541edbfdd300" version="1">Slayer Broken R Horns</content>
+  <content contentuid="h9f01975dg1bddg3b18g3572g0dd43b65129a" version="1">Slayer Broken R</content>
+  <content contentuid="ha439e3b9g37beg9c1dgdec9g4ba112d9070c" version="1">Slayer Broken L Horns</content>
+  <content contentuid="ha9250502g52b0gfeecg7771g05b6655ceb31" version="1">Slayer Broken L</content>
+  <content contentuid="h933f2e38g24acgde41g9d32g929b2f527e7a" version="1">Slayer Clean Horns</content>
+  <content contentuid="h1ce3f5e8gf977g9cc2gd26cgcd9c5102601a" version="1">Slayer Clean</content>
+  <content contentuid="hd5289ab3g31cbgf61bg87dbg13f9fce2d86f" version="1">Slayer Broken Horns R</content>
+  <content contentuid="hb8200c50ga933g4daeg2fcfgaf3cdf9b9a93" version="1">Slayer Broken R</content>
+  <content contentuid="h929575c1gbc55ga841g46acg5aa5ff0ed8d3" version="1">Slayer Broken Horns L</content>
+  <content contentuid="hc626d066g9b66g0510g4dc9gc196060e92fb" version="1">Slayer Broken L</content>
+  <content contentuid="h5001333dge225g04a6gc642g19bf01e15e45" version="1">Slayer Clean Horns</content>
+  <content contentuid="h56b803a7gf242gfa8bgc8fegf05a7a7097cb" version="1">Slayer Clean</content>
+  <content contentuid="ha1b114ecgd19ag68aagc864g891d1c0399dc" version="1">Apogee</content>
+  <content contentuid="hd5631d21g2c75g1844gc873ge9a80de15b3f" version="1">Pinnacle</content>
+  <content contentuid="h6733988bgc9c7gb6efged44g6fd7c32a482b" version="1">Stalactite</content>
+  <content contentuid="h78911a90g7985g95cegdd02g57f5ad5134c9" version="1">Jewel Point</content>
+  <content contentuid="h14e12009g5218g46eag169fg30f7b244cca0" version="1">Cliff Jut</content>
+  <content contentuid="h122b1646g3b8fgda1cg76afg6e01ee2138ab" version="1">Stentorian</content>
+  <content contentuid="h12f0e6b7g641cgd5beg6330g65aee67899e8" version="1">Hatchet Spike</content>
+  <content contentuid="hc2791e1fg0aa8ga743g7ae3gc6c935258e95" version="1">Waltzing Fangs</content>
+  <content contentuid="h57a663d7gf35dg7048g4b1dg3131e6b35f93" version="1">Chintacle</content>
+  <content contentuid="hd1182763g2e7bg37a3g0259ge6dcebc717ec" version="1">Calcified</content>
+  <content contentuid="h7a8fe24dg3f93g5ebcg9bfegec1f46757021" version="1">Dagger Pommel</content>
+  <content contentuid="ha6f9720eg8c19g38cdg10e7g68f55d052b7c" version="1">No Top attachment</content>
+  <content contentuid="h9febf3cdg2a43gb0b6gb584g8a953d49f205" version="1">No Jaw attachment</content>
+  <content contentuid="h2bc32331ga3dfgd159g9be0g3f27259d9c9d" version="1">No Chin attachment</content>
+  <content contentuid="h64e8b805g9102g8e6ag3a97gca0604fb2800" version="1">Sombre Calamity</content>
+  <content contentuid="hd5bd6500gc7a3g14b7g6162gd04bd8367ef3" version="1">Jaws of Ruin Short</content>
+  <content contentuid="h1619108ag1136g4beeg8062g329f014cd8b3" version="1">Jaws of Ruin</content>
+  <content contentuid="hb1c09aaeg8345g5bf5gc6d0g6980295d7f66" version="1">Porcupine Chops</content>
+  <content contentuid="h3c53d930gadf1gb276gf72egf507cecbd788" version="1">Coral Ridges </content>
+  <content contentuid="hcdf26729ga159g621fgd54eg91c882092f93" version="1">Taunting Stylus</content>
+  <content contentuid="h24c91f98g4529g56cbge70bgba26c703263b" version="1">Shark Fins</content>
+  <content contentuid="hcab106d6g8d76g3ff9g25c8gce2987d311f0" version="1">Royal Plateau Short</content>
+  <content contentuid="hf40ca3e2g3d44ga45fgaa9dg1e1b6e756d6d" version="1">Royal Plateau</content>
+  <content contentuid="h4195779fg1192gd4c7g94f7gb49c67b83ed5" version="1">Dragonglass Short</content>
+  <content contentuid="he9d600f2g9912g401bgbed9gda74f269eb32" version="1">Dragonglass</content>
+  <content contentuid="h3d9a6f55gd83bg9c30gab0eg646fa3aba95b" version="1">Nest o' Needles Short</content>
+  <content contentuid="hd7fe6410g05ebgc77cg4362g260d532a6ac4" version="1">Nest o' Needles</content>
+  <content contentuid="h62834a02g44dag8f71g9fcdg5b40896efcfa" version="1">Concise Strength Short</content>
+  <content contentuid="hdfd1d91eg1aa0g5ff5g55e0gcee6c15b925b" version="1">Concise Strength</content>
+  <content contentuid="h794f317bg2e3dgd62ag4ad9g0a129bee7f0a" version="1">Inverse Crown Short</content>
+  <content contentuid="h4a1770c6g3491gf39bg46a0g4d7473445e10" version="1">Inverse Crown</content>
+  <content contentuid="h5b644401g81fcgbee3gfbb8g5149f9d51899" version="1">Proud Phalanx</content>
+  <content contentuid="hb7dbcd6cg4359gee9egfa98g16ddad96933d" version="1">Halberd Blades</content>
+  <content contentuid="hf87b038ag3867g0399g26b8gff7ecb46d52f" version="1">Spinous Crown</content>
+  <content contentuid="h3e283d55gdccfged7bgfec2gf167fd58f273" version="1">Predacious Crest</content>
+  <content contentuid="h11145517gcacegb37fg412cg7b39323ac8f4" version="1">Reptile Frills</content>
+  <content contentuid="h21443e45g5a9cg49e0g3e83g0229397d7c33" version="1">Ophidian</content>
+  <content contentuid="h7b283058gd8e2gc06ege538g6d6a03673152" version="1">Malefic</content>
+  <content contentuid="h3a691881ga5a5gc2a2g7105g6421fc4b79a5" version="1">Malformed Apex</content>
+  <content contentuid="h2d78b401g9480gbfb9gb59cg9f4153eeb6c4" version="1">Quilled Wedge</content>
+  <content contentuid="hcf45db74g4a57g0240g8ab2g475605daef0a" version="1">Goblet Handles</content>
+  <content contentuid="h9acf0233g3fb4g8c0fg1029g22650f24d4a8" version="1">Closing Claws</content>
+  <content contentuid="h72734d45ge395gff78g4d75g42793b3b1407" version="1">Arcuate</content>
+  <content contentuid="h663bb724gb909g25c2g14aeg3b187fb577a9" version="1">White Glow Coral Frills</content>
+  <content contentuid="h60d0c7a7gde88gf7e8gcc68gb1d467fe4a2c" version="1">Violet Glow Coral Frills</content>
+  <content contentuid="h9070db49g9747g6111g4de9gc284847060c7" version="1">Pink-Peach Glow Coral Frills</content>
+  <content contentuid="h7e0a83bfg6ddegebd1g4044g9b244d57a8db" version="1">Pink Glow Coral Frills</content>
+  <content contentuid="h78780011g2454g217ag42c8g31e5b8caa416" version="1">Grass Green Glow Coral Frills</content>
+  <content contentuid="hcf5377d4g8a14gd477g7e9cg0dcc3f46be90" version="1">Cyan-Violet Glow Coral Frills</content>
+  <content contentuid="hff7e80d3g7e69g5b7age786gdcab60dabb61" version="1">Blue Glow Coral Frills</content>
+  <content contentuid="hddfdc9c9g652dg42a1ga86cg020768112edb" version="1">Amber Glow Coral Frills</content>
+  <content contentuid="hc6b8f2c0gf66dg7519g5ca6g5ad6696ba409" version="1">Coral Frills</content>
+  <content contentuid="h64605b9eg554eg31e1g38f5g7fbaf399941f" version="1">Deer Antlers Frills</content>
+  <content contentuid="hff1395ccg766bge2efgbec0g9daa4ba362c3" version="1">Coral Ridges Frills</content>
+  <content contentuid="hac2cc4c7g45b1gd728gb87cg94241028d458" version="1">Coral Ridges Frills</content>
+  <content contentuid="h7451174fg6455g0463g5a98g40d9388acd63" version="1">Deer Antlers Frills</content>
+  <content contentuid="hd2961cc0g3ddcg7cb3g1b8dgb66167394ce8" version="1">Coral Frills</content>
+  <content contentuid="h595037d1ga346g8f17g898cg210c75c865f6" version="1">Amber Glow Coral Frills</content>
+  <content contentuid="h2718b713g80c6g2400g7b81g7da64ed655b8" version="1">Blue Glow Coral Frills</content>
+  <content contentuid="h43348236g3772g6f48g8d53g3d627f39c7e0" version="1">Cyan-Violet Glow Coral Frills</content>
+  <content contentuid="haef529c5g6882g4b96g755fg2d9d3d363363" version="1">Grass Green Glow Coral Frills</content>
+  <content contentuid="h7cb7e77fg7d9fg3370g3feagd6a120fea4b0" version="1">Pink Glow Coral Frills</content>
+  <content contentuid="h6e83341agf7a4g6025g49e3gab3d2456cba2" version="1">Pink-Peach Glow Coral Frills</content>
+  <content contentuid="hc4855648g14c8g2aacg11b3g96925a6c74ac" version="1">Violet Glow Coral Frills</content>
+  <content contentuid="heb33d958g5d19g092dgef8bg57e0d74dbe65" version="1">White Glow Coral Frills</content>
+  <content contentuid="ha980a4fegb08ag2cb7gb881g3d82522d2b9e" version="1">Arcuate</content>
+  <content contentuid="hb0339b59g222fgc9b5g861eg3d3b4f99e6de" version="1">Closing Claws</content>
+  <content contentuid="h85f5a945g057ag482bg36f6g5af8359abbfc" version="1">Goblet Handles</content>
+  <content contentuid="ha699aa46g3575g1a8cg271eg328860125092" version="1">Quilled Wedge</content>
+  <content contentuid="h13a8424bg6d3egf768gb0e2g5641b8a25ef4" version="1">Malformed Apex</content>
+  <content contentuid="hb9ed6cddgf01fg4482g6244ge5635a3b0562" version="1">Malefic</content>
+  <content contentuid="hc8e29bbbg77eeg890fg3fbagc377420edffb" version="1">Ophidian</content>
+  <content contentuid="he6ebad4bgc27cg2e57g13b5gd0a23632f8b4" version="1">Reptile Frills</content>
+  <content contentuid="h3442749ag422bgf244g8ddeg79926f11d31a" version="1">Predacious Crest</content>
+  <content contentuid="ha2629a3cgb663g0069g06b9g4e2c943d964a" version="1">Spinous Crown</content>
+  <content contentuid="h90608e7cg06e0g3359g586aga53aea15db94" version="1">Halberd Blades</content>
+  <content contentuid="hbc7ed1b4gcc7bg3dc7g6fecgc69b97a5e9e9" version="1">Proud Phalanx</content>
+  <content contentuid="h44ba0dd7g4343ge4bcg3b02gefded612f42f" version="1">Inverse Crown</content>
+  <content contentuid="hb60d85e4g4b59g2cd1g3879ga8b5cb320536" version="1">Inverse Crown Short</content>
+  <content contentuid="h315b2b43gac30g7431g7164g0aad3b57d9bf" version="1">Concise Strength</content>
+  <content contentuid="hc98e70fcgf286g5153ge8c9ged47f08d247f" version="1">Concise Strength Short</content>
+  <content contentuid="h744f0f2agee1fgdfa9gb290g6cac8e605eca" version="1">Nest o' Needles</content>
+  <content contentuid="h74397581g51a6gb1d1gefdfgeae79287e41b" version="1">Nest o' Needles Short</content>
+  <content contentuid="h9d4c6b2ega8a4g9df1ga22bgc061714bb8da" version="1">Dragonglass</content>
+  <content contentuid="h5e28dac5g771eg16ccg0272g8a99912042e6" version="1">Dragonglass Short</content>
+  <content contentuid="hbb1c35bbg3c1fg0a4fg8d08g3f915b80f12f" version="1">Royal Plateau</content>
+  <content contentuid="hb1a0b57fg6b69g56f5gc728g3ab234ed55b9" version="1">Royal Plateau Short</content>
+  <content contentuid="hb8c79a89gf3b6gba9ag5ee5g43482944c60c" version="1">Shark Fins</content>
+  <content contentuid="h11609e63gc012gcc30g0529g17f273a49389" version="1">Taunting Stylus</content>
+  <content contentuid="h7cb1cb44gbf98gc64fgcb67g2d4ecce61416" version="1">Coral Ridges </content>
+  <content contentuid="hbb24e397gad04gf762g0b92g5a9e66bd73a5" version="1">Porcupine Chops</content>
+  <content contentuid="h26678149g76a8g2e39g9f2fg83da3580aa67" version="1">Jaws of Ruin</content>
+  <content contentuid="hfa49c189g410agb407g1b5agdee662df429b" version="1">Jaws of Ruin Short</content>
+  <content contentuid="h2c6a6143g0171ge1eegf5b3g716983ee03e0" version="1">Sombre Calamity</content>
+  <content contentuid="hba22a1aega1b3ge81fgd96dga7ea8455c4a6" version="1">No Chin attachment</content>
+  <content contentuid="h2b732878g6c18g5d4eg4b5ag66f66fa6f0ee" version="1">No Jaw attachment</content>
+  <content contentuid="h7cdbbfc3g9188gf18ag5737gb87e99789232" version="1">No Top attachment</content>
+  <content contentuid="h9880a825gab89ga0f7g911bg0491c4bf44fc" version="1">Dagger Pommel</content>
+  <content contentuid="h832ca62dgc9a7g97e1g84e8g4156b729218b" version="1">Calcified</content>
+  <content contentuid="h3b6cd26dg7ef6g0d05gca2eg8505e6164818" version="1">Chintacle</content>
+  <content contentuid="hf77bfb9agc2cbgf413ga8d6gdd37a0dd8dff" version="1">Waltzing Fangs</content>
+  <content contentuid="hf10c0245gf1d4gfd35gc0dcg550c3f0ad33c" version="1">Hatchet Spike</content>
+  <content contentuid="h21c89b3bge960g82b1gba4eg72a74165ec3c" version="1">Stentorian</content>
+  <content contentuid="hd2da8d6cga9b5gcef6gacd6g25a34172d9b6" version="1">Cliff Jut</content>
+  <content contentuid="h8208023cg88dcga92fg063dg140e748a26d5" version="1">Jewel Point</content>
+  <content contentuid="h235aaa1bg0f49ge5f2ge040g215dbbd963d6" version="1">Stalactite</content>
+  <content contentuid="h345764c3gef3cg518dg2809g4e14909662c2" version="1">Pinnacle</content>
+  <content contentuid="h89056ce5g6d76gaecfg642dga50340aa5287" version="1">Apogee</content>
+  <content contentuid="h4ef03e2egffc0ga1bbg190agd6d8edc6fc75" version="1">Slayer Clean</content>
+  <content contentuid="h0644b851gda74g9107g099ege85330ef77a2" version="1">Slayer Clean Horns</content>
+  <content contentuid="h932c0da7gd990g53d5gc473gca173a60e751" version="1">Slayer Broken L</content>
+  <content contentuid="h792c710dg0996g8d59g9698g661772408794" version="1">Slayer Broken Horns L</content>
+  <content contentuid="hd0c54961gab63g2f7bg36cbg545788d0e811" version="1">Slayer Broken R</content>
+  <content contentuid="h6059f4c9g4fc4gaa6dg03f4gf08701fa12f6" version="1">Slayer Broken Horns R</content>
+  <content contentuid="h8836518dgc136ge68dg4b89g1d8ef41991a3" version="1">Slayer Clean</content>
+  <content contentuid="hdda66aebgcb83gcfe0g114cg16a6cd150480" version="1">Slayer Clean Horns</content>
+  <content contentuid="hbaabe3c1g8836gf668g597ag9ebdfdfb9d97" version="1">Slayer Broken L</content>
+  <content contentuid="h70d53c91g8e2fg3fe1g31d0g7621bc5428c7" version="1">Slayer Broken L Horns</content>
+  <content contentuid="hb8c44abagb27ag52e8g9f21g405a9d7a0d2f" version="1">Slayer Broken R</content>
+  <content contentuid="hc5559586g1e8fg1117g7ee7g08386ebe7aa6" version="1">Slayer Broken R Horns</content>
+  <content contentuid="hf45278bbg9248g1ba9g4904g1c594681599a" version="1">Goatee</content>
+  <content contentuid="hb1ef0d81gff85ga6acgfa3ag4d1fb4bf4869" version="1">Demon Horns</content>
+  <content contentuid="hf0c181dcg0d14gff29g0074g7b0f3ec400a2" version="1">Reforged Crest Broken Black L</content>
+  <content contentuid="h928db2c6gf598gba18gf8a1g0c5d16013986" version="1">Reforged Crest Broken Black R</content>
+  <content contentuid="h7fe7312bgb11cgc770gb066gaf5448855ab9" version="1">Reforged Crest Broken Light L</content>
+  <content contentuid="h886e8839g8a98g02eeg4a4eg4d73282b8d60" version="1">Reforged Crest Broken Light R</content>
+  <content contentuid="h234bde9dgedb2g2577g9af0g4f8d9ff36faf" version="1">Mangled Chin </content>
+  <content contentuid="hd6b45e24g0f46ge010gce7dg3addf7d698dc" version="1">Mangled Arcuate</content>
+  <content contentuid="hfe847a70g77a6gabe5g8a01gd48ed3ef29a7" version="1">Mangled Arcuate</content>
+  <content contentuid="h74f9586fgff14gc8f3g010fgc361be252e08" version="1">Mangled Jaw L</content>
+  <content contentuid="h2efe77e4gc005gbba3gcba4g8b2b62aa8eeb" version="1">Mangled Jaw R</content>
+  <content contentuid="h74844abdg57e0g7422gfd9agdad6dce89004" version="1">Mangled Jaw L Chipped</content>
+  <content contentuid="hc4951e49g5d2fg9348g0bf3gade293cf00bd" version="1">Mangled Jaw R Chipped</content>
+  <content contentuid="hf609df66g5fa2g9ca4gc37eg8942db5ee7ea" version="1">Mangled Jaw Short L</content>
+  <content contentuid="hbe0d8a00g7c6egdd5egc62dgef0a25cd43c6" version="1">Mangled Jaw Short R</content>
+  <content contentuid="hc8037f2cgf746g1349g26fbg38d52de97fde" version="1">Crystal Crown</content>
+  <content contentuid="h89fa4a0cgf7f8g373egcfcdg62c3dc124ea4" version="1">Obsidian Crown</content>
+  <content contentuid="h82c2919agef72gfc17g475ag0ade3acd5d28" version="1">Sapphire Crown</content>
+  <content contentuid="h3eefd06bg8518gabeag90d5gb6f1e67b4eab" version="1">Emerald Crown</content>
+  <content contentuid="he1406297g64f3ge095g0abcgdf1a4f20f8d4" version="1">Honey Topaz Crown</content>
+  <content contentuid="h97c74e02g2a3egd63bgebffga9243ba26b00" version="1">Blood Crown</content>
+  <content contentuid="ha03c74fdga7afge85bga4eeg13ef25c3e484" version="1">Amethyst Crown</content>
+  <content contentuid="hb9c2435dgd11cgcc59g7760gf5d6f6e8da40" version="1">Topaz Crown</content>
+  <content contentuid="h6e7c3158g4ed2g2224g8830gc497537d2285" version="1">Crystal Jaw</content>
+  <content contentuid="hbc8d4607g1f5fg1d36g9edbgcf355ca8606f" version="1">Obsidian Jaw</content>
+  <content contentuid="hadb25df1g26f6g8394gb07eg4aca6a80a1c8" version="1">Sapphire Jaw</content>
+  <content contentuid="hbac64f0fgb53fgd7e7g08c1gbb02131b5854" version="1">Emerald Jaw</content>
+  <content contentuid="hef612cfegdd8cg4045gd690g8aeedbace7f3" version="1">Honey Topaz Jaw</content>
+  <content contentuid="h8638aeb4g0d17ga8c8g65feg7c974816c20b" version="1">Blood Jaw</content>
+  <content contentuid="hb8a38b8fge1ccg2750gfdb5g15f585fc6c44" version="1">Amethyst Jaw</content>
+  <content contentuid="ha1dc364cg2d19ga2fbg2d28g24841dbcca1b" version="1">Topaz Jaw</content>
+  <content contentuid="h5e019aa1ge89fg96ebg034ag5a9f53c52a65" version="1">Coral Ridges Frills</content>
+  <content contentuid="h98b546a0g49d5g6735g5a16g67df5de0ef5d" version="1">Deer Antlers Frills</content>
+  <content contentuid="hea20e601g3322g1b1cgdfd7gac62810d4f5b" version="1">Coral Frills</content>
+  <content contentuid="ha697e3e8g8cfeg62deg8118gf93e41e66a38" version="1">Amber Glow Coral Frills</content>
+  <content contentuid="h9bb0f01fgba87gbe01gf6d4ga8da2105f64f" version="1">Blue Glow Coral Frills</content>
+  <content contentuid="h33849219g5cf5gb03dg3433g37c9521c5b61" version="1">Cyan-Violet Glow Coral Frills</content>
+  <content contentuid="h9b67230bg3f28gced7ge7b4gec4f2891d7c1" version="1">Grass Green Glow Coral Frills</content>
+  <content contentuid="h9380cbc2gc1e7gd627g1da4g543486305a16" version="1">Pink Glow Coral Frills</content>
+  <content contentuid="h4064b67eg263dgb51fg010eg705ca29da675" version="1">Pink-Peach Glow Coral Frills</content>
+  <content contentuid="h2b924f52gc886g2b18gc582g1c0d21cd5a2d" version="1">Violet Glow Coral Frills</content>
+  <content contentuid="h54d67ce8g8dd7g4641g189agf5c72dbd333e" version="1">White Glow Coral Frills</content>
+  <content contentuid="h3ea575a9gf3a3g4a57g8676ge100e5e4c067" version="1">Arcuate</content>
+  <content contentuid="h77c2adadgcf03g084dge1f5g2af1401792c9" version="1">Closing Claws</content>
+  <content contentuid="hc16be39egc2dbge35eg0460g61f2e3f4ae9b" version="1">Goblet Handles</content>
+  <content contentuid="h027965b9gafb6ge609g2d15g7c4e69d743fe" version="1">Quilled Wedge</content>
+  <content contentuid="h6efe7fa7ge5fag3a3ag4db6ge9155da43dc8" version="1">Malformed Apex</content>
+  <content contentuid="h2c677a67g840bga797gcdddg92c29935f58a" version="1">Malefic</content>
+  <content contentuid="h1f1c48d6g64c1g544agbc0bg8d3730e29caa" version="1">Ophidian</content>
+  <content contentuid="h17fd89f6gd0f8geedcg1c04g8b60679627ad" version="1">Reptile Frills</content>
+  <content contentuid="haa2bc47fg3220gb1e8g44a0g428295f416fd" version="1">Predacious Crest</content>
+  <content contentuid="h5802cffdge201g7614g3ba2g04557f04dc2f" version="1">Spinous Crown</content>
+  <content contentuid="h346dbc91g5a07g672dg0f8egbf154cc5310d" version="1">Halberd Blades</content>
+  <content contentuid="hba7c41fag6453g0cb4gc515g7ad8af4ab6df" version="1">Proud Phalanx</content>
+  <content contentuid="hc33bea8eg9a8eg5273gdc56gc64ebdd8c2fd" version="1">Inverse Crown</content>
+  <content contentuid="h46a52963g984ag0908g019dg69ff8a5e4e99" version="1">Inverse Crown Short</content>
+  <content contentuid="hc8f7db9agc278gc3a0g6bddgbac5e9a16bc9" version="1">Concise Strength</content>
+  <content contentuid="h42cf3343g31d0gabd4g5068g6d69d3b42672" version="1">Concise Strength Short</content>
+  <content contentuid="h683e1013g43e2g4cf8g9126g69a5a5e3a547" version="1">Nest o' Needles</content>
+  <content contentuid="hbbbd1235gd2d9g9933g6eb5gb5aca592d8f0" version="1">Nest o' Needles Short</content>
+  <content contentuid="h5ff25d73gdca6g7be1gfa16g5af56d7c5208" version="1">Dragonglass</content>
+  <content contentuid="hd3e7f915g0357g1111g5acag1c5c1234b4e6" version="1">Dragonglass Short</content>
+  <content contentuid="h64552e9bgfc54g3d28g0c50g68d89827044f" version="1">Royal Plateau</content>
+  <content contentuid="hbf507ed0g2d53g08b4g89afg5cb7641f79fc" version="1">Royal Plateau Short</content>
+  <content contentuid="h99ab6af6g1339g11f5g8e9fg347aa17949ed" version="1">Shark Fins</content>
+  <content contentuid="hf1274195ge606gdd19gfd48gb12b20268bb0" version="1">Taunting Stylus</content>
+  <content contentuid="h8d99f714g5d87gdc24gdc8bg0eaec93bc397" version="1">Coral Ridges </content>
+  <content contentuid="h08055a9eg4f72g9ce1g919fg2bcf3a085578" version="1">Porcupine Chops</content>
+  <content contentuid="hbfab37c7ge47fgca6dg24e7g4995477c141e" version="1">Jaws of Ruin</content>
+  <content contentuid="h12826f4dgfa46gf731g5d1aga313f62b7805" version="1">Jaws of Ruin Short</content>
+  <content contentuid="hd67630cbg1682g01f0g965fgfb053fccc0db" version="1">Sombre Calamity</content>
+  <content contentuid="h49134a86g4b35g8305g9086g1cd98c72633a" version="1">No Chin attachment</content>
+  <content contentuid="hd3fb5afdgb6a4g0004gb849g9a795d05d791" version="1">No Jaw attachment</content>
+  <content contentuid="h99604406gf574ga83agb1c8g500be1329529" version="1">No Top attachment</content>
+  <content contentuid="h5464d220g7d04gc4bdg2d9fgd1cb48130f3a" version="1">Dagger Pommel</content>
+  <content contentuid="h503e24d7ge0a8g2bccgbec7gd53fc7cd2c1f" version="1">Calcified</content>
+  <content contentuid="h5211fbd0gb838g3daega923gb3754d4c2349" version="1">Chintacle</content>
+  <content contentuid="hca050bd9g4878g3cc5g3c41g1149ba785095" version="1">Waltzing Fangs</content>
+  <content contentuid="h9298c55ag6457gd8a0g364bg47cf3c5b0eb4" version="1">Hatchet Spike</content>
+  <content contentuid="h283e9501g6336gecb1ga565g11413112c20b" version="1">Stentorian</content>
+  <content contentuid="h91b30565ga1e8g401cga6cbg8c24ebe0d74a" version="1">Cliff Jut</content>
+  <content contentuid="h344fe0a7g97d9g1f9dg5eafg00ecb1daf565" version="1">Jewel Point</content>
+  <content contentuid="h4e2c7c7bgab40gaa0cg3cfcg0d7a46273883" version="1">Stalactite</content>
+  <content contentuid="h850467dfgfbc6gbb29g90f4g5ee521f7fa75" version="1">Pinnacle</content>
+  <content contentuid="hd57629d9g6f59g5823ga6d8g62a28cc52c37" version="1">Apogee</content>
+  <content contentuid="hc376d24bg0d27g4800g3b0cgd25c9ae09fac" version="1">Slayer Clean</content>
+  <content contentuid="h1ed6d33egb525gdf4fg98f6gf10779fb0ae9" version="1">Slayer Clean Horns</content>
+  <content contentuid="hc59c5afag8fabgb441g0e7ag4dcddc146920" version="1">Slayer Broken L</content>
+  <content contentuid="h3b72b21ag5a57gf111g1a48gbcd4c212a48c" version="1">Slayer Broken Horns L</content>
+  <content contentuid="hbb9838c2g20feg7bb5g4639gfa0d65e6e992" version="1">Slayer Broken R</content>
+  <content contentuid="h1d0896e9g5f6cg6e5eg4849g6003cbc7783a" version="1">Slayer Broken Horns R</content>
+  <content contentuid="h54224e65g6d1fg9ee1g4c37gd8299f894f37" version="1">Slayer Clean</content>
+  <content contentuid="h57836b24g69a3gbadcgff05g501cc9d9a377" version="1">Slayer Clean Horns</content>
+  <content contentuid="hb075f936ga15fg0f5cg492fg2f4128124ae1" version="1">Slayer Broken L</content>
+  <content contentuid="h63644535g0419ga0ebg1fc1g06826746b468" version="1">Slayer Broken L Horns</content>
+  <content contentuid="h86a210d0gfa23g3e31gedd5g25c2a515c095" version="1">Slayer Broken R</content>
+  <content contentuid="h0aaf0912g0814g63efg70f0g6cb16158a09f" version="1">Slayer Broken R Horns</content>
+  <content contentuid="h91be9130gd0a6ga5ccg6401gbb92f17c526c" version="1">Goatee</content>
+  <content contentuid="h3854eeddg583dgd110ga77ag173689f4fcb1" version="1">Demon Horns</content>
+  <content contentuid="hc7c0cabcgdfe7g0139g64a0ga03877196b5a" version="1">Reforged Crest Broken Black L</content>
+  <content contentuid="h0883dd51gd247g74b2gdd07g33397ae22403" version="1">Reforged Crest Broken Black R</content>
+  <content contentuid="h8d10b784gdf08g081eg4ce3g763e6bdf734d" version="1">Reforged Crest Broken Light L</content>
+  <content contentuid="ha57d307fg1074gea18g9a13g878b11b5f97a" version="1">Reforged Crest Broken Light R</content>
+  <content contentuid="hd4d8eafbg8d88gdc49g7449g5ab5f262d5e6" version="1">Mangled Chin </content>
+  <content contentuid="hbdaad738gaeb5g149agf12eg1e8b9eb0a2f5" version="1">Mangled Arcuate</content>
+  <content contentuid="h62470a5eg3c93g48f6gcb48g5b25761f329d" version="1">Mangled Arcuate</content>
+  <content contentuid="hd30827efgee71g7098g3de5g09e477167235" version="1">Mangled Jaw L</content>
+  <content contentuid="haffa9a7eg4c33gc565g3a2eg466290420f1d" version="1">Mangled Jaw R</content>
+  <content contentuid="h43f47f66g4118g38cfgf3a5g9de35b719126" version="1">Mangled Jaw L Chipped</content>
+  <content contentuid="ha0398ac9gd662g27d5g7f11g5e40dc0c820e" version="1">Mangled Jaw R Chipped</content>
+  <content contentuid="h0a9e7fb9g5291gaac2gc22bgaebe62aea3bc" version="1">Mangled Jaw Short L</content>
+  <content contentuid="he62d05b6ga64eg8e17g30a2g891410c59c2a" version="1">Mangled Jaw Short R</content>
+  <content contentuid="hb621ce44g57ddgc351gbc82g0996836e6a89" version="1">Crystal Crown</content>
+  <content contentuid="hdc994734g7f0dg2873g9811g1102c7d32594" version="1">Obsidian Crown</content>
+  <content contentuid="hc5e50e59gede5g082cge7b2g009c00a95d8f" version="1">Sapphire Crown</content>
+  <content contentuid="h064a57ebg8e27ge005g7d6cg0b1e4f87dfea" version="1">Emerald Crown</content>
+  <content contentuid="h0a4f5c96g5743g973dg623cg69ada8fc0bce" version="1">Honey Topaz Crown</content>
+  <content contentuid="h615a3bc3g9021gb05eg054dg6591a87f79b9" version="1">Blood Crown</content>
+  <content contentuid="hc49ee056gf517g9360gc3bfg837cc6dfab66" version="1">Amethyst Crown</content>
+  <content contentuid="hf4115a25ga353g0490g6c01g4ac8f0ea651e" version="1">Topaz Crown</content>
+  <content contentuid="h0e8acb34g3e12gc9d4ga47fg8071fc44ee92" version="1">Crystal Jaw</content>
+  <content contentuid="had6abccag9538g6919g8349gd67623e1ef10" version="1">Obsidian Jaw</content>
+  <content contentuid="hc97bbe95g3dbfg9854g680cg3b123c25f3a0" version="1">Sapphire Jaw</content>
+  <content contentuid="hba26f41dg6c65g53c2gcb68g77d849e56fb5" version="1">Emerald Jaw</content>
+  <content contentuid="hb3391e89gbc04gf95ag693eg2a85bd127132" version="1">Honey Topaz Jaw</content>
+  <content contentuid="h7e99aab4gdebdg3e26g0560g7c0c8e3b96b2" version="1">Blood Jaw</content>
+  <content contentuid="h42540f8dg3276g58c3g57d7gbc6ad9eaef1f" version="1">Amethyst Jaw</content>
+  <content contentuid="h63225d42gb5edg4f93g4e48g541206cda308" version="1">Topaz Jaw</content>
+  <content contentuid="h30f922b1g5ea9g9cedgeb67gd26dda44ebc8" version="1">Coral Ridges Frills</content>
+  <content contentuid="hd80efcf0g078bg49c0g0fd6ga639463821b2" version="1">Deer Antlers Frills</content>
+  <content contentuid="hf720b781g265eg598bgce44g4a176f9ec6ee" version="1">Coral Frills</content>
+  <content contentuid="hb6d0cd95g566fg6c11g5204g7cd024006a53" version="1">Amber Glow Coral Frills</content>
+  <content contentuid="he091bc94g615dg128ag15b6g0ae2802ffdf0" version="1">Blue Glow Coral Frills</content>
+  <content contentuid="ha7a1021ag1deeg9e58g7361ge2c81a6ea482" version="1">Cyan-Violet Glow Coral Frills</content>
+  <content contentuid="h13d9abe0g0593g781ag4564g99ccb0304e93" version="1">Grass Green Glow Coral Frills</content>
+  <content contentuid="h6270bc1bgd797g85e2g429eg6b38e36bd343" version="1">Pink Glow Coral Frills</content>
+  <content contentuid="h937fa3c1g8bc6g8f0eg622bgdfdc78c37d97" version="1">Pink-Peach Glow Coral Frills</content>
+  <content contentuid="hc9551ab5g38e9g456cg54d0g43c66fc8899b" version="1">Violet Glow Coral Frills</content>
+  <content contentuid="h55a8d49cg1592g640age676g0105674c390f" version="1">White Glow Coral Frills</content>
+  <content contentuid="ha576d46ageb33g8a09ga1e2g4a2bd287a8ad" version="1">Arcuate</content>
+  <content contentuid="h5161231fg4095ga58ag0e88g7e13b80a84db" version="1">Closing Claws</content>
+  <content contentuid="ha937f191gd234g66f1g3e84g76e33b56563b" version="1">Goblet Handles</content>
+  <content contentuid="ha8b5c3cfgc56cg172cg6e4ag00e638092f92" version="1">Quilled Wedge</content>
+  <content contentuid="h68f3c004ga119g4f20g13c3g582fd802758b" version="1">Malformed Apex</content>
+  <content contentuid="hede7a98fge052ga5b2gf035ga6d9dd157045" version="1">Malefic</content>
+  <content contentuid="h44bcc16ag80c2g24cbg4e12gc9f34cecc236" version="1">Ophidian</content>
+  <content contentuid="h21cb8c05g57d5g5ebcg2cddg3b4231da55d0" version="1">Reptile Frills</content>
+  <content contentuid="h6f0d4683g41c6gb61agc80dg31b4cd5806b9" version="1">Predacious Crest</content>
+  <content contentuid="h127e7d97gfef7g3e05g6d2fgb7cabacd230c" version="1">Spinous Crown</content>
+  <content contentuid="h24f10f8egd2dbg2c17g66feg9e420a2fd616" version="1">Halberd Blades</content>
+  <content contentuid="ha38c4495g1445g3ef9g7d3cg2df56b3b9bb8" version="1">Proud Phalanx</content>
+  <content contentuid="hd3cbaf1fg2afdg66d5gb353g21ee84e86ee8" version="1">Inverse Crown</content>
+  <content contentuid="h79bf8514g49e9gc225gbad6g06463eb437de" version="1">Inverse Crown Short</content>
+  <content contentuid="hdd0b66ddg04b1gd54cgb480g0574958a139d" version="1">Concise Strength</content>
+  <content contentuid="h233d9a3bge883g93bfg6da5g5917515e6528" version="1">Concise Strength Short</content>
+  <content contentuid="h693552dfgf0b3g06d4g3147gb38ef04f37d8" version="1">Nest o' Needles</content>
+  <content contentuid="he1cca731gf382g554bgef58g0a49966a9ce9" version="1">Nest o' Needles Short</content>
+  <content contentuid="hffee9a3dga914gf793g9cd5g8912c269bcd6" version="1">Dragonglass</content>
+  <content contentuid="h4a13a6afg95fage063ga62bgfbf8ea74f158" version="1">Dragonglass Short</content>
+  <content contentuid="h96129dcbgae90gcf63g752ag63da7ef12d22" version="1">Royal Plateau</content>
+  <content contentuid="h9cd331feg52b4ga9adgb03eg33523e6b0155" version="1">Royal Plateau Short</content>
+  <content contentuid="hf151e168g7c77g9230g97bcgf465d5bffbeb" version="1">Shark Fins</content>
+  <content contentuid="h8e7fcdf8g55f3gb962g195egc41064f4feed" version="1">Taunting Stylus</content>
+  <content contentuid="h97d3667eg9a8dg633dg3963g08006ad31a08" version="1">Coral Ridges </content>
+  <content contentuid="h079a4306g07e4g8245g38bfg0a6caa919504" version="1">Porcupine Chops</content>
+  <content contentuid="h1efa5395g1acbgbaddgccbfg3ecd85ffc775" version="1">Jaws of Ruin</content>
+  <content contentuid="h18f5b8ddg5e58g15a2gffadge6ba0ffcdd73" version="1">Jaws of Ruin Short</content>
+  <content contentuid="h325c07ebge7bcg7892ga289g62ac0b98770a" version="1">Sombre Calamity</content>
+  <content contentuid="hb50c2992g1c8agc934g6377g23efeb8a5a68" version="1">No Chin attachment</content>
+  <content contentuid="h1c865510g2591ge440gdf57gd14fd6c244d6" version="1">No Jaw attachment</content>
+  <content contentuid="hc618b37cg7f21g699dgb28cga5f81323e287" version="1">No Top attachment</content>
+  <content contentuid="h5c77158fg25e9gccb5g8c33g54f632a80775" version="1">Dagger Pommel</content>
+  <content contentuid="hab92edecgd92cgf221g27d8g4a7887372aa1" version="1">Calcified</content>
+  <content contentuid="h9ab69fa0g923eg423eg4475gc76e46cbdebc" version="1">Chintacle</content>
+  <content contentuid="h230f71bdg93e4g24a1g2212ga63131ee5721" version="1">Waltzing Fangs</content>
+  <content contentuid="h0dc59f18g368bg0da4g6076g5d4e8c31618a" version="1">Hatchet Spike</content>
+  <content contentuid="hf72bd8ecgcec0gc5dfg9e85ga7059267335e" version="1">Stentorian</content>
+  <content contentuid="he2b3c69bg0a40g7429g7af7g96421247a361" version="1">Cliff Jut</content>
+  <content contentuid="h5883976aga71eg07e3g4689g9f41d209760f" version="1">Jewel Point</content>
+  <content contentuid="h838429f9gd51dg00aagdb6cg6518251aa125" version="1">Stalactite</content>
+  <content contentuid="h0893cbd7ga8adgbc7dgd777g639f1855726e" version="1">Pinnacle</content>
+  <content contentuid="had557f82gcfb2g1880g196eg9b813fe9281b" version="1">Apogee</content>
+  <content contentuid="hfd94d80eg8833g1446gd5bcg6a9fc4e83e9d" version="1">Slayer Clean</content>
+  <content contentuid="hf47da126g20f5g354dg79a9g23f998f734e1" version="1">Slayer Clean Horns</content>
+  <content contentuid="h5ae031deg3819g720fgc93bg131c05680420" version="1">Slayer Broken L</content>
+  <content contentuid="h78112899g7fafg2273g4595g307a4d1dee11" version="1">Slayer Broken Horns L</content>
+  <content contentuid="hbe52b2f8ged41g8b0fg9793gd98c80d733b5" version="1">Slayer Broken R</content>
+  <content contentuid="h585a49abg7298g004fg77bagb7c13d3e69bc" version="1">Slayer Broken Horns R</content>
+  <content contentuid="h4830cc25ga1aag6985gdc5egc60ac7b4ffc8" version="1">Slayer Clean</content>
+  <content contentuid="h389e2d4bg6b25gd22bg02f7g84538369b9e2" version="1">Slayer Clean Horns</content>
+  <content contentuid="h2f809fb9g1cf6g493bg92fdg8db40a5e644e" version="1">Slayer Broken L</content>
+  <content contentuid="h328ddcc5g8130gc529g4cc5ge21babf678bd" version="1">Slayer Broken L Horns</content>
+  <content contentuid="h8c2519c8g77a0gfe42gb6f6g57d97ee84845" version="1">Slayer Broken R</content>
+  <content contentuid="h4532aec9g6e0eg7874gacd4g9a9c97d58840" version="1">Slayer Broken R Horns</content>
+  <content contentuid="h24195cbegd782ge317g63e9g07f4a82343ab" version="1">Goatee</content>
+  <content contentuid="hb37f2357g8eddg0e23gd55age9b03bafa158" version="1">Demon Horns</content>
+  <content contentuid="h417dcaa9g19deg01bege149g7274f93def03" version="1">Reforged Crest Broken Black L</content>
+  <content contentuid="hadc10c47g439fgff23g493fga66f7dc01125" version="1">Reforged Crest Broken Black R</content>
+  <content contentuid="h6d1f63adg20f2g1b4cg495ag38fb617921c4" version="1">Reforged Crest Broken Light L</content>
+  <content contentuid="ha3fc875ega570g2767gdaf4g6ae1e75d506b" version="1">Reforged Crest Broken Light R</content>
+  <content contentuid="h7cf4f552g2fdfg0429gd04dg13718506bfef" version="1">Mangled Chin </content>
+  <content contentuid="hb363381cg7246g26c2gbc8bgb51bd960b4a2" version="1">Mangled Arcuate</content>
+  <content contentuid="habbfee80ged9bg3ca1g43a4g4957bc034d6c" version="1">Mangled Arcuate</content>
+  <content contentuid="h88921a98g66e7g47d0gb4f1g8fa37fb3fde4" version="1">Mangled Jaw L</content>
+  <content contentuid="h902e7089g92c2ge39agae20g0ae684e1c6a1" version="1">Mangled Jaw R</content>
+  <content contentuid="hc18be7a7g59a6g5ba1g0258g55af4c0f176f" version="1">Mangled Jaw L Chipped</content>
+  <content contentuid="hf7d4f6d1gfaedgef18gbcc2g40b518147c42" version="1">Mangled Jaw R Chipped</content>
+  <content contentuid="h7e669fd4g9d46gf4c7gf7e6g3fb591617b84" version="1">Mangled Jaw Short L</content>
+  <content contentuid="hca622c8cga859gc622gce18g680a7215a575" version="1">Mangled Jaw Short R</content>
+  <content contentuid="hd2f33c63g22d1gca55g439eg0db1d1c89eaa" version="1">Crystal Crown</content>
+  <content contentuid="h5366f318g7080g90d4gbccega171c36dcb50" version="1">Obsidian Crown</content>
+  <content contentuid="h546dc607gbc76g817egc01cg0a2884e6c010" version="1">Sapphire Crown</content>
+  <content contentuid="h8bf3d7f1g3ca2g1addg0a67gd53c616924f3" version="1">Emerald Crown</content>
+  <content contentuid="h0b83ed40g01a5gcbfcg3a65g151c54165104" version="1">Honey Topaz Crown</content>
+  <content contentuid="h3f658b79g24bdg63ddgc6b2g32f5fe2d7d8a" version="1">Blood Crown</content>
+  <content contentuid="hf5ceaa10gd1e5g0cffgbddbgfbed30fcb31d" version="1">Amethyst Crown</content>
+  <content contentuid="h95b0a1f6g650cg6d12g135dg026a6c87128f" version="1">Topaz Crown</content>
+  <content contentuid="h9b096767g99a1g78d7ga40ag81b14ea363a5" version="1">Crystal Jaw</content>
+  <content contentuid="hbff9e9e8g960ag6614gd75cg5b7c60ff6c1e" version="1">Obsidian Jaw</content>
+  <content contentuid="h7f3881d9g71ddg9da9g9f73gdc16d50bd95d" version="1">Sapphire Jaw</content>
+  <content contentuid="h58c1c7a6ga9a3ga5bagf561gab8d0892612a" version="1">Emerald Jaw</content>
+  <content contentuid="hf713c8edge587g635dge956g31c2cc851efe" version="1">Honey Topaz Jaw</content>
+  <content contentuid="h12a56539g51e5g31afg44b5g3ac13d0f1cc8" version="1">Blood Jaw</content>
+  <content contentuid="hf281aca7g6f21gaf65g6020g7ce99347d34f" version="1">Amethyst Jaw</content>
+  <content contentuid="hd0783efbg1c6bg986dg93e0gee10d229e60a" version="1">Topaz Jaw</content>
 </contentList>
