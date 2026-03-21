@@ -447,7 +447,7 @@
   <content contentuid="h8c1d1050g1d15gdd49gef45gd9d8b30c0538" version="2">Slayer Clean Horns</content>
   <content contentuid="hf52b1f93g3d7bgf2b9g292dgded2de423330" version="2">Slayer Broken L Horns</content>
   <content contentuid="h37c4cfccg4cf2g03dfg6ff4g419ce477c5da" version="2">Slayer Broken R Horns</content>
-  <content contentuid="h4bf5f6bdg462eg7b00g220fg41b69abdea33" version="1">Inverse Crown Small</content>
+  <content contentuid="h4bf5f6bdg462eg7b00g220fg41b69abdea33" version="2">Inverse Crown Short</content>
   <content contentuid="h61207052g81a3gfd11gbe03g415c2bbf2cdd" version="1">Inverse Crown Small</content>
   <content contentuid="h68ab4c94g575dg497cgaa47g95c136d8386e" version="1">Slayer Clean</content>
   <content contentuid="h64bdf18ag5a0cge342ge60agbc2da8bcee78" version="1">Slayer Broken L</content>
@@ -2667,4 +2667,39 @@
   <content contentuid="hf2a23363g08cfg82d8gd145g2beae7f025e8" version="1">Luskan Plume</content>
   <content contentuid="h0b7b5aadg8602g2b4egf046g4a43fcb3257b" version="1">Luskan Plume</content>
   <content contentuid="hb05ffe48g2d00g60f3gd95dgf443bffcefcb" version="1">Luskan Plume</content>
+  <content contentuid="he6b7b023g3773g65c1g4ba4g044b66ca282b" version="1">Jaws of Ruin Short</content>
+  <content contentuid="h2975895bg7f08g7230g6447ga68cd39429c4" version="1">Jaws of Ruin Short</content>
+  <content contentuid="h02cf1c13gd4dag604cg14f6g7e252886fb8c" version="1">Jaws of Ruin Short</content>
+  <content contentuid="hc3aeb21agaf34g5937g5860g9108a518436f" version="1">Jaws of Ruin Short</content>
+  <content contentuid="h62135516gc483g9bcagf3d1g92d51e64e898" version="1">Jaws of Ruin Short</content>
+  <content contentuid="h27cf1742g71b2g4c76g7a60g13a13e7e6245" version="1">Jaws of Ruin Short</content>
+  <content contentuid="h28748a9bgcc26g213eg11fag5d404a44ad33" version="1">Concise Strength Short</content>
+  <content contentuid="haa240f57g6623g2f25g9f8cg8c6a29765b93" version="1">Concise Strength Short</content>
+  <content contentuid="haab31712gad78g0cefgb40dg3e347abf9da7" version="1">Concise Strength Short</content>
+  <content contentuid="h9bba8388ga735g6168g887cg8ca7ee30eb9e" version="1">Concise Strength Short</content>
+  <content contentuid="hf88343eeg5b03g0335g4930g426f578b66e5" version="1">Concise Strength Short</content>
+  <content contentuid="h55c66307g609bg9904gf246g60e39ac0aca0" version="1">Concise Strength Short</content>
+  <content contentuid="hb16cecffg4eb6g2d10g8152g6e43ab94d512" version="1">Nest o' Needles Short</content>
+  <content contentuid="hffac3196g44bfg5dadgb8d1g60b622254f29" version="1">Nest o' Needles Short</content>
+  <content contentuid="hb89a5260gfecega7c0g2650g0a4cad9634c1" version="1">Nest o' Needles Short</content>
+  <content contentuid="heacd889bg21e4g8cd2gde0fgb485493a4922" version="1">Nest o' Needles Short</content>
+  <content contentuid="haad8b91dg8084g2a24g722bgec7c53452129" version="1">Nest o' Needles Short</content>
+  <content contentuid="h4c3d8402g098ag439dg2ac7gcee0844b8b62" version="1">Nest o' Needles Short</content>
+  <content contentuid="hf8ac7a0cg7523gbc1egf1f5gc2c47b6523f4" version="1">Dragonglass Short</content>
+  <content contentuid="hfa6e48f9g4617g2eb4g0513gf855ffebfe41" version="1">Dragonglass Short</content>
+  <content contentuid="hc65271b6gaab1g3203g9b56gc4bde11abe3b" version="1">Dragonglass Short</content>
+  <content contentuid="h30c83a45g5094g4841gb58dg0946c1fa4685" version="1">Dragonglass Short</content>
+  <content contentuid="he957f121gdc61g6edeg6795gd155e5b9bcc3" version="1">Dragonglass Short</content>
+  <content contentuid="h1ef82e50ga81dg22d9g4275g28f9580beb86" version="1">Dragonglass Short</content>
+  <content contentuid="h58623eddge3d5g77d5ga78dg05e4154bb91c" version="1">Royal Plateau Short</content>
+  <content contentuid="hd5748700g9b46gd473gfb95g1df3b3231463" version="1">Royal Plateau Short</content>
+  <content contentuid="h85ed24c5ga71dgfcb1g2e35gd37ea40901aa" version="1">Royal Plateau Short</content>
+  <content contentuid="h2b18831eg427agc2aegf2a1g2fbac85216dc" version="1">Royal Plateau Short</content>
+  <content contentuid="h21aae3b1g86e0g3cc1g338bgee3362cd0965" version="1">Royal Plateau Short</content>
+  <content contentuid="ha054995bg77e7g3229g6f2dg586b8bdaa3e2" version="1">Royal Plateau Short</content>
+  <content contentuid="h60ebe23ege6e9gdbd0gb01fge93cf4c354c6" version="1">Inverse Crown Short</content>
+  <content contentuid="h16463846g7be7gdf40g1e82g82a8340534da" version="1">Inverse Crown Short</content>
+  <content contentuid="hef257cc9g86f7gf930g79a4gfcf8e59954f2" version="1">Inverse Crown Short</content>
+  <content contentuid="h79816c9dg6f6fg6dbag4b8cgd2084f939b80" version="1">Inverse Crown Short</content>
+  <content contentuid="h1d2cbbedgc4b7gced8gfb5agd9892d7e8291" version="1">Inverse Crown Short</content>
 </contentList>
