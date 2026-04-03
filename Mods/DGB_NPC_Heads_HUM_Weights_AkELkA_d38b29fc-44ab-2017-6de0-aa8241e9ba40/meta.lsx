@@ -157,7 +157,7 @@
                             <attribute id="Name" type="LSString" value="Rathgor - Reforged head - Dark Urge Dragonborn CC"/>
                             <attribute id="PublishHandle" type="uint64" value="4411261"/>
                             <attribute id="UUID" type="guid" value="56bee93d-ecd1-4680-cca1-44ee52514b9c"/>
-                            <attribute id="Version64" type="int64" value="36028797018963980"/>
+                            <attribute id="Version64" type="int64" value="36028797018963982"/>
                         </node>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="Durges_mangled_head_3060ca1e-6a6a-079e-e999-7398f55bee4b"/>
@@ -174,14 +174,6 @@
                             <attribute id="PublishHandle" type="uint64" value="4379271"/>
                             <attribute id="UUID" type="guid" value="7a8d7a63-07c7-819b-9a00-49a887367d81"/>
                             <attribute id="Version64" type="int64" value="36028797018963993"/>
-                        </node>
-                        <node id="ModuleShortDesc">
-                            <attribute id="Folder" type="LSString" value="DMH_Pearl_a27c9903-5a2d-0444-475c-797e0c6812da"/>
-                            <attribute id="MD5" type="LSString" value="c81b287bd211af7b7ba94a5b6237fae9"/>
-                            <attribute id="Name" type="LSString" value="DMH Assets Pearl- Dark Urge Dragonborn CC"/>
-                            <attribute id="PublishHandle" type="uint64" value="4434020"/>
-                            <attribute id="UUID" type="guid" value="a27c9903-5a2d-0444-475c-797e0c6812da"/>
-                            <attribute id="Version64" type="int64" value="36028797018963973"/>
                         </node>
                     </children>
                 </node>
