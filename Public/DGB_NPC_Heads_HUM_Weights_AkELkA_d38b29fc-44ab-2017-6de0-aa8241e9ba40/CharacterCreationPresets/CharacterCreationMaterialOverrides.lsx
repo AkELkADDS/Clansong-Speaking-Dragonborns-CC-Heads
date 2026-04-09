@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="CharacterCreationMaterialOverrides">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Head_E_Reforged_Broken_R_Tattoo_Minsc"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="ba822494-1b53-b6b7-4e1d-16e905705302"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="059fe77a-59ed-4be9-64d1-7da67c5b5daa"/>
+                    <attribute id="UUID" type="guid" value="9c7134a6-ad4a-44e5-b368-966981fa8ac7"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
